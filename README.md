@@ -149,7 +149,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
  
  
  
-### Advanced Topics
+### Java Features
 
 ### Java 8 Features
 
@@ -201,6 +201,51 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **How does Java 11 enhance the Optional class with methods like isEmpty()?**
 * **What are the deprecated and removed features in Java 11?**
 * **How does the new Z Garbage Collector (ZGC) work in Java 11?**
+
+
+
+* **What new string methods were introduced in Java 11, such as isBlank(), lines(), strip(), and repeat()?**
+* **How does Java 11 enhance the Optional class with the isEmpty() method?**
+* **What are the benefits of the new var usage in lambda expressions in Java 11?**
+* **How has the String class been optimized for Unicode code points in Java 11?**
+* **What are the advantages of the Files.writeString() and Files.readString() methods introduced in Java 11?**
+
+ 
+* **How does Java 11 improve garbage collection with the Epsilon Garbage Collector?**
+* **What is the purpose of the No-Op garbage collector, and when should it be used?**
+* **How does Java 11 enhance runtime performance with JEP 318 (AOT Compilation)?**
+* **What is the impact of flight recorder events in diagnosing runtime performance issues in Java 11?**
+* **How do TLS 1.3 enhancements improve security and performance in Java 11 applications?**
+
+
+* **How does the new HttpClient API introduced in Java 11 compare to third-party libraries like Apache HttpClient or OkHttp?**
+* **What are the key methods of the Java 11 HttpClient, and how do they simplify HTTP requests?**
+* **How can you use HttpClient to send asynchronous HTTP requests in Java 11?**
+* **What are the benefits of handling WebSockets with the HttpClient API in Java 11?**
+* **How does the BodyHandler API in Java 11 support advanced response handling?**
+
+
+* **How does Java 11 improve the default cryptographic algorithms and providers?**
+* **What changes were made to key and certificate management in Java 11?**
+* **How do you configure the new keystore types introduced in Java 11 for enhanced security?**
+* **What is the impact of deprecating weak cryptographic algorithms in Java 11?**
+* **How does the KeyAgreement class enhance cryptographic operations in Java 11?**
+
+
+* **What major APIs were deprecated or removed in Java 11, and what are their alternatives?**
+* **How has the removal of JavaFX from the JDK affected developers using Java 11?**
+* **Why was java.se.ee module removed in Java 11, and what is the impact on enterprise applications?**
+* **What steps must be taken to migrate applications that rely on deprecated Java 8 APIs to Java 11?**
+* **How has the removal of JNLP and WebStart impacted Java-based web applications?**
+
+ 
+* **What are the key enhancements made to the Collections API in Java 11?**
+* **How can you use the new Predicate.not() method to simplify filtering logic in Java 11?**
+* **What updates were introduced to the Process API in Java 11?**
+* **How does the Java 11 licensing model differ from earlier versions, and what is its impact on businesses?**
+* **How does Java 11 improve internationalization and localization with Unicode and charset updates?**
+	
+	
 
 ### Java 12 Features
 
@@ -344,6 +389,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What is the impact of improvements to the ZGC in Java 23, especially for large heap applications?**
 * **How do finalized Record Patterns simplify data deconstruction and pattern matching in Java 23?**
 	
+### Advanced Topics
 
 ### Java Memory Management
 
