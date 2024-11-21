@@ -21,13 +21,14 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 1. **Java Fundamentals** – Core concepts, object-oriented principles, collections, concurrency, and more.
 2. **Java Features** - Features of Java 8 to Java 23
 3. **Advanced Topics** - Java Memory Management, Concurrency and Multithreading Enhancements, Streams and Functional Programming and more.
-4. **Design pattern** - Singleton, Factory, Adapter, Observer and many more.  
+4. **Design Pattern** - Singleton, Factory, Adapter, Observer and many more.  
 5. **Spring Framework** – Dependency injection, AOP, common annotations, and core Spring features.
 6. **Spring Boot** – Basics, Spring Data JPA, actuator, and configurations.
 7. **REST API** – Principles of REST, HTTP methods, security, and versioning.
 8. **Web Services** – SOAP vs. REST, XML vs. JSON, and WSDL.
 9. **Database** – SQL, transactions, indexing, and optimization techniques.
 10. **Deployment** – CI/CD, Docker, and cloud deployment basics.
+
 
 
 ## Java Fundamentals
@@ -460,7 +461,33 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What are some commonly used patterns in the Spring framework?**
 * **What are anti-patterns, and why should they be avoided?**
 
-	
+## Design Pattern
+
+Coming soon ..
+
+## Spring Framework
+
+Coming soon ..
+
+## Spring Boot
+
+Coming soon ..
+
+## REST API
+
+Coming soon ..
+
+## Web Services
+
+Coming soon ..
+
+## Database 
+
+Coming soon ..
+
+## Deployment
+
+Coming soon ..	
 
 
 ## How to Use This Repository
