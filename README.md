@@ -153,250 +153,250 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 
 ### Java 8 Features
 
-    What are the key features introduced in Java 8?
-    Explain the concept of functional interfaces. Provide examples.
-    What is a default method in an interface? Why was it introduced in Java 8?
-    How do streams work in Java? What are their advantages?
-    What is the difference between parallelStream() and stream()?
-    What is the purpose of the reduce() method in Java Streams?
-    How can you filter a collection using Streams?
-    What are the main differences between Optional.of(), Optional.empty(), and Optional.ofNullable()?
-    How do you handle null values using the Optional class?
-    What is the significance of the Collectors.toList() method in Java Streams?
+* **What are the key features introduced in Java 8?**
+* **Explain the concept of functional interfaces. Provide examples.**
+* **What is a default method in an interface? Why was it introduced in Java 8?**
+* **How do streams work in Java? What are their advantages?**
+* **What is the difference between parallelStream() and stream()?**
+* **What is the purpose of the reduce() method in Java Streams?**
+* **How can you filter a collection using Streams?**
+* **What are the main differences between Optional.of(), Optional.empty(), and Optional.ofNullable()?**
+* **How do you handle null values using the Optional class?**
+* **What is the significance of the Collectors.toList() method in Java Streams?**
 
 ### Java 9 Features
 
-    What are modules in Java 9? Explain their importance.
-    How does the JShell tool work, and why is it useful?
-    What is the purpose of the private methods in interfaces introduced in Java 9?
-    What is the Process API in Java 9, and how is it used?
-    Explain the concept of reactive streams introduced in Java 9.
-    What is the difference between the Platform Class Loader and the Bootstrap Class Loader in Java 9?
-    How does the Optional.ifPresentOrElse() method work?
-    What are factory methods for collections in Java 9? Provide examples.
-    What is the difference between a Module and a Package in Java 9?
-    How do you migrate a legacy Java application to a modular application?
+* **What are modules in Java 9? Explain their importance.**
+* **How does the JShell tool work, and why is it useful?**
+* **What is the purpose of the private methods in interfaces introduced in Java 9?**
+* **What is the Process API in Java 9, and how is it used?**
+* **Explain the concept of reactive streams introduced in Java 9.**
+* **What is the difference between the Platform Class Loader and the Bootstrap Class Loader in Java 9?**
+* **How does the Optional.ifPresentOrElse() method work?**
+* **What are factory methods for collections in Java 9? Provide examples.**
+* **What is the difference between a Module and a Package in Java 9?**
+* **How do you migrate a legacy Java application to a modular application?**
 
 
  
- Java 10 Features
+### Java 10 Features
 
-    What is the var keyword in Java 10, and how does it work?
-    What are the limitations of using var in Java?
-    Can you use var for lambda expressions? Why or why not?
-    How does the Optional.orElseThrow() method differ from get()?
-    What are the enhancements made to the Collectors API in Java 10?
-    Explain the improvements to garbage collection in Java 10.
-    What is the Application Class-Data Sharing (AppCDS) feature in Java 10?
+* **What is the var keyword in Java 10, and how does it work?**
+* **What are the limitations of using var in Java?**
+* **Can you use var for lambda expressions? Why or why not?**
+* **How does the Optional.orElseThrow() method differ from get()?**
+* **What are the enhancements made to the Collectors API in Java 10?**
+* **Explain the improvements to garbage collection in Java 10.**
+* **What is the Application Class-Data Sharing (AppCDS) feature in Java 10?**
 
-Java 11 Features
+### Java 11 Features
 
-    What are the new features introduced in Java 11?
-    What is the purpose of the HttpClient API in Java 11? How does it differ from HttpURLConnection?
-    What is the var keyword's scope with lambda parameters in Java 11?
-    How do you create a single-file program using Java 11?
-    What is the isBlank() method in the String class? How does it differ from isEmpty()?
-    What is the lines() method in the String class? Provide an example.
-    What are strip(), stripLeading(), and stripTrailing() methods in String?
-    How does Java 11 enhance the Optional class with methods like isEmpty()?
-    What are the deprecated and removed features in Java 11?
-    How does the new Z Garbage Collector (ZGC) work in Java 11?
+* **What are the new features introduced in Java 11?**
+* **What is the purpose of the HttpClient API in Java 11? How does it differ from HttpURLConnection?**
+* **What is the var keyword's scope with lambda parameters in Java 11?**
+* **How do you create a single-file program using Java 11?**
+* **What is the isBlank() method in the String class? How does it differ from isEmpty()?**
+* **What is the lines() method in the String class? Provide an example.**
+* **What are strip(), stripLeading(), and stripTrailing() methods in String?**
+* **How does Java 11 enhance the Optional class with methods like isEmpty()?**
+* **What are the deprecated and removed features in Java 11?**
+* **How does the new Z Garbage Collector (ZGC) work in Java 11?**
 
-Java 12 Features
+### Java 12 Features
 
-    What is the purpose of the switch expressions introduced in Java 12?
-    How does the yield keyword work in switch expressions?
-    What is the Compact Number Formatting introduced in Java 12?
-    What is the JVM Constants API introduced in Java 12?
-    How does the new G1 Garbage Collector optimization in Java 12 improve performance?
-    What are Microbenchmarking enhancements in Java 12?
-    What changes have been made to the default GC in Java 12?
-    What are the preview features introduced in Java 12?
+* **What is the purpose of the switch expressions introduced in Java 12?**
+* **How does the yield keyword work in switch expressions?**
+* **What is the Compact Number Formatting introduced in Java 12?**
+* **What is the JVM Constants API introduced in Java 12?**
+* **How does the new G1 Garbage Collector optimization in Java 12 improve performance?**
+* **What are Microbenchmarking enhancements in Java 12?**
+* **What changes have been made to the default GC in Java 12?**
+* **What are the preview features introduced in Java 12?**
 
-Java 13 Features
+### Java 13 Features
 
-    What are Text Blocks, and how do they simplify working with strings?
-    How can you use escape sequences within text blocks in Java 13?
-    What is the Reimplementation of the Legacy Socket API in Java 13?
-    Explain the enhancements made to the Garbage Collection in Java 13.
-    What are the improvements to dynamic class-file constants in Java 13?
-    How does the Switch Expressions enhancement from Java 12 evolve in Java 13?
-    What is the significance of multiline string literals?
+* **What are Text Blocks, and how do they simplify working with strings?**
+* **How can you use escape sequences within text blocks in Java 13?**
+* **What is the Reimplementation of the Legacy Socket API in Java 13?**
+* **Explain the enhancements made to the Garbage Collection in Java 13.**
+* **What are the improvements to dynamic class-file constants in Java 13?**
+* **How does the Switch Expressions enhancement from Java 12 evolve in Java 13?**
+* **What is the significance of multiline string literals?**
 
-Java 14 Features
+### Java 14 Features
 
-    What is Pattern Matching for instanceof introduced in Java 14?
-    How does the instanceof operator work with type inference in Java 14?
-    What are Records introduced in Java 14, and how are they used?
-    How do Records help in reducing boilerplate code?
-    What is the purpose of the Helpful NullPointerExceptions feature in Java 14?
-    How has the JVM been optimized for garbage collection in Java 14?
-    What is the Foreign-Memory Access API introduced in Java 14?
-    Explain the preview features introduced in Java 14.
+* **What is Pattern Matching for instanceof introduced in Java 14?**
+* **How does the instanceof operator work with type inference in Java 14?**
+* **What are Records introduced in Java 14, and how are they used?**
+* **How do Records help in reducing boilerplate code?**
+* **What is the purpose of the Helpful NullPointerExceptions feature in Java 14?**
+* **How has the JVM been optimized for garbage collection in Java 14?**
+* **What is the Foreign-Memory Access API introduced in Java 14?**
+* **Explain the preview features introduced in Java 14.**
 
-Java 15 Features
+### Java 15 Features
 
-    What are Sealed Classes, and how do they enhance inheritance?
-    How do you define and use a sealed class in Java 15?
-    What is the Hidden Classes feature introduced in Java 15?
-    What are the benefits of ZGC Improvements in Java 15?
-    What is the new Text Block API in Java 15?
-    What is the significance of the Edwards-Curve Digital Signature Algorithm (EdDSA) introduced in Java 15?
-    How does Java 15 improve upon Pattern Matching introduced in earlier versions?
-    What are the changes to deprecated features in Java 15?
+* **What are Sealed Classes, and how do they enhance inheritance?**
+* **How do you define and use a sealed class in Java 15?**
+* **What is the Hidden Classes feature introduced in Java 15?**
+* **What are the benefits of ZGC Improvements in Java 15?**
+* **What is the new Text Block API in Java 15?**
+* **What is the significance of the Edwards-Curve Digital Signature Algorithm (EdDSA) introduced in Java 15?**
+* **How does Java 15 improve upon Pattern Matching introduced in earlier versions?**
+* **What are the changes to deprecated features in Java 15?**
 
-Java 16 Features
+### Java 16 Features
 
-    What is the purpose of the jdk.incubator.vector module in Java 16?
-    What are Records, and how do they differ from regular classes?
-    How does the Strong Encapsulation of JDK Internals affect legacy code in Java 16?
-    What is the Foreign Linker API, and how is it used in Java 16?
-    What are the enhancements to Stream.toList() in Java 16?
-    How does the new Unix-Domain Socket Channels API work in Java 16?
-    What is the JEP 338: Vector API (Incubator) introduced in Java 16?
-    How does Java 16 optimize Garbage Collection and memory management?
+* **What is the purpose of the jdk.incubator.vector module in Java 16?**
+* **What are Records, and how do they differ from regular classes?**
+* **How does the Strong Encapsulation of JDK Internals affect legacy code in Java 16?**
+* **What is the Foreign Linker API, and how is it used in Java 16?**
+* **What are the enhancements to Stream.toList() in Java 16?**
+* **How does the new Unix-Domain Socket Channels API work in Java 16?**
+* **What is the JEP 338: Vector API (Incubator) introduced in Java 16?**
+* **How does Java 16 optimize Garbage Collection and memory management?**
 
-Java 17 Features
+### Java 17 Features
 
-    What are the new features introduced in Java 17?
-    What is the significance of the Sealed Classes feature finalized in Java 17?
-    How does the Pattern Matching for Switch preview feature work in Java 17?
-    What are the JEP 382: New macOS Rendering Pipeline improvements in Java 17?
-    What is the new Foreign Function & Memory API introduced in Java 17?
-    How has the deprecation of the Applet API impacted Java 17?
-    What is the macOS AArch64 Port introduced in Java 17?
-    How does Java 17 improve the ZGC?
+* **What are the new features introduced in Java 17?**
+* **What is the significance of the Sealed Classes feature finalized in Java 17?**
+* **How does the Pattern Matching for Switch preview feature work in Java 17?**
+* **What are the JEP 382: New macOS Rendering Pipeline improvements in Java 17?**
+* **What is the new Foreign Function & Memory API introduced in Java 17?**
+* **How has the deprecation of the Applet API impacted Java 17?**
+* **What is the macOS AArch64 Port introduced in Java 17?**
+* **How does Java 17 improve the ZGC?**
 
-Java 18 Features
+### Java 18 Features
 
-    What is the purpose of the Simple Web Server introduced in Java 18?
-    How does the UTF-8 as Default Charset change affect Java applications in Java 18?
-    What are the updates to the Vector API (Second Incubator) in Java 18?
-    Explain the Code Snippets feature for documentation in Java 18.
-    What is the @snippet tag, and how is it used in Java 18?
-    What are the memory management improvements in Java 18?
+* **What is the purpose of the Simple Web Server introduced in Java 18?**
+* **How does the UTF-8 as Default Charset change affect Java applications in Java 18?**
+* **What are the updates to the Vector API (Second Incubator) in Java 18?**
+* **Explain the Code Snippets feature for documentation in Java 18.**
+* **What is the @snippet tag, and how is it used in Java 18?**
+* **What are the memory management improvements in Java 18?**
 
-Java 19 Features
+### Java 19 Features
 
-    What is the Virtual Threads feature introduced in Java 19?
-    How do Virtual Threads differ from traditional threads?
-    Explain the Structured Concurrency API introduced in Java 19.
-    What are Record Patterns, and how are they used in Java 19?
-    How has the Foreign Function & Memory API evolved in Java 19?
-    What are the third-incubator updates to the Vector API in Java 19?
+* **What is the Virtual Threads feature introduced in Java 19?**
+* **How do Virtual Threads differ from traditional threads?**
+* **Explain the Structured Concurrency API introduced in Java 19.**
+* **What are Record Patterns, and how are they used in Java 19?**
+* **How has the Foreign Function & Memory API evolved in Java 19?**
+* **What are the third-incubator updates to the Vector API in Java 19?**
 
-Java 20 Features
+### Java 20 Features
 
-    What are the enhancements to Pattern Matching for Switch in Java 20?
-    Explain the updates to Record Patterns in Java 20.
-    How does Java 20 improve Scoped Values for thread-local variables?
-    What is the role of the Foreign Function and Memory API in Java 20?
-    How do new concurrency models introduced in Java 20 improve performance?
+* **What are the enhancements to Pattern Matching for Switch in Java 20?**
+* **Explain the updates to Record Patterns in Java 20.**
+* **How does Java 20 improve Scoped Values for thread-local variables?**
+* **What is the role of the Foreign Function and Memory API in Java 20?**
+* **How do new concurrency models introduced in Java 20 improve performance?**
 
-Java 21 Features
+### Java 21 Features
 
-    What is JEP 444: Virtual Threads introduced in Java 21?
-    Explain the finalized Structured Concurrency in Java 21.
-    What are Scoped Values, and how do they differ from thread-local variables?
-    How do Record Patterns simplify data extraction in Java 21?
-    Explain String Templates in Java 21 and their advantages.
-    What are Sequenced Collections, and how do they differ from traditional collections?
-    What is the significance of finalized Pattern Matching for Switch in Java 21?
-    How does Java 21 optimize Garbage Collection further?
-    What are the security enhancements introduced in Java 21?
+* **What is JEP 444: Virtual Threads introduced in Java 21?**
+* **Explain the finalized Structured Concurrency in Java 21.**
+* **What are Scoped Values, and how do they differ from thread-local variables?**
+* **How do Record Patterns simplify data extraction in Java 21?**
+* **Explain String Templates in Java 21 and their advantages.**
+* **What are Sequenced Collections, and how do they differ from traditional collections?**
+* **What is the significance of finalized Pattern Matching for Switch in Java 21?**
+* **How does Java 21 optimize Garbage Collection further?**
+* **What are the security enhancements introduced in Java 21?**
 	
 
-Java 22 Questions:
+### Java 22 Questions:
 
-    What is the purpose of the "Statements Before super() or this()" feature introduced in Java 22, and how does it improve constructor logic?
-    How does the "Stream Gatherers" feature extend the capabilities of the Stream API?
-    What are the changes in garbage collection with the introduction of "Region Pinning for G1" in Java 22?
-    How does Java 22 enhance support for Unicode, and what version does it support?
-    What are the benefits of the Foreign Function & Memory API, finalized in Java 22?
-	How do "Stream Gatherers" simplify complex stream operations compared to traditional methods?
-What are the use cases for executing statements before calling super() in Java 22 constructors?
-How does Java 22 enhance the performance and flexibility of the G1 Garbage Collector with region pinning?
-What are the differences between the previous version of the Foreign Function & Memory API and the finalized version in Java 22?
-How has the Z Garbage Collector (ZGC) been optimized in Java 22?
-What are the benefits of Unicode 15.0 support in Java 22, and how does it affect character handling?
-What improvements have been made to platform thread-local handshakes in Java 22?
-How does Java 22 handle default charset encoding updates, and what are its implications?
-What enhancements have been introduced for modularity with improved JDK internals in Java 22?
-How can the "Scoped Memory Access API" improve native memory interactions in Java 22?
+* **What is the purpose of the "Statements Before super() or this()" feature introduced in Java 22, and how does it improve constructor logic?**
+* **How does the "Stream Gatherers" feature extend the capabilities of the Stream API?**
+* **What are the changes in garbage collection with the introduction of "Region Pinning for G1" in Java 22?**
+* **How does Java 22 enhance support for Unicode, and what version does it support?**
+* **What are the benefits of the Foreign Function & Memory API, finalized in Java 22?**
+* **How do "Stream Gatherers" simplify complex stream operations compared to traditional methods?**
+* **What are the use cases for executing statements before calling super() in Java 22 constructors?**
+* **How does Java 22 enhance the performance and flexibility of the G1 Garbage Collector with region pinning?**
+* **What are the differences between the previous version of the Foreign Function & Memory API and the finalized version in Java 22?**
+* **How has the Z Garbage Collector (ZGC) been optimized in Java 22?**
+* **What are the benefits of Unicode 15.0 support in Java 22, and how does it affect character handling?**
+* **What improvements have been made to platform thread-local handshakes in Java 22?**
+* **How does Java 22 handle default charset encoding updates, and what are its implications?**
+* **What enhancements have been introduced for modularity with improved JDK internals in Java 22?**
+* **How can the "Scoped Memory Access API" improve native memory interactions in Java 22?**
 
 
 
-Java 23 Questions:
+### Java 23 Questions:
 
-    What is the significance of importing entire modules using import module in Java 23?
-    How does Java 23 improve the alignment of array elements for better memory utilization?
-    What new capabilities are introduced in Java 23 for Scoped Values?
-    How does the new primitive type patterns feature extend pattern matching in Java 23?
-    What are the advantages of the changes made to the Z Garbage Collector in Java 23?
-	What are the benefits of the new "Import Module" syntax in Java 23 for modular applications?
-How does alignment of array elements affect performance in Java 23, and what scenarios benefit from this?
-What improvements were made to the Scoped Values API in Java 23, and how does it relate to thread-local variables?
-How do "Primitive Type Patterns" enhance pattern matching in Java 23?
-What are the key changes in string interpolation introduced in Java 23, and how does it impact code readability?
-How does Java 23 support sequenced collections, and what are the primary use cases?
-What enhancements have been made to the Foreign Function & Memory API in Java 23?
-How does Java 23 improve startup and runtime performance for native threads?
-What is the impact of improvements to the ZGC in Java 23, especially for large heap applications?
-How do finalized Record Patterns simplify data deconstruction and pattern matching in Java 23?
+* **What is the significance of importing entire modules using import module in Java 23?**
+* **How does Java 23 improve the alignment of array elements for better memory utilization?**
+* **What new capabilities are introduced in Java 23 for Scoped Values?**
+* **How does the new primitive type patterns feature extend pattern matching in Java 23?**
+* **What are the advantages of the changes made to the Z Garbage Collector in Java 23?**
+* **What are the benefits of the new "Import Module" syntax in Java 23 for modular applications?**
+* **How does alignment of array elements affect performance in Java 23, and what scenarios benefit from this?**
+* **What improvements were made to the Scoped Values API in Java 23, and how does it relate to thread-local variables?**
+* **How do "Primitive Type Patterns" enhance pattern matching in Java 23?**
+* **What are the key changes in string interpolation introduced in Java 23, and how does it impact code readability?**
+* **How does Java 23 support sequenced collections, and what are the primary use cases?**
+* **What enhancements have been made to the Foreign Function & Memory API in Java 23?**
+* **How does Java 23 improve startup and runtime performance for native threads?**
+* **What is the impact of improvements to the ZGC in Java 23, especially for large heap applications?**
+* **How do finalized Record Patterns simplify data deconstruction and pattern matching in Java 23?**
 	
 
-Java Memory Management
+### Java Memory Management
 
-    What is the role of the garbage collector in Java?
-    What are the types of garbage collectors available in Java?
-    Explain the concept of reference types in Java: strong, weak, soft, and phantom references.
-    What is the purpose of the finalize() method, and why is it discouraged?
-    How does the G1 garbage collector work?
-    What are memory leaks in Java, and how can they be prevented?
-    Explain the concept of memory tuning using JVM options.
-    What is the difference between Heap and Metaspace memory in Java?
-    How does Java handle large object allocation?
-    What are the effects of running out of stack memory in Java?
+* **What is the role of the garbage collector in Java?**
+* **What are the types of garbage collectors available in Java?**
+* **Explain the concept of reference types in Java: strong, weak, soft, and phantom references.**
+* **What is the purpose of the finalize() method, and why is it discouraged?**
+* **How does the G1 garbage collector work?**
+* **What are memory leaks in Java, and how can they be prevented?**
+* **Explain the concept of memory tuning using JVM options.**
+* **What is the difference between Heap and Metaspace memory in Java?**
+* **How does Java handle large object allocation?**
+* **What are the effects of running out of stack memory in Java?**
 	
 
-Concurrency and Multithreading Enhancements
+### Concurrency and Multithreading Enhancements
 
-    What are CompletableFuture and CompletionStage in Java?
-    How does the Fork/Join Framework work in Java?
-    What is the difference between CountDownLatch and CyclicBarrier?
-    Explain the purpose of the Phaser class in Java.
-    How does the ThreadPoolExecutor class work?
-    What is the purpose of the Semaphore class in Java?
-    What are ReadWriteLock and its benefits?
-    How does the StampedLock class improve performance over traditional locks?
-    What is the difference between synchronized and Lock interfaces?
-    How does Java handle deadlock situations, and how can they be prevented?
+* **What are CompletableFuture and CompletionStage in Java?**
+* **How does the Fork/Join Framework work in Java?**
+* **What is the difference between CountDownLatch and CyclicBarrier?**
+* **Explain the purpose of the Phaser class in Java.**
+* **How does the ThreadPoolExecutor class work?**
+* **What is the purpose of the Semaphore class in Java?**
+* **What are ReadWriteLock and its benefits?**
+* **How does the StampedLock class improve performance over traditional locks?**
+* **What is the difference between synchronized and Lock interfaces?**
+* **How does Java handle deadlock situations, and how can they be prevented?**
 
-Streams and Functional Programming
+### Streams and Functional Programming
 
-    How does flatMap() differ from map() in Streams?
-    What are infinite streams, and how are they created in Java?
-    What are terminal operations in Streams? Provide examples.
-    Explain the concept of short-circuiting in Java Streams.
-    How do peek() and forEach() differ in Streams?
-    What are the limitations of Java Streams?
-    How can you convert a Stream into a collection or an array?
-    What are the performance implications of using Streams vs. loops?
-    What is a Collector in Java Streams, and how is it used?
-    How do you handle parallel processing using Streams?
+* **How does flatMap() differ from map() in Streams?**
+* **What are infinite streams, and how are they created in Java?**
+* **What are terminal operations in Streams? Provide examples.**
+* **Explain the concept of short-circuiting in Java Streams.**
+* **How do peek() and forEach() differ in Streams?**
+* **What are the limitations of Java Streams?**
+* **How can you convert a Stream into a collection or an array?**
+* **What are the performance implications of using Streams vs. loops?**
+* **What is a Collector in Java Streams, and how is it used?**
+* **How do you handle parallel processing using Streams?**
 
-Design Patterns in Java
+### Design Patterns in Java
 
-    What are the key design patterns used in Java?
-    Explain the Singleton design pattern and how to implement it in Java.
-    What is the Factory design pattern? Provide an example.
-    How does the Builder design pattern work?
-    What is the Observer pattern? Provide a real-world use case in Java.
-    How is the Dependency Injection pattern implemented in Java?
-    Explain the Adapter design pattern with an example.
-    What is the Decorator pattern, and how is it used in Java?
-    What are some commonly used patterns in the Spring framework?
-    What are anti-patterns, and why should they be avoided?
+* **What are the key design patterns used in Java?**
+* **Explain the Singleton design pattern and how to implement it in Java.**
+* **What is the Factory design pattern? Provide an example.**
+* **How does the Builder design pattern work?**
+* **What is the Observer pattern? Provide a real-world use case in Java.**
+* **How is the Dependency Injection pattern implemented in Java?**
+* **Explain the Adapter design pattern with an example.**
+* **What is the Decorator pattern, and how is it used in Java?**
+* **What are some commonly used patterns in the Spring framework?**
+* **What are anti-patterns, and why should they be avoided?**
 
 	
 
