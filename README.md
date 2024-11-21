@@ -192,53 +192,37 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 ### Java 11 Features
 
 * **What are the new features introduced in Java 11?**
-* **What is the purpose of the HttpClient API in Java 11? How does it differ from HttpURLConnection?**
-* **What is the var keyword's scope with lambda parameters in Java 11?**
 * **How do you create a single-file program using Java 11?**
 * **What is the isBlank() method in the String class? How does it differ from isEmpty()?**
 * **What is the lines() method in the String class? Provide an example.**
 * **What are strip(), stripLeading(), and stripTrailing() methods in String?**
 * **How does Java 11 enhance the Optional class with methods like isEmpty()?**
-* **What are the deprecated and removed features in Java 11?**
 * **How does the new Z Garbage Collector (ZGC) work in Java 11?**
-
-
-
 * **What new string methods were introduced in Java 11, such as isBlank(), lines(), strip(), and repeat()?**
 * **How does Java 11 enhance the Optional class with the isEmpty() method?**
 * **What are the benefits of the new var usage in lambda expressions in Java 11?**
 * **How has the String class been optimized for Unicode code points in Java 11?**
 * **What are the advantages of the Files.writeString() and Files.readString() methods introduced in Java 11?**
-
- 
 * **How does Java 11 improve garbage collection with the Epsilon Garbage Collector?**
 * **What is the purpose of the No-Op garbage collector, and when should it be used?**
 * **How does Java 11 enhance runtime performance with JEP 318 (AOT Compilation)?**
 * **What is the impact of flight recorder events in diagnosing runtime performance issues in Java 11?**
 * **How do TLS 1.3 enhancements improve security and performance in Java 11 applications?**
-
-
 * **How does the new HttpClient API introduced in Java 11 compare to third-party libraries like Apache HttpClient or OkHttp?**
 * **What are the key methods of the Java 11 HttpClient, and how do they simplify HTTP requests?**
 * **How can you use HttpClient to send asynchronous HTTP requests in Java 11?**
 * **What are the benefits of handling WebSockets with the HttpClient API in Java 11?**
 * **How does the BodyHandler API in Java 11 support advanced response handling?**
-
-
 * **How does Java 11 improve the default cryptographic algorithms and providers?**
 * **What changes were made to key and certificate management in Java 11?**
 * **How do you configure the new keystore types introduced in Java 11 for enhanced security?**
 * **What is the impact of deprecating weak cryptographic algorithms in Java 11?**
 * **How does the KeyAgreement class enhance cryptographic operations in Java 11?**
-
-
 * **What major APIs were deprecated or removed in Java 11, and what are their alternatives?**
 * **How has the removal of JavaFX from the JDK affected developers using Java 11?**
 * **Why was java.se.ee module removed in Java 11, and what is the impact on enterprise applications?**
 * **What steps must be taken to migrate applications that rely on deprecated Java 8 APIs to Java 11?**
 * **How has the removal of JNLP and WebStart impacted Java-based web applications?**
-
- 
 * **What are the key enhancements made to the Collections API in Java 11?**
 * **How can you use the new Predicate.not() method to simplify filtering logic in Java 11?**
 * **What updates were introduced to the Process API in Java 11?**
@@ -304,13 +288,42 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 ### Java 17 Features
 
 * **What are the new features introduced in Java 17?**
-* **What is the significance of the Sealed Classes feature finalized in Java 17?**
-* **How does the Pattern Matching for Switch preview feature work in Java 17?**
 * **What are the JEP 382: New macOS Rendering Pipeline improvements in Java 17?**
 * **What is the new Foreign Function & Memory API introduced in Java 17?**
 * **How has the deprecation of the Applet API impacted Java 17?**
 * **What is the macOS AArch64 Port introduced in Java 17?**
 * **How does Java 17 improve the ZGC?**
+* **What are sealed classes in Java 17, and how do they improve the control of class hierarchy?**
+* **What is the difference between sealed, non-sealed, and final classes in Java 17?**
+* **How does Java 17 enforce rules for permitted subclasses in sealed classes?**
+* **What are some practical use cases of sealed classes in real-world applications?**
+* **How do sealed classes interact with records and interfaces?**
+* **What changes were introduced in switch statements with pattern matching in Java 17?**
+* **How does pattern matching for switch improve type safety in Java 17?**
+* **Can you explain the use of the when keyword in pattern matching for switch statements?**
+* **How is pattern matching for switch backward-compatible with traditional switch statements?**
+* **What are the limitations of pattern matching for switch in Java 17?**
+* **How does Java 17 improve the performance of the G1 Garbage Collector?**
+* **What changes have been made to the Z Garbage Collector in Java 17?**
+* **How does the deprecation of RMI Activation in Java 17 affect distributed applications?**
+* **What improvements have been introduced in the JVM internals with JEP 356 (Enhanced Pseudo-Random Number Generators)?**
+* **How has Java 17 optimized thread-local garbage collection?**
+* **Which major features or tools were removed in Java 17, and why?**
+* **What is the impact of removing the Security Manager in Java 17?**
+* **How should developers handle the removal of Applets in Java 17?**
+* **Why was the experimental Ahead-of-Time (AOT) Compiler removed in Java 17?**
+* **What are the implications of removing older garbage collection algorithms like CMS in Java 17?**
+* **How does Java 17 enhance the Random class with new pseudo-random number generators?**
+* **What new utility methods were introduced in Java 17 for working with collections?**
+* **How do Stream.toList() and similar enhancements simplify stream operations in Java 17?**
+* **What improvements were made to the HttpClient API in Java 17?**
+* **How has the java.util.regex package been improved in Java 17?**
+* **What changes were introduced to records in Java 17, and how do they improve immutability?**
+* **How does Java 17 simplify text blocks and string manipulation?**
+* **What are the advantages of the new @snippet tag in Java documentation?**
+* **How does Java 17 improve native memory access with the Foreign Function & Memory API?**
+* **What are some key benefits of Java 17 as a long-term support (LTS) release for developers?**
+		
 
 ### Java 18 Features
 
