@@ -779,11 +779,271 @@ Barrier Pattern
 
 ## Spring Framework
 
-Coming soon ..
+### Core Spring Framework
 
-## Spring Boot
+* **What is the Spring Framework, and what are its main features?**
+* **What is Dependency Injection (DI) in Spring?**
+* **What are the types of Dependency Injection supported in Spring?**
+* **What is Inversion of Control (IoC)?**
+* **How does the Spring IoC container work?**
+* **What is the difference between BeanFactory and ApplicationContext?**
+* **How do you configure beans in Spring?**
+* **Explain the Spring bean lifecycle.**
+* **What are the different scopes of Spring beans?**
+* **What is a singleton bean, and how does it differ from a prototype bean?**
+* **How do you define bean dependencies in Spring?**
+* **What is the purpose of the @Bean annotation?**
+* **How does autowiring work in Spring?**
+* **What are the different types of autowiring in Spring?**
+* **What is the @Qualifier annotation used for?**
+* **How do you resolve circular dependencies in Spring?**
+* **What is Spring Expression Language (SpEL)?**
+* **How can you inject collections (List, Set, Map) in Spring?**
+* **What are profiles in Spring, and how are they used?**
+* **How do you enable a profile in Spring?**
+* **What is the purpose of the @Primary annotation?**
+* **What is the use of the @Lazy annotation in Spring?**
+* **What is the role of @Configuration in Spring?**
+* **Explain the difference between @Component, @Service, and @Repository.**
+* **What is a proxy object in Spring?**
+* **What is the role of the @Scope annotation?**
+* **How do you create a custom bean post-processor in Spring?**
+* **What is the purpose of the @DependsOn annotation?**
+* **How does Spring handle internationalization (i18n)?**
+* **How do you manage external properties in Spring applications?**
+* **What is the purpose of the PropertySourcesPlaceholderConfigurer?**
+* **How do you define static and dynamic properties in Spring?**
+* **What are Spring events, and how do you publish/subscribe to them?**
+* **What is a factory bean in Spring?**
+* **How do you programmatically register beans in Spring?**
+* **What is the difference between @Bean and @Component?**
+* **What is a stereotype annotation in Spring?**
+* **How do you handle exceptions at the global level in Spring?**
 
-Coming soon ..
+### Spring AOP
+
+* **What is Aspect-Oriented Programming (AOP)?**
+* **Explain the key concepts of AOP (Aspect, Advice, JoinPoint, Pointcut).**
+* **What are the different types of advice in Spring AOP?**
+* **How does AOP work internally in Spring?**
+* **What is the difference between Spring AOP and AspectJ?**
+* **What are the limitations of Spring AOP?**
+* **How do you create a custom aspect in Spring?**
+* **What is a proxy in AOP, and why is it used?**
+* **What is a pointcut expression in Spring AOP?**
+* **How do you apply AOP only to specific beans?**
+* **What is a JoinPoint in AOP?**
+* **How do you define an AfterReturning advice?**
+* **What is the role of @Aspect annotation?**
+* **How do you enable AOP in a Spring application?**
+* **What are the different AOP implementation techniques in Spring?**
+
+### Spring MVC
+
+* **What is Spring MVC?**
+* **Explain the architecture of Spring MVC.**
+* **What is the DispatcherServlet in Spring MVC?**
+* **How does DispatcherServlet work?**
+* **What are the components of a Spring MVC application?**
+* **How do you configure a Spring MVC application?**
+* **What is the role of @Controller in Spring MVC?**
+* **How does @RestController differ from @Controller?**
+* **What is a ModelAndView in Spring MVC?**
+* **What is the role of the @RequestMapping annotation?**
+* **How do you handle path variables in Spring MVC?**
+* **What is the purpose of the @PathVariable annotation?**
+* **How do you bind request parameters to method parameters?**
+* **How do you handle form data in Spring MVC?**
+* **What is a ViewResolver in Spring MVC?**
+* **How do you integrate Thymeleaf with Spring MVC?**
+* **How do you handle exceptions in Spring MVC?**
+* **What is the purpose of the @ExceptionHandler annotation?**
+* **How do you implement file upload in Spring MVC?**
+* **How do you use @SessionAttributes in Spring MVC?**
+* **What are handler interceptors in Spring MVC?**
+* **How do you implement a custom interceptor in Spring MVC?**
+* **What is the difference between @ModelAttribute and @RequestBody?**
+
+### Spring Boot
+
+* **What is Spring Boot?**
+* **What are the advantages of using Spring Boot?**
+* **What is the purpose of Spring Boot starters?**
+* **How does Spring Boot simplify dependency management?**
+* **What is the difference between application.properties and application.yml?**
+* **How does Spring Boot auto-configuration work?**
+* **What is the @SpringBootApplication annotation?**
+* **How do you create a RESTful web service in Spring Boot?**
+* **How do you enable CORS in Spring Boot?**
+* **How do you configure a database in Spring Boot?**
+* **What is Spring Boot Actuator?**
+* **How do you secure a Spring Boot application?**
+* **How do you configure logging in Spring Boot?**
+* **How does Spring Boot support scheduling?**
+* **What is the Spring Boot DevTools module?**
+* **How do you monitor a Spring Boot application?**
+* **What is a Spring Boot CLI?**
+* **How do you deploy a Spring Boot application?**
+* **What are Spring Boot profiles?**
+* **How do you configure a custom banner in Spring Boot?**
+* **What is the CommandLineRunner interface?**
+* **What is the difference between @RestController and @Controller in Spring Boot?**
+* **How do you handle exceptions in Spring Boot?**
+* **What is a Spring Boot Starter Parent?**
+
+### Spring Data
+
+* **What is Spring Data?**
+* **What is the difference between CrudRepository and JpaRepository?**
+* **How do you create custom queries in Spring Data JPA?**
+* **What is the purpose of @Query in Spring Data JPA?**
+* **How does pagination work in Spring Data?**
+* **How do you configure Spring Data JPA with Spring Boot?**
+* **What is the difference between Lazy and Eager loading in JPA?**
+* **How does Spring Data MongoDB work?**
+* **What are projections in Spring Data JPA?**
+* **What is the difference between EntityManager and Hibernate Session?**
+
+### Spring Security
+
+* **What is the role of UserDetails and GrantedAuthority in Spring Security? **
+* **What is the purpose of Spring Security?**
+* **What is the difference between authentication and authorization?**
+* **What is the role of the @EnableWebSecurity annotation?**
+* **How do you configure Spring Security using Java configuration?**
+* **What is the role of the UserDetailsService interface?**
+* **How does Spring Security handle user authentication?**
+* **What is the difference between AuthenticationManager and AuthorizationManager?**
+* **How do you configure custom authentication in Spring Security?**
+* **What is a Security Filter Chain in Spring Security?**
+* **How do you configure role-based access control in Spring Security?**
+* **How does Spring Security implement CSRF protection?**
+* **What is the purpose of the @PreAuthorize and @PostAuthorize annotations?**
+* **How do you enable method-level security in Spring Security?**
+* **What is the purpose of GrantedAuthority?**
+* **How do you configure password encoding in Spring Security?**
+* **How does Spring Security support OAuth2?**
+* **What is the difference between OAuth2 and JWT?**
+* **How do you configure a login form in Spring Security?**
+* **How does Spring Security handle session management?**
+* **How do you implement a remember-me feature in Spring Security?**
+* **What is the purpose of a SecurityContext?**
+* **How do you implement a custom security filter?**
+* **What is the difference between stateless and stateful security?**
+* **How do you secure RESTful web services in Spring Security?**
+* **How does Spring Security integrate with third-party authentication providers?**
+
+### Spring Cloud
+
+   
+* **What is Spring Cloud?**
+* **What are the main features of Spring Cloud?**
+* **What is a microservices architecture, and how does Spring Cloud support it?**
+* **How do you implement load balancing in Spring Cloud?**
+* **What is a Config Server in Spring Cloud?**
+* **How do you set up a Config Server?**
+* **What is Spring Cloud Netflix, and what does it include?**
+* **What is the role of Eureka in Spring Cloud?**
+* **How does the Eureka Server work?**
+* **How do you configure a Eureka Client?**
+* **What is Ribbon in Spring Cloud?**
+* **What is the role of Feign in Spring Cloud?**
+* **How do you integrate Feign with Spring Boot?**
+* **What is a Circuit Breaker, and how is it implemented in Spring Cloud?**
+* **What is Hystrix, and how does it work in Spring Cloud?**
+* **What is the purpose of Zuul in Spring Cloud?**
+* **What is Spring Cloud Gateway, and how does it differ from Zuul?**
+* **What is Sleuth in Spring Cloud?**
+* **How does Spring Cloud support distributed tracing?**
+* **How do you configure centralized logging in Spring Cloud?**
+* **What is the purpose of Spring Cloud Bus?**
+* **How do you secure microservices in Spring Cloud?**
+* **How does OAuth2 work with Spring Cloud?**
+* **What is the role of Consul in Spring Cloud?**
+* **How does Spring Cloud handle service discovery?**
+* **What is a Config Client in Spring Cloud?**
+* **How do you use the spring.cloud.config.uri property?**
+* **What is the purpose of Spring Cloud Kubernetes?**
+* **How does Spring Cloud handle resilience and fault tolerance?**
+* **What is a distributed cache, and how is it implemented in Spring Cloud?**
+* **What are refresh scopes in Spring Cloud?**
+* **How do you use the @RefreshScope annotation?**
+* **What is the difference between Spring Cloud Gateway and an API Gateway?**
+* **How do you implement rate-limiting in Spring Cloud Gateway?**
+* **How does Spring Cloud support Canary Deployments?**
+* **What is the purpose of Spring Cloud Contract?**
+* **How does Spring Cloud Stream work?**
+* **What is the role of messaging in Spring Cloud?**
+* **How do you integrate Spring Cloud with Kafka or RabbitMQ?**
+	
+### Spring Integration
+
+* **What is Spring Integration?**
+* **What are the key components of Spring Integration?**
+* **Explain the concept of messaging in Spring Integration.**
+* **What is a Message in Spring Integration?**
+* **What is the role of a MessageChannel in Spring Integration?**
+* **What are the different types of MessageChannels in Spring Integration?**
+* **What is a PollableChannel, and how is it used?**
+* **What is a SubscribableChannel in Spring Integration?**
+* **How does a MessageHandler work in Spring Integration?**
+* **What is a Transformer in Spring Integration?**
+* **What is the purpose of a Filter in Spring Integration?**
+* **What is an Endpoint in Spring Integration?**
+* **How do you configure an inbound channel adapter in Spring Integration?**
+* **How do you configure an outbound channel adapter?**
+* **What is a Service Activator in Spring Integration?**
+* **What are Splitters and Aggregators in Spring Integration?**
+* **How do Gateways work in Spring Integration?**
+* **What is a Message Router in Spring Integration?**
+* **How does Error Handling work in Spring Integration?**
+* **How do you integrate external systems using Spring Integration?**
+* **What is the role of Java DSL in Spring Integration?**
+* **Explain how to implement a message-driven architecture using Spring Integration.**
+* **How do you integrate a Spring Integration application with RabbitMQ or Kafka?**
+* **What is the purpose of Spring Integration’s IntegrationFlow?**
+
+
+### Spring Batch
+
+* **What is Spring Batch, and why is it used?**
+* **What are the key components of Spring Batch?**
+* **What is a Job in Spring Batch?**
+* **What are Steps in Spring Batch, and how are they related to Jobs?**
+* **Explain the role of ItemReader, ItemProcessor, and ItemWriter in Spring Batch.**
+* **How do you configure a Job in Spring Batch?**
+* **What is the purpose of the JobLauncher in Spring Batch?**
+* **What are JobExecution and StepExecution in Spring Batch?**
+* **How do you handle retries in Spring Batch?**
+* **What is a Chunk in Spring Batch, and how does it work?**
+* **Explain the purpose of the @EnableBatchProcessing annotation.**
+* **How do you implement skip logic in Spring Batch?**
+* **What is a Job Repository in Spring Batch?**
+* **How do you persist batch metadata in a database?**
+* **What are the different types of ItemReader available in Spring Batch?**
+* **How do you use a FlatFileItemReader?**
+* **How do you use a JdbcCursorItemReader in Spring Batch?**
+* **How do you handle parallel processing in Spring Batch?**
+* **How do you configure a job to run incrementally?**
+* **What is the role of TaskExecutor in Spring Batch?**
+* **How do you implement partitioning in Spring Batch?**
+* **What is the purpose of StepScope in Spring Batch?**
+* **What are Job Parameters in Spring Batch, and how are they used?**
+* **What is the role of listeners in Spring Batch?**
+* **How do you schedule a batch job using Spring Batch?**
+* **How does Spring Batch integrate with Quartz Scheduler?**
+	
+### Spring Testing
+
+* **How do you test Spring applications?**
+* **What is the role of @SpringBootTest?**
+* **How do you use Mockito in Spring testing?**
+* **How do you test a Spring MVC Controller?**
+
+
+	
+ 
+
 
 ## REST API
 
