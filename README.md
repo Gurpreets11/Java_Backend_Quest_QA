@@ -1046,7 +1046,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 
 ### General Concepts
 
-* **What is a REST API?
+* **What is a REST API?**
 * **What are the principles of REST architecture?**
 * **Define a resource in the context of REST.**
 * **What are the common HTTP methods used in REST APIs?**
@@ -1239,7 +1239,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What is the difference between WSDL and Swagger/OpenAPI?**
 * **What is the role of UDDI in web services?**
 * **What is XML-RPC, and how does it differ from SOAP?**
-* **What are WS-* specifications?**
+* **What are WS-\* specifications?**
 * **What is the role of WS-Addressing?**
 * **What is WS-Coordination, and how is it used?**
 * **What is WS-ReliableMessaging?**
