@@ -482,7 +482,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What are the main advantages of using a design pattern for creating objects?**
 * **How do creational patterns help in promoting loose coupling and improving code maintainability?**
 
-Singleton Pattern
+**Singleton Pattern**
 
 * **What is the Singleton design pattern, and when would you use it?**
 * **How do you ensure thread safety in a Singleton pattern?**
@@ -490,14 +490,14 @@ Singleton Pattern
 * **What are the potential issues of using a Singleton pattern, and how can they be avoided?**
 * **How does the Singleton pattern ensure that only one instance of a class is created?**
 
-Factory Method Pattern
+**Factory Method Pattern**
 
 * **What is the Factory Method pattern, and why would you use it?**
 * **How does the Factory Method pattern differ from the Abstract Factory pattern?**
 * **Can you provide an example where the Factory Method pattern would be useful in an Android application?**
 * **What are the main benefits of using the Factory Method pattern over directly creating objects?**
 
-Abstract Factory Pattern
+**Abstract Factory Pattern**
 
 * **How does the Abstract Factory pattern support the creation of families of related objects?**
 * **Can you describe a scenario where the Abstract Factory pattern would be a better choice than the Factory Method pattern?**
@@ -505,21 +505,21 @@ Abstract Factory Pattern
 * **What is the relationship between the Abstract Factory and the Factory Method pattern?**
 * **Can you explain the role of the Abstract Factory pattern in handling cross-platform software?**
 
-Builder Pattern
+**Builder Pattern**
 
 * **What is the Builder design pattern, and in what situations would it be helpful?**
 * **How does the Builder pattern improve the readability and maintainability of code?**
 * **Can you explain the difference between the Builder pattern and the Factory pattern?**
 * **How does the Builder pattern separate the construction of an object from its representation?**
 
-Prototype Pattern
+**Prototype Pattern**
 
 * **What is the Prototype design pattern, and how does it work?**
 * **How does the Prototype pattern differ from cloning objects in Java?**
 * **Can you provide an example of when you would use the Prototype pattern in a real-world scenario?**
 * **What are the advantages of using the Prototype pattern to create new objects?**
 
-Comparing and Contrasting Creational Patterns
+**Comparing and Contrasting Creational Patterns**
 
 * **How does the Prototype pattern improve object creation compared to the Singleton or Factory patterns?**
 * **Can you compare and contrast the Builder and Abstract Factory patterns, and explain when to use each?**
@@ -530,16 +530,14 @@ Comparing and Contrasting Creational Patterns
 	
 ### Structural Patterns
 
- 
-
-General Structural Design Pattern Questions
+**General Structural Design Pattern Questions**
 
 * **What is the role of structural design patterns in software architecture?**
 * **How do structural patterns differ from creational and behavioral patterns?**
 * **Can you give an example of how structural patterns can improve the maintainability and scalability of a system?**
 * **What are the primary advantages of using structural patterns in real-world applications?**
 
-Adapter Pattern
+**Adapter Pattern**
 
 * **What is the Adapter design pattern, and when would you use it?**
 * **Can you provide a scenario where using the Adapter pattern is necessary in an Android application?**
@@ -547,14 +545,14 @@ Adapter Pattern
 * **How is the Adapter pattern different from the Decorator pattern?**
 * **Can you explain the difference between class adapters and object adapters in the Adapter pattern?**
 
-Composite Pattern
+**Composite Pattern**
 
 * **What is the Composite pattern, and how does it help in treating individual objects and composites uniformly?**
 * **Can you provide an example where the Composite pattern is useful, especially in tree-like data structures?**
 * **How does the Composite pattern support recursion in a hierarchical object structure?**
 * **What are the main benefits of using the Composite pattern over traditional methods like arrays or lists?**
 
-Decorator Pattern
+**Decorator Pattern**
 
 * **What is the Decorator design pattern, and how does it differ from subclassing for extending functionality?**
 * **How does the Decorator pattern provide a flexible alternative to subclassing?**
@@ -562,28 +560,28 @@ Decorator Pattern
 * **How does the Decorator pattern ensure that objects can be enhanced dynamically at runtime?**
 * **What are the potential pitfalls when using the Decorator pattern, and how can they be avoided?**
 
-Facade Pattern
+**Facade Pattern**
 
 * **What is the Facade design pattern, and why is it useful in simplifying complex subsystems?**
 * **Can you explain how the Facade pattern can improve code readability and reduce dependencies between subsystems?**
 * **How does the Facade pattern help in decoupling clients from the complex internal workings of a system?**
 * **Can you provide an example of the Facade pattern used in Android development?**
 
-Bridge Pattern
+**Bridge Pattern**
 
 * **What is the Bridge pattern, and how does it help in separating abstraction from implementation?**
 * **How does the Bridge pattern support flexibility and extensibility in object-oriented design?**
 * **Can you explain the difference between the Bridge pattern and the Adapter pattern?**
 * **In what situations would you prefer to use the Bridge pattern over other structural patterns?**
 
-Flyweight Pattern
+**Flyweight Pattern**
 
 * **What is the Flyweight pattern, and how does it help optimize memory usage when dealing with large amounts of similar objects?**
 * **How does the Flyweight pattern reduce the memory footprint of an application?**
 * **Can you explain how the Flyweight pattern applies to scenarios with a large number of similar objects, such as in game development?**
 * **How does the Flyweight pattern achieve efficient sharing of common state between objects?**
 
-Proxy Pattern
+**Proxy Pattern**
 
 * **What is the Proxy pattern, and how does it provide a surrogate or placeholder for another object?**
 * **Can you explain the difference between virtual proxies, remote proxies, and protective proxies in the Proxy pattern?**
@@ -591,7 +589,7 @@ Proxy Pattern
 * **How does the Proxy pattern help with controlling access to an object, such as lazy initialization or access control?**
 * **How does the Proxy pattern improve performance or security in a system?**
 
-Comparing Structural Patterns
+**Comparing Structural Patterns**
 
 * **How does the Composite pattern differ from the Decorator pattern, and when would you use one over the other?**
 * **Can you compare and contrast the Adapter and Facade patterns in terms of their use cases and implementation?**
@@ -604,14 +602,14 @@ Comparing Structural Patterns
 ### Behavioral Patterns
 
 
-General Behavioral Design Pattern Questions
+**General Behavioral Design Pattern Questions**
 
 * **What are behavioral design patterns, and how do they improve the flexibility of object communication?**
 * **How do behavioral patterns differ from creational and structural patterns?**
 * **What role do behavioral design patterns play in promoting loose coupling and high cohesion in a system?**
 * **Can you explain how behavioral patterns help define the flow of control and the distribution of responsibilities in a system?**
 
-Observer Pattern
+**Observer Pattern**
 
 * **What is the Observer pattern, and when would you use it?**
 * **How does the Observer pattern decouple the subject and the observers?**
@@ -619,7 +617,7 @@ Observer Pattern
 * **How does the Observer pattern improve maintainability and scalability in systems with multiple listeners?**
 * **What are the potential challenges when implementing the Observer pattern in a multi-threaded environment?**
 
-Strategy Pattern
+**Strategy Pattern**
 
 * **What is the Strategy design pattern, and how does it allow algorithms to be selected at runtime?**
 * **How does the Strategy pattern enable flexibility in choosing different strategies without modifying the client code?**
@@ -627,7 +625,7 @@ Strategy Pattern
 * **What are the advantages of the Strategy pattern over traditional if-else or switch-case statements?**
 * **Can you compare the Strategy pattern with the State pattern, and explain when to use each?**
 
-Command Pattern
+**Command Pattern**
 
 * **What is the Command design pattern, and how does it encapsulate a request as an object?**
 * **How does the Command pattern allow for undo/redo functionality in an application?**
@@ -635,49 +633,49 @@ Command Pattern
 * **What are the benefits of using the Command pattern in terms of decoupling the sender and the receiver of a request?**
 * **How would you implement a queue or log of commands in a system using the Command pattern?**
 
-Chain of Responsibility Pattern
+**Chain of Responsibility Pattern**
 
 * **What is the Chain of Responsibility pattern, and how does it allow multiple handlers to process a request?**
 * **Can you provide an example where the Chain of Responsibility pattern can be used in an application (e.g., in a logging framework)?**
 * **How does the Chain of Responsibility pattern promote flexibility in handling different types of requests?**
 * **What are the advantages and potential pitfalls of using the Chain of Responsibility pattern?**
 
-State Pattern
+**State Pattern**
 
 * **What is the State design pattern, and how does it enable an object to alter its behavior based on its internal state?**
 * **Can you describe a scenario where the State pattern is more beneficial than using conditional statements like if-else or switch?**
 * **How does the State pattern help in managing complex state transitions in an object-oriented system?**
 * **Can you explain how the State pattern interacts with the Strategy pattern, and when to use each?**
 
-Template Method Pattern
+**Template Method Pattern**
 
 * **What is the Template Method pattern, and how does it allow a base class to define the skeleton of an algorithm while allowing subclasses to define specific steps?**
 * **How does the Template Method pattern promote code reusability and reduce code duplication?**
 * **Can you give an example of when you would use the Template Method pattern in a software application?**
 * **How does the Template Method pattern differ from the Strategy pattern, especially when it comes to the extent of customization allowed?**
 
-Iterator Pattern
+**Iterator Pattern**
 
 * **What is the Iterator design pattern, and how does it provide a uniform way to traverse a collection of objects?**
 * **How does the Iterator pattern separate the responsibility of iterating over a collection from the collection itself?**
 * **Can you explain a scenario where the Iterator pattern is helpful when dealing with different data structures?**
 * **How does the Iterator pattern improve the flexibility of working with aggregate objects in a system?**
 
-Mediator Pattern
+**Mediator Pattern**
 
 * **What is the Mediator pattern, and how does it centralize communication between different objects to reduce the number of interactions between them?**
 * **How does the Mediator pattern improve maintainability by reducing direct dependencies between components?**
 * **Can you provide an example where the Mediator pattern is used in a chat or messaging application?**
 * **What are the potential drawbacks of using the Mediator pattern, especially in complex systems?**
 
-Memento Pattern
+**Memento Pattern**
 
 * **What is the Memento design pattern, and how does it capture and externalize an object's state without violating encapsulation?**
 * **Can you explain how the Memento pattern can be used to implement undo/redo functionality in an application?**
 * **How does the Memento pattern differ from the Command pattern in terms of responsibility delegation and state management?**
 * **What are the main advantages of using the Memento pattern in scenarios that require the restoration of an object's previous state?**
 
-Visitor Pattern
+**Visitor Pattern**
 
 * **What is the Visitor design pattern, and how does it allow you to add operations to objects without modifying their classes?**
 * **Can you explain a scenario where the Visitor pattern can be used in a system with an object structure that evolves over time?**
@@ -689,7 +687,7 @@ Visitor Pattern
 
  
 
-General Concurrency Design Pattern Questions
+**General Concurrency Design Pattern Questions**
 
 * **What are Concurrency design patterns, and why are they important in multi-threaded or distributed systems?**
 * **How do Concurrency patterns improve the scalability and performance of an application?**
@@ -697,69 +695,69 @@ General Concurrency Design Pattern Questions
 * **What challenges might arise when implementing concurrency patterns in a multi-threaded environment?**
 * **Can you explain how Concurrency patterns help in managing resources like memory, CPU, or database connections in a multi-threaded application?**
 
-Thread Pool Pattern
+**Thread Pool Pattern**
 
 * **What is the Thread Pool pattern, and how does it help in managing a pool of worker threads to handle multiple tasks?**
 * **How does the Thread Pool pattern improve resource utilization and performance in an application?**
 * **What are the key differences between using a thread pool and manually managing threads for each task?**
 * **Can you describe a situation where the Thread Pool pattern would be appropriate in an enterprise-level system?**
 
-Producer-Consumer Pattern
+**Producer-Consumer Pattern**
 
 * **What is the Producer-Consumer pattern, and how does it help in managing the flow of tasks between threads?**
 * **Can you explain how the Producer-Consumer pattern can be implemented using a queue?**
 * **What is the role of synchronization in the Producer-Consumer pattern, and how does it prevent race conditions?**
 * **How would you apply the Producer-Consumer pattern in a scenario where multiple threads need to process jobs concurrently?**
 
-Read-Write Lock Pattern
+**Read-Write Lock Pattern**
 
 * **What is the Read-Write Lock pattern, and how does it differ from a standard lock in managing access to shared resources?**
 * **How does the Read-Write Lock pattern improve concurrency in scenarios where there are frequent read operations and fewer write operations?**
 * **What are the advantages of using the Read-Write Lock pattern in database systems or file access operations?**
 * **Can you explain how Starvation and Deadlock can occur when using Read-Write Locks, and how to prevent them?**
 
-Fork-Join Pattern
+**Fork-Join Pattern**
 
 * **What is the Fork-Join pattern, and how does it help in parallelizing tasks that can be broken down into smaller sub-tasks?**
 * **Can you explain the steps involved in a Fork-Join operation, and how it works in conjunction with divide-and-conquer algorithms?**
 * **How does the Fork-Join pattern reduce the complexity of managing threads when performing large computations in parallel?**
 * **In what scenarios would the Fork-Join pattern be more beneficial than using a traditional thread pool?**
 
-Future and Promise Pattern
+**Future and Promise Pattern**
 
 * **What are the Future and Promise patterns, and how do they help in handling asynchronous tasks in a concurrent system?**
 * **Can you explain how Futures are used to retrieve results of tasks that are being processed in separate threads?**
 * **How do Promise and Future patterns support callback handling in asynchronous programming?**
 * **What are the common challenges when working with Future and Promise patterns in a multi-threaded environment?**
 
-Semaphore Pattern
+**Semaphore Pattern**
 
 * **What is a Semaphore and how is it used to control access to shared resources in a concurrent system?**
 * **How does the Semaphore pattern help in managing thread synchronization and controlling the number of threads accessing a resource simultaneously?**
 * **Can you explain the difference between counting semaphores and binary semaphores?**
 * **How would you apply a Semaphore to manage access to a fixed number of database connections in a multi-threaded environment?**
 
-Monitor Object Pattern
+**Monitor Object Pattern**
 
 * **What is the Monitor Object pattern, and how does it facilitate synchronized access to an object’s state in a concurrent system?**
 * **How does the Monitor Object pattern help in resolving issues such as race conditions in multi-threaded applications?**
 * **Can you explain the difference between a monitor object and a mutex?**
 * **How would you use the Monitor Object pattern to manage the concurrency of a shared resource, like a counter, in a Java application?**
 
-Synchronization Wrapper Pattern
+**Synchronization Wrapper Pattern**
 
 * **What is the Synchronization Wrapper pattern, and how does it help in simplifying thread synchronization for a given resource?**
 * **Can you provide an example of how the Synchronization Wrapper pattern can be applied to ensure that multiple threads can safely access a shared resource?**
 * **How does the Synchronization Wrapper pattern differ from using direct synchronization techniques like synchronized blocks?**
 
-Latch Pattern
+**Latch Pattern**
 
 * **What is the Latch pattern, and how does it help in managing the synchronization of threads waiting for a specific condition or event to occur?**
 * **How does the CountDownLatch work in Java, and how is it used to coordinate multiple threads?**
 * **What are some real-world scenarios where the Latch pattern would be ideal for use in synchronizing threads?**
 * **How does the Latch pattern differ from the CyclicBarrier pattern in terms of functionality?**
 
-Barrier Pattern
+**Barrier Pattern**
 
 * **What is the Barrier pattern, and how does it allow threads to wait for each other at a synchronization point before continuing execution?**
 * **Can you explain the difference between a CyclicBarrier and a CountDownLatch, and when would you choose one over the other?**
