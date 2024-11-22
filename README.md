@@ -467,7 +467,6 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What is the Decorator pattern, and how is it used in Java?**
 * **What are some commonly used patterns in the Spring framework?**
 * **What are anti-patterns, and why should they be avoided?**
-
 * **What are the main differences between structural, behavioral, and creational design patterns?**
 * **How can design patterns be used to solve common software design problems?**
 * **Why is the Dependency Injection (DI) pattern commonly used in modern software development?**
@@ -904,7 +903,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 
 ### Spring Security
 
-* **What is the role of UserDetails and GrantedAuthority in Spring Security? **
+* **What is the role of UserDetails and GrantedAuthority in Spring Security?**
 * **What is the purpose of Spring Security?**
 * **What is the difference between authentication and authorization?**
 * **What is the role of the @EnableWebSecurity annotation?**
