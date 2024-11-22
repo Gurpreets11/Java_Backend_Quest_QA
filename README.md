@@ -1044,7 +1044,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 
 ## REST API
 
-General Concepts
+### General Concepts
 
 * **What is a REST API?
 * **What are the principles of REST architecture?**
@@ -1062,7 +1062,7 @@ General Concepts
 * **How does REST differ from SOAP?**
 * **Can REST APIs be stateful?**
 
-Designing REST APIs
+### Designing REST APIs
 
 * **How do you design RESTful endpoints?**
 * **What are the best practices for naming RESTful resources?**
@@ -1075,7 +1075,7 @@ Designing REST APIs
 * **What is the role of the OPTIONS method in REST?**
 * **How do you differentiate between hierarchical and flat URIs?**
 
-Authentication and Security
+### Authentication and Security
 
 * **What are the common methods of securing REST APIs?**
 * **How does token-based authentication work in REST APIs?**
@@ -1088,7 +1088,7 @@ Authentication and Security
 * **How do you prevent CSRF attacks in REST APIs?**
 * **What is mutual SSL, and how does it work in REST APIs?**
 
-Performance Optimization
+### Performance Optimization
 
 * **How do you optimize the performance of REST APIs?**
 * **What is caching in REST APIs, and how is it implemented?**
@@ -1101,7 +1101,7 @@ Performance Optimization
 * **How does pagination impact API performance?**
 * **What are some tools for monitoring and optimizing REST APIs?**
 
-Testing and Debugging
+### Testing and Debugging
 
 * **What tools can be used to test REST APIs?**
 * **How do you validate the request and response of a REST API?**
@@ -1114,7 +1114,7 @@ Testing and Debugging
 * **What are the common challenges in testing REST APIs?**
 * **What is the role of integration testing in REST APIs?**
 
-Advanced Concepts
+### Advanced Concepts
 
 * **What is a RESTful API gateway?**
 * **How do you implement HATEOAS in a REST API?**
@@ -1127,7 +1127,7 @@ Advanced Concepts
 * **How do you implement event-driven REST APIs?**
 * **What is the difference between synchronous and asynchronous REST APIs?**
 
-Integration and Tools
+### Integration and Tools
 
 * **How do you integrate REST APIs with frontend frameworks?**
 * **What is the role of REST APIs in microservices architecture?**
@@ -1140,7 +1140,7 @@ Integration and Tools
 * **How do you manage REST APIs in a serverless environment?**
 * **What is API orchestration, and how is it implemented?**
 
-Database and REST APIs
+### Database and REST APIs
 
 * **How do you handle database transactions in REST APIs?**
 * **What is the difference between relational and non-relational databases for REST APIs?**
@@ -1153,7 +1153,7 @@ Database and REST APIs
 * **How do you manage large datasets in REST APIs?**
 * **What is the N+1 problem, and how do you solve it in REST APIs?**
 
-Real-World Scenarios
+### Real-World Scenarios
 
 * **How do you design a REST API for a social media application?**
 * **What are the challenges of scaling a REST API?**
@@ -1166,7 +1166,7 @@ Real-World Scenarios
 * **How do you ensure compliance with standards like GDPR in REST APIs?**
 * **What is the role of REST APIs in mobile applications?**
 
-REST API Ecosystem
+### REST API Ecosystem
 
 * **What are OpenAPI specifications, and why are they important?**
 * **How does REST work with containerized environments like Docker?**
@@ -1181,7 +1181,7 @@ REST API Ecosystem
 
 ## Web Services
 
-Basics of Web Services
+### Basics of Web Services
 
 * **What is a web service?**
 * **What are the key characteristics of a web service?**
@@ -1194,7 +1194,7 @@ Basics of Web Services
 * **What are the differences between RPC-style and document-style web services?**
 * **What is the role of XML in web services?**
 
-SOAP Web Services
+### SOAP Web Services
 
 * **What is SOAP?**
 * **What are the main components of a SOAP message?**
@@ -1207,7 +1207,7 @@ SOAP Web Services
 * **How is a SOAP client implemented?**
 * **What are the advantages and disadvantages of using SOAP over REST?**
 
-RESTful Web Services
+### RESTful Web Services
 
 * **What is a RESTful web service?**
 * **What are the main principles of REST?**
@@ -1220,7 +1220,7 @@ RESTful Web Services
 * **What is HATEOAS, and why is it important?**
 * **How do you implement versioning in RESTful web services?**
 
-Security in Web Services
+### Security in Web Services
 
 * **What are the common methods for securing web services?**
 * **What is the difference between authentication and authorization in web services?**
@@ -1233,7 +1233,7 @@ Security in Web Services
 * **What is Cross-Origin Resource Sharing (CORS), and why is it important?**
 * **What is the role of JWT in web service security?**
 
-Web Services Standards and Specifications
+### Web Services Standards and Specifications
 
 * **What is WSDL, and what are its main components?**
 * **What is the difference between WSDL and Swagger/OpenAPI?**
@@ -1246,7 +1246,7 @@ Web Services Standards and Specifications
 * **How does WS-AtomicTransaction work?**
 * **What is the purpose of MTOM (Message Transmission Optimization Mechanism)?**
 
-Performance and Scalability
+### Performance and Scalability
 
 * **What are the challenges of scaling web services?**
 * **How do you optimize the performance of a web service?**
@@ -1259,7 +1259,7 @@ Performance and Scalability
 * **How does asynchronous communication work in web services?**
 * **What is a long-polling request, and when is it used?**
 
-Testing and Debugging Web Services
+### Testing and Debugging Web Services
 
 * **What tools are commonly used for testing web services?**
 * **How do you validate a SOAP request and response?**
@@ -1272,7 +1272,7 @@ Testing and Debugging Web Services
 * **What are the challenges of testing web services in production?**
 * **How do you test for security vulnerabilities in web services?**
 
-Integration and Implementation
+### Integration and Implementation
 
 * **How do web services enable system integration?**
 * **What is the role of middleware in web services?**
@@ -1285,7 +1285,7 @@ Integration and Implementation
 * **What are the differences between monolithic and service-oriented architectures?**
 * **How do web services interact with message queues like RabbitMQ or Kafka?**
 
-Real-World Scenarios
+### Real-World Scenarios
 
 * **How do you handle long-running operations in web services?**
 * **What is the role of webhooks in web service design?**
@@ -1298,7 +1298,7 @@ Real-World Scenarios
 * **What are the best practices for error handling in web services?**
 * **How do you implement health checks for web services?**
 
-Advanced Topics
+### Advanced Topics
 
 * **What is the role of a service registry in SOA?**
 * **How do you implement contract-first web services?**
@@ -1314,7 +1314,158 @@ Advanced Topics
 
 ## Database 
 
-Coming soon ..
+### Basic Database Concepts
+
+* **What is a database?**
+* **What is the difference between a database and a DBMS?**
+* **What are the advantages of using a database?**
+* **What is a schema in a database?**
+* **What is a table in a database?**
+* **What is a primary key?**
+* **What is a foreign key?**
+* **What is a unique key?**
+* **What is the difference between primary key and unique key?**
+* **What are indexes in a database?**
+* **What are the types of indexes?**
+* **What is a composite key?**
+* **What are constraints in a database?**
+* **What is a relational database?**
+* **What is a non-relational database?**
+
+### SQL (Structured Query Language)
+
+* **What is SQL?**
+* **What are the different types of SQL commands?**
+* **What is the difference between DDL and DML?**
+* **What is a SELECT statement?**
+* **How do you use the WHERE clause in SQL?**
+* **What is the difference between WHERE and HAVING clauses?**
+* **What are aggregate functions in SQL?**
+* **How does GROUP BY work in SQL?**
+* **What is the difference between INNER JOIN and OUTER JOIN?**
+* **What is a cross join?**
+* **What is the difference between UNION and UNION ALL?**
+* **What are subqueries in SQL?**
+* **What are the different types of subqueries?**
+* **What is a correlated subquery?**
+* **What is a self-join?**
+
+### Database Normalization
+
+* **What is normalization in databases?**
+* **What are the different normal forms?**
+* **What is the first normal form (1NF)?**
+* **What is the second normal form (2NF)?**
+* **What is the third normal form (3NF)?**
+* **What is Boyce-Codd Normal Form (BCNF)?**
+* **What is denormalization?**
+* **What are the advantages of normalization?**
+* **What are the disadvantages of normalization?**
+* **When would you use denormalization?**
+
+### Database Transactions
+
+* **What is a transaction in a database?**
+* **What are ACID properties?**
+* **What is atomicity in transactions?**
+* **What is consistency in transactions?**
+* **What is isolation in transactions?**
+* **What is durability in transactions?**
+* **What is a dirty read?**
+* **What is a phantom read?**
+* **What is a repeatable read?**
+* **What are the isolation levels in databases?**
+
+### Database Design
+
+* **What is entity-relationship (ER) modeling?**
+* **What are entities and attributes in a database?**
+* **What are relationships in a database?**
+* **What is cardinality in ER modeling?**
+* **What are the types of relationships in databases?**
+* **What is a one-to-one relationship?**
+* **What is a one-to-many relationship?**
+* **What is a many-to-many relationship?**
+* **What is a surrogate key?**
+* **What is data redundancy?**
+
+### Stored Procedures and Functions
+
+* **What is a stored procedure?**
+* **What is the difference between a stored procedure and a function?**
+* **How do you create a stored procedure?**
+* **How do you create a function in SQL?**
+* **What is the difference between scalar and table-valued functions?**
+* **What are triggers in a database?**
+* **What are the different types of triggers?**
+* **What is the difference between a trigger and a stored procedure?**
+* **What are cursors in a database?**
+* **What are the types of cursors?**
+
+### Indexes and Optimization
+
+* **What is the purpose of an index in a database?**
+* **What are clustered and non-clustered indexes?**
+* **How does an index improve query performance?**
+* **What are the disadvantages of using indexes?**
+* **What is an execution plan in a database?**
+* **What are database statistics?**
+* **What is a covering index?**
+* **What is a composite index?**
+* **What is query optimization?**
+* **How do you analyze slow queries in a database?**
+
+### NoSQL Databases
+
+* **What is a NoSQL database?**
+* **What are the different types of NoSQL databases?**
+* **What is the difference between NoSQL and relational databases?**
+* **What are key-value databases?**
+* **What are document-based databases?**
+* **What are column-based databases?**
+* **What are graph databases?**
+* **What is CAP theorem?**
+* **What is eventual consistency?**
+* **What are the advantages of NoSQL databases?**
+
+### Database Security
+
+* **What is database security?**
+* **What are roles and privileges in a database?**
+* **What is SQL injection?**
+* **How do you prevent SQL injection attacks?**
+* **What is data encryption in databases?**
+* **What is row-level security?**
+* **What is database auditing?**
+* **What is the difference between authentication and authorization?**
+* **What is a firewall in the context of database security?**
+* **How do you secure sensitive data in a database?**
+
+### Distributed Databases
+
+* **What is a distributed database?**
+* **What are the advantages of distributed databases?**
+* **What are the challenges of distributed databases?**
+* **What is database partitioning?**
+* **What is horizontal and vertical partitioning?**
+* **What is data replication in distributed databases?**
+* **What is the difference between synchronous and asynchronous replication?**
+* **What is sharding in databases?**
+* **What is a global transaction?**
+* **What is eventual consistency in distributed databases?**
+
+### Database Tools and Ecosystems
+
+* **What are some popular relational database systems?**
+* **What are some popular NoSQL database systems?**
+* **What is the role of an ORM (Object-Relational Mapping) tool?**
+* **What is the difference between Hibernate and JPA?**
+* **What is the role of database migration tools like Flyway or Liquibase?**
+* **What is database clustering?**
+* **What is the role of connection pooling in databases?**
+* **What is a database backup?**
+* **What is a full backup versus an incremental backup?**
+* **What is a data warehouse?**
 
 ## Deployment
 
