@@ -152,6 +152,10 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What are the differences between major and minor garbage collections?**
  
  
+ <p align="right">
+    <a href="#introduction">Back to Top</a>
+</p>
+
  
 ## Java Features  
 
@@ -457,9 +461,9 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **How do you handle parallel processing using Streams?**
 
  
-<div style="text-align: right;">
+<p align="right">
     <a href="#introduction">Back to Top</a>
-</div>
+</p>
 
 
 
@@ -786,9 +790,9 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 	
 
 
-<div style="text-align: right;">
+<p align="right">
     <a href="#introduction">Back to Top</a>
-</div>
+</p>
 
 
 	
@@ -1058,9 +1062,10 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 
 
 	
-<div style="text-align: right;">
+<p align="right">
     <a href="#introduction">Back to Top</a>
-</div>
+</p>
+
 
 
 
@@ -1203,9 +1208,9 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **How do you manage REST API lifecycle and versioning?**
 
 
-<div style="text-align: right;">
+<p align="right">
     <a href="#introduction">Back to Top</a>
-</div>
+</p>
 
 
 
@@ -1344,9 +1349,10 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What is the future of web services in the era of serverless and edge computing?**
 
 
-<div style="text-align: right;">
+<p align="right">
     <a href="#introduction">Back to Top</a>
-</div>
+</p>
+
 
 
 
@@ -1506,9 +1512,10 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What is a full backup versus an incremental backup?**
 * **What is a data warehouse?**
 
-<div style="text-align: right;">
+<p align="right">
     <a href="#introduction">Back to Top</a>
-</div>
+</p>
+
 
 
 ## Deployment  -  [Click Here to View Answers](Deployment/Deployment-Questions.md)
@@ -1644,9 +1651,16 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **How do you deploy updates to an application with millions of users?**	
 
 
+<p align="right">
+    <a href="#introduction">Back to Top</a>
+</p>
+
+
+<!-- 
 <div style="text-align: right;">
     <a href="#introduction">Back to Top</a>
 </div>
+-->
 
 
 ## How to Use This Repository
