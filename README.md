@@ -34,7 +34,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 ## Java Fundamentals
  
 
-### Basics
+### Basics  [View Answers](Java/JavaBasic.md)
 
 * **What is Java, and why is it platform-independent?**
 * **Explain the structure of a Java program.**
