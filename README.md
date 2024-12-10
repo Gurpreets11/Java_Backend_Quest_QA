@@ -407,9 +407,9 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **How do finalized Record Patterns simplify data deconstruction and pattern matching in Java 23?**
 
 
-<div style="text-align: right;">
+<p align="right">
     <a href="#introduction">Back to Top</a>
-</div>
+</p>
 
 
 	
