@@ -530,9 +530,9 @@ In Java, both `==` and `equals()` are used for comparison, but they serve differ
 
 ## equals() Method
 
-    Purpose: Compares the contents of objects for equality.
-    Usage: Checks if two objects have the same state or values. This method is overridden in most classes, such as String, to compare the actual contents.
-    Example:
+  Purpose: Compares the contents of objects for equality.
+  Usage: Checks if two objects have the same state or values. This method is overridden in most classes, such as String, to compare the actual contents.
+  Example:
 
 ```
 String str1 = new String("Hello");
