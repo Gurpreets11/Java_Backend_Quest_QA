@@ -34,7 +34,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 ## Java Fundamentals
  
 
-### Basics  [View Answers](Java/JavaBasic.md)
+### Basics  -  [Click here to View Answers](Java/JavaBasic.md)
 
 * **What is Java, and why is it platform-independent?**
 * **Explain the structure of a Java program.**
@@ -47,7 +47,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What are wrapper classes in Java? Why are they used?**
 * **What is the difference between == and equals() in Java?**
 
-### OOP Concepts
+### OOP Concepts  -  [Click here to View Answers](Java/Oops.md)
 
 * **What are objects and classes in Java?**
 * **How does method overloading work in Java? Give an example.**
@@ -60,7 +60,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What is an inner class? Differentiate between a static inner class and a non-static inner class.**
 * **How are objects compared in Java? What is the role of the compareTo() method?**
 
-### Strings
+### Strings  -  [Click here to View Answers](Java/Multithreading.md)
 
 * **How is a String object created in Java?**
 * **What is the difference between String and CharSequence?**
@@ -73,7 +73,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What are escape sequences in strings? Provide examples.**
 * **Compare the efficiency of String concatenation using + operator and StringBuilder.**
 
-### Exception Handling
+### Exception Handling  -  [Click here to View Answers](Java/Multithreading.md)
 
 * **What are the advantages of exception handling in Java?**
 * **How does the try-with-resources statement work in Java?**
@@ -86,7 +86,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **Can you catch multiple exceptions in one catch block? Provide an example.**
 * **What is a suppressed exception in Java?**
 
-### Collections Framework
+### Collections Framework  -  [Click here to View Answers](Java/Collections.md)
 
 * **What is the hierarchy of the Java Collections Framework?**
 * **What is the difference between List, Set, and Map?**
@@ -99,7 +99,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **Explain the fail-fast behavior in iterators.**
 * **How can you make a collection thread-safe?**
 
-### Multithreading
+### Multithreading  -  [Click here to View Answers](Java/Multithreading.md)
 
 * **What is the life cycle of a thread in Java?**
 * **What are daemon threads in Java? How do you create them?**
@@ -112,7 +112,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What is the role of the ExecutorService in Java?**
 * **Explain the difference between ReentrantLock and synchronized.**
 
-### Java Keywords and Basics
+### Java Keywords and Basics  -  [Click here to View Answers](Java/Multithreading.md)
 
 * **What is the purpose of the volatile keyword in Java?**
 * **Explain the strictfp keyword.**
@@ -125,7 +125,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What is the difference between abstract and final keywords in Java?**
 * **What are access modifiers in Java, and how do they work?**
 
-### Input/Output and Serialization
+### Input/Output and Serialization  -  [Click here to View Answers](Java/Java-IO-Serialization.md)
 
 * **What is the difference between byte streams and character streams?**
 * **What are the main classes used for file I/O in Java?**
@@ -138,7 +138,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What are Buffered Streams, and why are they important?**
 * **What are PipedInputStream and PipedOutputStream?**
 
-### JVM Internals
+### JVM Internals  -  [Click here to View Answers](Java/JVM-Internals.md)
 
 * **What are the main components of JVM?**
 * **What is the role of the class loader in JVM?**
@@ -153,9 +153,9 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
  
  
  
-## Java Features
+## Java Features  
 
-### Java 8 Features
+### Java 8 Features  -  [Click here to View Answers](Java-Features/Java8Features.md)  
 
 * **What are the key features introduced in Java 8?**
 * **Explain the concept of functional interfaces. Provide examples.**
@@ -168,7 +168,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **How do you handle null values using the Optional class?**
 * **What is the significance of the Collectors.toList() method in Java Streams?**
 
-### Java 9 Features
+### Java 9 Features  -  [Click here to View Answers](Java-Features/Java9Features.md) 
 
 * **What are modules in Java 9? Explain their importance.**
 * **How does the JShell tool work, and why is it useful?**
@@ -183,7 +183,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 
 
  
-### Java 10 Features
+### Java 10 Features  -  [Click here to View Answers](Java-Features/Java10Features.md) 
 
 * **What is the var keyword in Java 10, and how does it work?**
 * **What are the limitations of using var in Java?**
@@ -193,7 +193,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **Explain the improvements to garbage collection in Java 10.**
 * **What is the Application Class-Data Sharing (AppCDS) feature in Java 10?**
 
-### Java 11 Features
+### Java 11 Features  -  [Click here to View Answers](Java-Features/Java11Features.md) 
 
 * **What are the new features introduced in Java 11?**
 * **How do you create a single-file program using Java 11?**
@@ -235,7 +235,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 	
 	
 
-### Java 12 Features
+### Java 12 Features  -  [Click here to View Answers](Java-Features/Java12Features.md) 
 
 * **What is the purpose of the switch expressions introduced in Java 12?**
 * **How does the yield keyword work in switch expressions?**
@@ -246,7 +246,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What changes have been made to the default GC in Java 12?**
 * **What are the preview features introduced in Java 12?**
 
-### Java 13 Features
+### Java 13 Features  -  [Click here to View Answers](Java-Features/Java13Features.md) 
 
 * **What are Text Blocks, and how do they simplify working with strings?**
 * **How can you use escape sequences within text blocks in Java 13?**
@@ -256,7 +256,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **How does the Switch Expressions enhancement from Java 12 evolve in Java 13?**
 * **What is the significance of multiline string literals?**
 
-### Java 14 Features
+### Java 14 Features  -  [Click here to View Answers](Java-Features/Java14Features.md) 
 
 * **What is Pattern Matching for instanceof introduced in Java 14?**
 * **How does the instanceof operator work with type inference in Java 14?**
@@ -267,7 +267,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What is the Foreign-Memory Access API introduced in Java 14?**
 * **Explain the preview features introduced in Java 14.**
 
-### Java 15 Features
+### Java 15 Features  -  [Click here to View Answers](Java-Features/Java15Features.md) 
 
 * **What are Sealed Classes, and how do they enhance inheritance?**
 * **How do you define and use a sealed class in Java 15?**
@@ -278,7 +278,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **How does Java 15 improve upon Pattern Matching introduced in earlier versions?**
 * **What are the changes to deprecated features in Java 15?**
 
-### Java 16 Features
+### Java 16 Features  -  [Click here to View Answers](Java-Features/Java16Features.md) 
 
 * **What is the purpose of the jdk.incubator.vector module in Java 16?**
 * **What are Records, and how do they differ from regular classes?**
@@ -289,7 +289,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What is the JEP 338: Vector API (Incubator) introduced in Java 16?**
 * **How does Java 16 optimize Garbage Collection and memory management?**
 
-### Java 17 Features
+### Java 17 Features  -  [Click here to View Answers](Java-Features/Java17Features.md) 
 
 * **What are the new features introduced in Java 17?**
 * **What are the JEP 382: New macOS Rendering Pipeline improvements in Java 17?**
@@ -329,7 +329,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What are some key benefits of Java 17 as a long-term support (LTS) release for developers?**
 		
 
-### Java 18 Features
+### Java 18 Features  -  [Click here to View Answers](Java-Features/Java18Features.md) 
 
 * **What is the purpose of the Simple Web Server introduced in Java 18?**
 * **How does the UTF-8 as Default Charset change affect Java applications in Java 18?**
@@ -338,7 +338,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What is the @snippet tag, and how is it used in Java 18?**
 * **What are the memory management improvements in Java 18?**
 
-### Java 19 Features
+### Java 19 Features  -  [Click here to View Answers](Java-Features/Java19Features.md) 
 
 * **What is the Virtual Threads feature introduced in Java 19?**
 * **How do Virtual Threads differ from traditional threads?**
@@ -347,7 +347,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **How has the Foreign Function & Memory API evolved in Java 19?**
 * **What are the third-incubator updates to the Vector API in Java 19?**
 
-### Java 20 Features
+### Java 20 Features  -  [Click here to View Answers](Java-Features/Java20Features.md) 
 
 * **What are the enhancements to Pattern Matching for Switch in Java 20?**
 * **Explain the updates to Record Patterns in Java 20.**
@@ -355,7 +355,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What is the role of the Foreign Function and Memory API in Java 20?**
 * **How do new concurrency models introduced in Java 20 improve performance?**
 
-### Java 21 Features
+### Java 21 Features  -  [Click here to View Answers](Java-Features/Java21Features.md) 
 
 * **What is JEP 444: Virtual Threads introduced in Java 21?**
 * **Explain the finalized Structured Concurrency in Java 21.**
@@ -368,7 +368,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **What are the security enhancements introduced in Java 21?**
 	
 
-### Java 22 Questions:
+### Java 22 Questions  -  [Click here to View Answers](Java-Features/Java22Features.md) 
 
 * **What is the purpose of the "Statements Before super() or this()" feature introduced in Java 22, and how does it improve constructor logic?**
 * **How does the "Stream Gatherers" feature extend the capabilities of the Stream API?**
@@ -388,7 +388,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 
 
 
-### Java 23 Questions:
+### Java 23 Questions  -  [Click here to View Answers](Java-Features/Java23Features.md) 
 
 * **What is the significance of importing entire modules using import module in Java 23?**
 * **How does Java 23 improve the alignment of array elements for better memory utilization?**
@@ -405,6 +405,7 @@ In **Java_Backend_Quest_QA**, we cover a range of topics essential for Java back
 * **How does Java 23 improve startup and runtime performance for native threads?**
 * **What is the impact of improvements to the ZGC in Java 23, especially for large heap applications?**
 * **How do finalized Record Patterns simplify data deconstruction and pattern matching in Java 23?**
+	
 	
 ## Advanced Topics
 
