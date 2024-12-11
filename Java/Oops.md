@@ -1,7 +1,5 @@
 
-
-
-# Java Interview Questions and Answers
+# Java OOPs Questions and Answers
 
 ### 1. What are objects and classes in Java?
 **Answer:**

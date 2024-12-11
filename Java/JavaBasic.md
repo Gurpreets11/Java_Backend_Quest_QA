@@ -1,4 +1,7 @@
 
+# Java Basic Questions and Answers
+
+
 * **What is Java, and why is it platform-independent?**
 
 	**Answer:**
