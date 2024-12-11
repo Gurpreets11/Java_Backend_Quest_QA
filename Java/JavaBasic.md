@@ -301,7 +301,6 @@
    - **Execution Control:** Serves as the central control point for invoking other methods or classes.
 
 
-
 	**Example of a main() Method**
 
 
@@ -322,13 +321,14 @@
 	**Execution:**
 
    - **Compile:** javac MainExample.java
-   - **Run:** java MainExample Hello
-    **Output:**
+   - **Run:** java MainExample
+   - **Output:**
 	```
 	Hello, World!
 	First argument: Hello
 
 	```
+	
 	**Key Points**
 
    - The main() method must always follow the correct syntax for the JVM to recognize it.
@@ -391,10 +391,10 @@
 
    **Visual Summary**
 
-   **`++i` (Pre-Increment)**:
+    **`++i` (Pre-Increment)**:
      - Increments first → Uses updated value.
    
-   **`i++` (Post-Increment)**:
+    **`i++` (Post-Increment)**:
      - Uses current value → Increments after usage.
   
   
@@ -405,16 +405,16 @@
 
 	Wrapper classes in Java are objects that wrap around primitive data types and allow them to be treated as objects. They are part of the `java.lang` package and provide a way to work with primitive types as objects. Each primitive type has a corresponding wrapper class:
 
-| **Primitive Type** | **Wrapper Class**   |
-|---------------------|---------------------|
-| `byte`              | `Byte`              |
-| `short`             | `Short`             |
-| `int`               | `Integer`           |
-| `long`              | `Long`              |
-| `float`             | `Float`             |
-| `double`            | `Double`            |
-| `char`              | `Character`         |
-| `boolean`           | `Boolean`           |
+   | **Primitive Type** | **Wrapper Class**   |
+   |---------------------|---------------------|
+   | `byte`              | `Byte`              |
+   | `short`             | `Short`             |
+   | `int`               | `Integer`           |
+   | `long`              | `Long`              |
+   | `float`             | `Float`             |
+   | `double`            | `Double`            |
+   | `char`              | `Character`         |
+   | `boolean`           | `Boolean`           |
 
 
 
@@ -438,7 +438,6 @@
    Wrapper classes can be assigned null, making them useful in scenarios where a value might be absent (e.g., handling database queries).
 
    5. **Constants and Immutable Nature:**
-
    Wrapper classes provide constants like Integer.MAX_VALUE and Double.MIN_VALUE for specific type ranges.
    They are immutable, ensuring that the value cannot be changed once created, which helps in maintaining data integrity.
 
@@ -472,10 +471,10 @@
 
    **Key Takeaways**
 
-   - Wrapper classes are used to treat primitive types as objects.
-   - They enable the use of primitive types in collections and provide utility methods for conversions.
-   - Autoboxing and unboxing make conversions between primitives and wrapper classes seamless.
-   - Wrapper classes help manage null values and provide useful constants.
+    - Wrapper classes are used to treat primitive types as objects.
+    - They enable the use of primitive types in collections and provide utility methods for conversions.
+    - Autoboxing and unboxing make conversions between primitives and wrapper classes seamless.
+    - Wrapper classes help manage null values and provide useful constants.
 
 
 
