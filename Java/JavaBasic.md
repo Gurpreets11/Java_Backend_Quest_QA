@@ -354,21 +354,21 @@
    ### Example and Behavior
 
    ### Pre-Increment (`++i`)
-	```java
+   ```java
 	int i = 5;
 	int result = ++i; // i is incremented first, then assigned to result.
 	System.out.println("i: " + i);        // Output: 6
 	System.out.println("result: " + result); // Output: 6
-	```
+   ```
 
    ### Post-Increment (i++)
-	```
+   ```
 	int i = 5;
 	int result = i++; // i is assigned to result first, then incremented.
 	System.out.println("i: " + i);        // Output: 6
 	System.out.println("result: " + result); // Output: 5
 
-	```
+   ```
 
    ### Key Points
 
@@ -432,8 +432,7 @@
 	```
 
    4. **Null Handling:**
-
-    Wrapper classes can be assigned null, making them useful in scenarios where a value might be absent (e.g., handling database queries).
+   Wrapper classes can be assigned null, making them useful in scenarios where a value might be absent (e.g., handling database queries).
 
    5. **Constants and Immutable Nature:**
 
@@ -454,7 +453,7 @@
 	Integer wrapper = 20;
 	int primitiveNum = wrapper; // Integer to int
 
-	```
+   ```
 
 
    ### Using Wrapper Class Methods
