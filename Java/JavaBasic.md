@@ -106,16 +106,16 @@
 
 
 
-	**Examples**
+   **Examples**
 
-	**Primitive Data Type Example**
+   **Primitive Data Type Example**
 	```java
 	int age = 25;
 	char grade = 'A';
 	boolean isPassed = true;
 	```
 
-	**Non-Primitive Data Type Example**
+   **Non-Primitive Data Type Example**
 
 	```
 	String name = "John";
@@ -123,7 +123,7 @@
 	Object obj = new Object();
 	```
 
-	**Key Takeaways**
+   **Key Takeaways**
 
 	- Primitive Types are simpler and more performance-efficient but lack advanced features.
 	- Non-Primitive Types are more versatile, supporting methods and structures but with additional overhead.
@@ -204,9 +204,9 @@
 
 
 
-### Rules of Type Promotion
+	### Rules of Type Promotion
 
-1. **Small Data Types to `int`**:
+   1. **Small Data Types to `int`**:
    - In expressions, `byte`, `short`, and `char` are automatically promoted to `int` if they are involved in any operation.
    - Example:
      ```java
@@ -214,7 +214,7 @@
      int sum = b1 + b2; // Promotes `b1` and `b2` to `int`
      ```
 
-2. **Wider Data Type Determines Result**:
+   2. **Wider Data Type Determines Result**:
    - If different data types are involved in an expression, the smaller type is promoted to the larger type.
    - Example:
      ```java
@@ -223,10 +223,10 @@
      double result = a + b; // `a` is promoted to `double`
      ```
 
-3. **Promotion Hierarchy**:
+   3. **Promotion Hierarchy**:
    - `byte` → `short` → `int` → `long` → `float` → `double`
 
-4. **Character Promotion**:
+   4. **Character Promotion**:
    - Characters are promoted to their Unicode `int` value during operations.
    - Example:
      ```java
@@ -234,35 +234,33 @@
      int result = ch + 1; // Promoted to `int`, result is 66
      ```
 
----
 
-### Example of Type Promotion
-```java
-public class TypePromotionExample {
-    public static void main(String[] args) {
-        byte b = 10;
-        short s = 20;
-        int i = 30;
-        float f = 5.5f;
-        double d = 15.5;
+   ### Example of Type Promotion
+   ```java
+	public class TypePromotionExample {
+		public static void main(String[] args) {
+			byte b = 10;
+			short s = 20;
+			int i = 30;
+			float f = 5.5f;
+			double d = 15.5;
 
-        // Expression with multiple types
-        double result = b + s + i + f + d; // All promoted to `double`
-        System.out.println("Result: " + result);
-    }
-}
-
-```
+			// Expression with multiple types
+			double result = b + s + i + f + d; // All promoted to `double`
+			System.out.println("Result: " + result);
+		}
+	}
+	```
 
 
-### Key Points to Remember
+   ### Key Points to Remember
 
   - Type promotion ensures precision during calculations by converting smaller types to larger types automatically.
   - Operations involving byte, short, and char always result in an int.
   - Mixed-type expressions follow the promotion hierarchy, ensuring no loss of information.
 	
 	
-### Use Cases
+   ### Use Cases
 
   - Mathematical operations involving multiple data types.
   - Avoiding explicit type casting in simple arithmetic expressions.	
@@ -271,81 +269,79 @@ public class TypePromotionExample {
 
 * **What is the purpose of the main() method in Java?**
 
-**Answer:**
+	**Answer:**
 
-The `main()` method in Java is the **entry point** of any standalone Java application. When a program is executed, the Java Virtual Machine (JVM) begins execution by calling the `main()` method.
-
----
-
-### Syntax of `main()` Method
-
-```java
-public static void main(String[] args) {
-    // Program logic goes here
-}
-```
+	The `main()` method in Java is the **entry point** of any standalone Java application. When a program is executed, the Java Virtual Machine (JVM) begins execution by calling the `main()` method.
 
 
-### Explanation of Keywords:
+	### Syntax of `main()` Method
 
-  - public: Makes the method accessible from anywhere, ensuring the JVM can call it.
-  - static: Allows the method to be invoked without creating an instance of the class.
-  - void: Indicates the method does not return any value.
-  - String[] args: Accepts command-line arguments as an array of String.
-
-
-### Purpose of the main() Method
-
-  - Entry Point: The JVM starts program execution from the main() method.
-  - Command-Line Arguments: Enables passing data to the program at runtime.
-  - Execution Control: Serves as the central control point for invoking other methods or classes.
+	```java
+	public static void main(String[] args) {
+		// Program logic goes here
+	}
+	```
 
 
+	### Explanation of Keywords:
 
-### Example of a main() Method
+   - public: Makes the method accessible from anywhere, ensuring the JVM can call it.
+   - static: Allows the method to be invoked without creating an instance of the class.
+   - void: Indicates the method does not return any value.
+   - String[] args: Accepts command-line arguments as an array of String.
 
 
-```
-public class MainExample {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
+	### Purpose of the main() Method
 
-        // Accessing command-line arguments
-        if (args.length > 0) {
-            System.out.println("First argument: " + args[0]);
-        }
-    }
-}
+   - Entry Point: The JVM starts program execution from the main() method.
+   - Command-Line Arguments: Enables passing data to the program at runtime.
+   - Execution Control: Serves as the central control point for invoking other methods or classes.
 
-```
 
-### Execution:
 
-  - Compile: javac MainExample.java
-  - Run: java MainExample Hello
+	### Example of a main() Method
+
+
+	```
+	public class MainExample {
+		public static void main(String[] args) {
+			System.out.println("Hello, World!");
+
+			// Accessing command-line arguments
+			if (args.length > 0) {
+				System.out.println("First argument: " + args[0]);
+			}
+		}
+	}
+
+	```
+
+	### Execution:
+
+   - Compile: javac MainExample.java
+   - Run: java MainExample Hello
     Output:
 	```
 	Hello, World!
 	First argument: Hello
 
 	```
-Key Points
+	### Key Points
 
-  - The main() method must always follow the correct syntax for the JVM to recognize it.
-  - It is possible to overload the main() method, but only the standard version is called by the JVM.
-  - In GUI or web applications, the main() method is typically used to initialize the program or start the application server.
+   - The main() method must always follow the correct syntax for the JVM to recognize it.
+   - It is possible to overload the main() method, but only the standard version is called by the JVM.
+   - In GUI or web applications, the main() method is typically used to initialize the program or start the application server.
 
 
 
 * **What is the difference between ++i and i++?**
 
-**Answer**
+	**Answer**
 
-In Java, both `++i` and `i++` are increment operators used to increase the value of a variable by 1. However, they behave differently depending on their usage in expressions.
+	In Java, both `++i` and `i++` are increment operators used to increase the value of a variable by 1. However, they behave differently depending on their usage in expressions.
 
----
 
-### Key Differences
+	### Key Differences
 
 | **Aspect**              | **`++i` (Pre-Increment)**                          | **`i++` (Post-Increment)**                       |
 |--------------------------|---------------------------------------------------|-------------------------------------------------|
@@ -353,30 +349,30 @@ In Java, both `++i` and `i++` are increment operators used to increase the value
 | **Execution**            | The increment happens **before** the value is used. | The increment happens **after** the value is used. |
 | **Usage in Expressions** | Updated value is returned immediately.            | Original value is returned, then updated.       |
 
----
 
-### Example and Behavior
 
-### Pre-Increment (`++i`)
-```java
-int i = 5;
-int result = ++i; // i is incremented first, then assigned to result.
-System.out.println("i: " + i);        // Output: 6
-System.out.println("result: " + result); // Output: 6
-```
+   ### Example and Behavior
 
-### Post-Increment (i++)
-```
-int i = 5;
-int result = i++; // i is assigned to result first, then incremented.
-System.out.println("i: " + i);        // Output: 6
-System.out.println("result: " + result); // Output: 5
+   ### Pre-Increment (`++i`)
+	```java
+	int i = 5;
+	int result = ++i; // i is incremented first, then assigned to result.
+	System.out.println("i: " + i);        // Output: 6
+	System.out.println("result: " + result); // Output: 6
+	```
 
-```
+   ### Post-Increment (i++)
+	```
+	int i = 5;
+	int result = i++; // i is assigned to result first, then incremented.
+	System.out.println("i: " + i);        // Output: 6
+	System.out.println("result: " + result); // Output: 5
 
-## Key Points
+	```
 
-1. **Standalone Usage**:
+   ### Key Points
+
+   1. **Standalone Usage**:
    - When used alone (e.g., `i++` or `++i`), both perform the same operation, incrementing the value of `i` by 1.
    - Example:
    ```java
@@ -385,26 +381,26 @@ System.out.println("result: " + result); // Output: 5
      System.out.println(i); // Output: 6
    ```
 
-2. **Usage in Expressions**:
+   2. **Usage in Expressions**:
    - The difference becomes evident when used in expressions, as the order of increment affects the result.
 
----
 
-### Visual Summary
 
- - **`++i` (Pre-Increment)**:
-  - Increments first → Uses updated value.
- - **`i++` (Post-Increment)**:
-  - Uses current value → Increments after usage.
-  
+   ### Visual Summary
+
+   **`++i` (Pre-Increment)**:
+   - Increments first → Uses updated value.
+   
+   **`i++` (Post-Increment)**:
+   - Uses current value → Increments after usage.
   
   
 
 * **What are wrapper classes in Java? Why are they used?** 
 
-**Answer**
+	**Answer**
 
-Wrapper classes in Java are objects that wrap around primitive data types and allow them to be treated as objects. They are part of the `java.lang` package and provide a way to work with primitive types as objects. Each primitive type has a corresponding wrapper class:
+	Wrapper classes in Java are objects that wrap around primitive data types and allow them to be treated as objects. They are part of the `java.lang` package and provide a way to work with primitive types as objects. Each primitive type has a corresponding wrapper class:
 
 | **Primitive Type** | **Wrapper Class**   |
 |---------------------|---------------------|
@@ -417,17 +413,17 @@ Wrapper classes in Java are objects that wrap around primitive data types and al
 | `char`              | `Character`         |
 | `boolean`           | `Boolean`           |
 
----
 
-## Why are Wrapper Classes Used?
 
-1. **Object Manipulation**:
+   ### Why are Wrapper Classes Used?
+
+   1. **Object Manipulation**:
    - Wrapper classes allow primitive types to be used as objects, which is essential when working with Java collections like `ArrayList`, which do not support primitive types.
 
-2. **Utility Methods**:
+   2. **Utility Methods**:
    - Wrapper classes provide methods for converting between strings and their respective primitive types (e.g., `Integer.parseInt()` for converting a `String` to an `int`).
 
-3. **Autoboxing and Unboxing**:
+   3. **Autoboxing and Unboxing**:
    - Java supports **autoboxing** (automatic conversion of primitives to their wrapper classes) and **unboxing** (automatic conversion of wrapper objects to primitives), making it easier to work with collections and primitive types.
    ```java
    int num = 5;
@@ -435,44 +431,44 @@ Wrapper classes in Java are objects that wrap around primitive data types and al
    int newNum = wrapper;  // Unboxing
 	```
 
-4. **Null Handling:**
+   4. **Null Handling:**
 
     Wrapper classes can be assigned null, making them useful in scenarios where a value might be absent (e.g., handling database queries).
 
-5. **Constants and Immutable Nature:**
+   5. **Constants and Immutable Nature:**
 
     Wrapper classes provide constants like Integer.MAX_VALUE and Double.MIN_VALUE for specific type ranges.
     They are immutable, ensuring that the value cannot be changed once created, which helps in maintaining data integrity.
 
 
-### Example of Wrapper Classes
+   ### Example of Wrapper Classes
 
-### Autoboxing and Unboxing
+   ### Autoboxing and Unboxing
 
-```
-// Autoboxing: primitive to wrapper class
-int num = 10;
-Integer wrapperNum = num; // int to Integer
+   ```
+    // Autoboxing: primitive to wrapper class
+    int num = 10;
+	Integer wrapperNum = num; // int to Integer
 
-// Unboxing: wrapper class to primitive
-Integer wrapper = 20;
-int primitiveNum = wrapper; // Integer to int
+	// Unboxing: wrapper class to primitive
+	Integer wrapper = 20;
+	int primitiveNum = wrapper; // Integer to int
 
-```
+	```
 
 
-### Using Wrapper Class Methods
+   ### Using Wrapper Class Methods
 
-```
-String str = "123";
-int parsedInt = Integer.parseInt(str); // Converts String to int
+   ```
+	String str = "123";
+	int parsedInt = Integer.parseInt(str); // Converts String to int
 
-double value = 15.75;
-String strValue = Double.toString(value); // Converts double to String
+	double value = 15.75;
+	String strValue = Double.toString(value); // Converts double to String
 
-```
+   ```
 
-### Key Takeaways
+   ### Key Takeaways
 
    - Wrapper classes are used to treat primitive types as objects.
    - They enable the use of primitive types in collections and provide utility methods for conversions.
@@ -483,41 +479,40 @@ String strValue = Double.toString(value); // Converts double to String
 
 * **What is the difference between == and equals() in Java?**
 
-**Answer**
+	**Answer**
 
-In Java, both `==` and `equals()` are used for comparison, but they serve different purposes. Understanding the difference is essential for accurate comparisons between objects and primitives.
+	In Java, both `==` and `equals()` are used for comparison, but they serve different purposes. Understanding the difference is essential for accurate comparisons between objects and primitives.
 
----
 
-### `==` Operator
+   ### `==` Operator
 
- - **Purpose**: Compares **references** (memory addresses) of objects or **values** of primitive data types.
- - **Usage**: Checks if two variables point to the same memory location or if their primitive values are the same.
- - **Example**:
-  ```java
-   int a = 10;
-   int b = 10;
-   System.out.println(a == b); // Output: true (compares primitive values)
+   - **Purpose**: Compares **references** (memory addresses) of objects or **values** of primitive data types.
+   - **Usage**: Checks if two variables point to the same memory location or if their primitive values are the same.
+   - **Example**:
+   ```java
+    int a = 10;
+    int b = 10;
+    System.out.println(a == b); // Output: true (compares primitive values)
 
-   String str1 = new String("Hello");
-   String str2 = new String("Hello");
-   System.out.println(str1 == str2); // Output: false (compares memory references)
-  ```
+    String str1 = new String("Hello");
+    String str2 = new String("Hello");
+    System.out.println(str1 == str2); // Output: false (compares memory references)
+   ```
 
-### equals() Method
+   ### equals() Method
 
-  Purpose: Compares the contents of objects for equality.
-  Usage: Checks if two objects have the same state or values. This method is overridden in most classes, such as String, to compare the actual contents.
-  Example:
+   Purpose: Compares the contents of objects for equality.
+   Usage: Checks if two objects have the same state or values. This method is overridden in most classes, such as String, to compare the actual contents.
+   Example:
 
-```
-String str1 = new String("Hello");
-String str2 = new String("Hello");
-System.out.println(str1.equals(str2)); // Output: true (compares contents)
+   ```
+	String str1 = new String("Hello");
+	String str2 = new String("Hello");
+	System.out.println(str1.equals(str2)); // Output: true (compares contents)
 
-```
+   ```
 
-### Key Differences
+   ### Key Differences
 
 | **Aspect**              | **`==` Operator**                            | **`equals()` Method**                           |
 |-------------------------|-----------------------------------------------|-------------------------------------------------|
@@ -527,57 +522,56 @@ System.out.println(str1.equals(str2)); // Output: true (compares contents)
 
 
 
-### Example Scenarios
+   ### Example Scenarios
 
-### Primitive Types
+   ### Primitive Types
 
-```
-int x = 5;
-int y = 5;
-System.out.println(x == y); // true (compares primitive values)
+   ```
+	int x = 5;
+	int y = 5;
+	System.out.println(x == y); // true (compares primitive values)
 
-```
+   ```
 
-### Object References
+   ### Object References
 
-```
-String a = new String("Hello");
-String b = new String("Hello");
-System.out.println(a == b); // false (different memory locations)
-System.out.println(a.equals(b)); // true (same content)
+   ```
+	String a = new String("Hello");
+	String b = new String("Hello");
+	System.out.println(a == b); // false (different memory locations)
+	System.out.println(a.equals(b)); // true (same content)
 
-```
+	```
 
 
-### Custom equals() Method
+   ### Custom equals() Method
 
-To ensure proper content comparison, classes should override the equals() method:
+   To ensure proper content comparison, classes should override the equals() method:
 
- ```
- public class Person {
-    private String name;
-    private int age;
+   ```
+	public class Person {
+		private String name;
+		private int age;
 
-    public Person(String name, int age) {
-        this.name = name;
-        this.age = age;
-    }
+		public Person(String name, int age) {
+			this.name = name;
+			this.age = age;
+		}
 
-    @Override
-    public boolean equals(Object obj) {
-        if (this == obj) return true;
-        if (obj == null || getClass() != obj.getClass()) return false;
-        Person person = (Person) obj;
-        return age == person.age && name.equals(person.name);
-    }
- }
+		@Override
+		public boolean equals(Object obj) {
+			if (this == obj) return true;
+			if (obj == null || getClass() != obj.getClass()) return false;
+			Person person = (Person) obj;
+			return age == person.age && name.equals(person.name);
+		}
+	}
+	```
 
- ```
+   ### Key Takeaways
 
-## Key Takeaways
-
-  - Use == for comparing primitive types and checking reference equality for objects.
-  - Use equals() for checking the logical equality of object contents.
-  - Always override equals() when comparing custom objects for equality.
+   - Use == for comparing primitive types and checking reference equality for objects.
+   - Use equals() for checking the logical equality of object contents.
+   - Always override equals() when comparing custom objects for equality.
 	
 	
