@@ -1,99 +1,97 @@
 
 * **What is Java, and why is it platform-independent?**
 
-**Answer:**
+	**Answer:**
  
+	Java is a high-level, object-oriented programming language that was developed by James Gosling at Sun Microsystems (later acquired by Oracle Corporation) and released in 1995. Java is widely used for building various types of applications, including desktop, web, mobile, and enterprise solutions.
+	Key Features of Java
 
-Java is a high-level, object-oriented programming language that was developed by James Gosling at Sun Microsystems (later acquired by Oracle Corporation) and released in 1995. Java is widely used for building various types of applications, including desktop, web, mobile, and enterprise solutions.
-Key Features of Java
+	- **Object-Oriented:** Follows OOP principles like encapsulation, inheritance, and polymorphism.
+	- **Simple:** Designed to be easy to learn and use, especially for those familiar with C++.
+	- **Secure:** Offers built-in security features like bytecode verification, a secure runtime environment, and APIs for cryptography.
+	- **Portable:** Java applications can run on any platform without modification.
+	- **Robust:** Provides strong memory management, exception handling, and automatic garbage collection.
+	- **High Performance:** Though not as fast as C++, Java uses Just-In-Time (JIT) compilation to achieve near-native performance.
+	- **Multithreaded:** Supports concurrent execution of multiple threads for better performance.
+	- **Distributed:** Includes APIs like RMI (Remote Method Invocation) for building distributed systems.
 
-  - **Object-Oriented:** Follows OOP principles like encapsulation, inheritance, and polymorphism.
-  - **Simple:** Designed to be easy to learn and use, especially for those familiar with C++.
-  - **Secure:** Offers built-in security features like bytecode verification, a secure runtime environment, and APIs for cryptography.
-  - **Portable:** Java applications can run on any platform without modification.
-  - **Robust:** Provides strong memory management, exception handling, and automatic garbage collection.
-  - **High Performance:** Though not as fast as C++, Java uses Just-In-Time (JIT) compilation to achieve near-native performance.
-  - **Multithreaded:** Supports concurrent execution of multiple threads for better performance.
-  - **Distributed:** Includes APIs like RMI (Remote Method Invocation) for building distributed systems.
+	**Why is Java Platform-Independent?**
 
-**Why is Java Platform-Independent?**
+	Java is platform-independent because of its "Write Once, Run Anywhere" (WORA) philosophy, which is achieved through the use of the Java Virtual Machine (JVM) and bytecode. Here's how:
 
-Java is platform-independent because of its "Write Once, Run Anywhere" (WORA) philosophy, which is achieved through the use of the Java Virtual Machine (JVM) and bytecode. Here's how:
-
-  - **Source Code Compilation:**
+	- **Source Code Compilation:**
     When you write Java code, it is compiled by the Java Compiler (javac) into an intermediate form called bytecode.
-        Bytecode is a platform-neutral representation of the code.
+    Bytecode is a platform-neutral representation of the code.
 
-  - **Java Virtual Machine (JVM):**
+	- **Java Virtual Machine (JVM):**
     The JVM is responsible for executing the bytecode. It acts as an abstraction layer between the compiled Java program and the underlying hardware or operating system.
-        Different platforms have their own JVM implementations, but all JVMs can execute the same bytecode.
+    Different platforms have their own JVM implementations, but all JVMs can execute the same bytecode.
 
-  - **Platform Independence:**
+	- **Platform Independence:**
     Since the bytecode is the same regardless of the underlying hardware or operating system, Java programs can run on any platform with a compatible JVM.
     For example, you can compile a Java program on Windows and run it on Linux, macOS, or any other OS without recompilation.
 		
 
 * **Explain the structure of a Java program.**		
 
-**Answer:**
+	**Answer:**
+	A Java program follows a specific structure to ensure clarity and functionality. Below is an overview of the main components and their roles in a typical Java program.
 
-A Java program follows a specific structure to ensure clarity and functionality. Below is an overview of the main components and their roles in a typical Java program.
 
----
 
-**Basic Structure of a Java Program**
+	**Basic Structure of a Java Program**
 
-```java
-// 1. Package Declaration (Optional)
-package com.example;
+	```java
+	// 1. Package Declaration (Optional)
+	package com.example;
 
-// 2. Import Statements (Optional)
-import java.util.Scanner;
+	// 2. Import Statements (Optional)
+	import java.util.Scanner;
 
-// 3. Class Declaration
-public class MyClass {
+	// 3. Class Declaration
+	public class MyClass {
 
-	// 4. Main Method (Entry Point)
-	public static void main(String[] args) {
+		// 4. Main Method (Entry Point)
+		public static void main(String[] args) {
 
-       // 5. Statements and Code
-       System.out.println("Hello, World!");
-    }
+			// 5. Statements and Code
+			System.out.println("Hello, World!");
+		}
 
-	// 6. Other Methods (Optional)
-    public void myMethod() {
-        System.out.println("This is a custom method.");
-    }
-}
-```
+		// 6. Other Methods (Optional)
+		public void myMethod() {
+			System.out.println("This is a custom method.");
+		}
+	}
+	```
 
 
 * **What are identifiers and literals in Java?**
 
-**Answer:**
+	**Answer:**
 
-**Identifiers in Java**
+	**Identifiers in Java**
 
-Identifiers are the names used to represent variables, methods, classes, or other elements in a Java program. They must start with a letter, underscore (_), or dollar sign ($), followed by letters, digits, or underscores. Identifiers cannot be Java keywords and are case-sensitive. For example, age, calculateSum, and _temp are valid identifiers.
+	Identifiers are the names used to represent variables, methods, classes, or other elements in a Java program. They must start with a letter, underscore (_), or dollar sign ($), followed by letters, digits, or underscores. Identifiers cannot be Java keywords and are case-sensitive. For example, age, calculateSum, and _temp are valid identifiers.
 
-**Literals in Java**
+	**Literals in Java**
 
-Literals are fixed values directly assigned to variables in the code. They represent constant data types like numbers, characters, or strings. Examples include:
+	Literals are fixed values directly assigned to variables in the code. They represent constant data types like numbers, characters, or strings. Examples include:
 
-    Integer: 10
-    Floating-point: 3.14
-    Character: 'A'
-    String: "Hello"
-    Boolean: true, false.
+		Integer: 10
+		Floating-point: 3.14
+		Character: 'A'
+		String: "Hello"
+		Boolean: true, false.
 
-These values cannot be modified.
+	These values cannot be modified.
 
 
 * **Describe the differences between primitive and non-primitive data types.**
 
-**Answer:**  
+	**Answer:**  
 
-Java provides two categories of data types: **Primitive** and **Non-Primitive**. Below is a comparison highlighting their key differences:
+	Java provides two categories of data types: **Primitive** and **Non-Primitive**. Below is a comparison highlighting their key differences:
 
 | **Aspect**              | **Primitive Data Types**                                   | **Non-Primitive Data Types**                                  |
 |--------------------------|----------------------------------------------------------|-------------------------------------------------------------|
@@ -106,110 +104,105 @@ Java provides two categories of data types: **Primitive** and **Non-Primitive**.
 | **Performance**          | Faster and more efficient.                               | Slower due to additional overhead of object manipulation.   |
 | **Usage**                | Used for simple values (e.g., numbers, characters).      | Used for complex structures (e.g., strings, collections).   |
 
----
 
-**Examples**
 
-**Primitive Data Type Example**
-```java
-int age = 25;
-char grade = 'A';
-boolean isPassed = true;
-```
+	**Examples**
 
-**Non-Primitive Data Type Example**
+	**Primitive Data Type Example**
+	```java
+	int age = 25;
+	char grade = 'A';
+	boolean isPassed = true;
+	```
 
-```
-String name = "John";
-int[] numbers = {1, 2, 3, 4, 5};
-Object obj = new Object();
-```
+	**Non-Primitive Data Type Example**
 
-**Key Takeaways**
+	```
+	String name = "John";
+	int[] numbers = {1, 2, 3, 4, 5};
+	Object obj = new Object();
+	```
 
-  - Primitive Types are simpler and more performance-efficient but lack advanced features.
-  - Non-Primitive Types are more versatile, supporting methods and structures but with additional overhead.
+	**Key Takeaways**
+
+	- Primitive Types are simpler and more performance-efficient but lack advanced features.
+	- Non-Primitive Types are more versatile, supporting methods and structures but with additional overhead.
 	
 	
 
 * **What are reserved keywords in Java? List some examples.**
 
-**Answer:**  
-
-Reserved keywords in Java are predefined words that have special meanings and purposes in the language. These keywords are part of the Java syntax and cannot be used as identifiers (e.g., variable names, class names, or method names).
-
----
-
-**Characteristics of Reserved Keywords**
-
-- **Case-Sensitive**: All keywords must be written in lowercase.
-- **Fixed Purpose**: Each keyword has a specific function and cannot be repurposed.
-- **Integral to Syntax**: They form the foundation of Java programming.
-
----
-
-**Examples of Reserved Keywords**
-
-Java has **53 reserved keywords**, which include control flow statements, data types, modifiers, and others. Below are some examples:
-
-**Control Statements**
-- `if`, `else`, `switch`, `case`, `default`
-- `for`, `while`, `do`, `break`, `continue`
-
-**Data Types**
-- `int`, `float`, `double`, `boolean`, `char`, `byte`, `short`, `long`
-
-**Access Modifiers**
-- `public`, `private`, `protected`
-
-**Class and Object Keywords**
-- `class`, `interface`, `extends`, `implements`, `this`, `super`
-
-**Exception Handling**
-- `try`, `catch`, `finally`, `throw`, `throws`
-
-**Others**
-- `return`, `void`, `static`, `final`, `abstract`, `synchronized`, `volatile`, `transient`
-
----
-
-**Notes**
-
-1. **Reserved Literals**: Java also includes reserved literals like `true`, `false`, and `null` which are technically not keywords but are reserved for specific uses.
-2. **Future Reserved Words**: Some words like `const` and `goto` are reserved but not currently in use.
-
----
-
-### Example Program Using Reserved Keywords
-```java
-public class KeywordExample {
-    public static void main(String[] args) {
-        int number = 10;
-        if (number > 5) {
-            System.out.println("Number is greater than 5");
-        } else {
-            System.out.println("Number is 5 or less");
-        }
-    }
-}
-```
+	**Answer:**  
+	Reserved keywords in Java are predefined words that have special meanings and purposes in the language. These keywords are part of the Java syntax and cannot be used as identifiers (e.g., variable names, class names, or method names).
 
 
-### Key Takeaways
+	**Characteristics of Reserved Keywords**
 
-  - Reserved keywords form the building blocks of Java programming.
-  - They cannot be redefined or used as custom identifiers.
-  - Familiarity with these keywords is essential for writing syntactically correct Java programs.
+	- **Case-Sensitive**: All keywords must be written in lowercase.
+	- **Fixed Purpose**: Each keyword has a specific function and cannot be repurposed.
+	- **Integral to Syntax**: They form the foundation of Java programming.
+
+
+	**Examples of Reserved Keywords**
+
+	Java has **53 reserved keywords**, which include control flow statements, data types, modifiers, and others. Below are some examples:
+
+	**Control Statements**
+	- `if`, `else`, `switch`, `case`, `default`
+	- `for`, `while`, `do`, `break`, `continue`
+
+	**Data Types**
+	- `int`, `float`, `double`, `boolean`, `char`, `byte`, `short`, `long`
+
+	**Access Modifiers**
+	- `public`, `private`, `protected`
+
+	**Class and Object Keywords**
+	- `class`, `interface`, `extends`, `implements`, `this`, `super`
+
+	**Exception Handling**
+	- `try`, `catch`, `finally`, `throw`, `throws`
+
+	**Others**
+	- `return`, `void`, `static`, `final`, `abstract`, `synchronized`, `volatile`, `transient`
+
+
+
+	**Notes**
+
+	1. **Reserved Literals**: Java also includes reserved literals like `true`, `false`, and `null` which are technically not keywords but are reserved for specific uses.
+	2. **Future Reserved Words**: Some words like `const` and `goto` are reserved but not currently in use.
+
+
+	### Example Program Using Reserved Keywords
+	```java
+	public class KeywordExample {
+		public static void main(String[] args) {
+			int number = 10;
+			if (number > 5) {
+				System.out.println("Number is greater than 5");
+			} else {
+				System.out.println("Number is 5 or less");
+			}
+		}
+	}
+	```
+
+
+	### Key Takeaways
+
+	- Reserved keywords form the building blocks of Java programming.
+	- They cannot be redefined or used as custom identifiers.
+	- Familiarity with these keywords is essential for writing syntactically correct Java programs.
 
 
 
 * **Explain the concept of type promotion in expressions.**
 
-**Answer:**
+	**Answer:**
+	Type promotion in Java refers to the automatic conversion of smaller data types (e.g., `byte`, `short`, `char`) to larger data types (e.g., `int`, `long`, `float`, `double`) when evaluating expressions. This ensures precision and consistency during calculations.
 
-Type promotion in Java refers to the automatic conversion of smaller data types (e.g., `byte`, `short`, `char`) to larger data types (e.g., `int`, `long`, `float`, `double`) when evaluating expressions. This ensures precision and consistency during calculations.
 
----
 
 ### Rules of Type Promotion
 
