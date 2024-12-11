@@ -1,5 +1,3 @@
-## 📘 Under Development..
-
 
 * **What is Java, and why is it platform-independent?**
 
@@ -9,43 +7,41 @@
 Java is a high-level, object-oriented programming language that was developed by James Gosling at Sun Microsystems (later acquired by Oracle Corporation) and released in 1995. Java is widely used for building various types of applications, including desktop, web, mobile, and enterprise solutions.
 Key Features of Java
 
-    - **Object-Oriented:** Follows OOP principles like encapsulation, inheritance, and polymorphism.
-    - **Simple:** Designed to be easy to learn and use, especially for those familiar with C++.
-    - **Secure:** Offers built-in security features like bytecode verification, a secure runtime environment, and APIs for cryptography.
-    - **Portable:** Java applications can run on any platform without modification.
-    - **Robust:** Provides strong memory management, exception handling, and automatic garbage collection.
-    - **High Performance:** Though not as fast as C++, Java uses Just-In-Time (JIT) compilation to achieve near-native performance.
-    - **Multithreaded:** Supports concurrent execution of multiple threads for better performance.
-    - **Distributed:** Includes APIs like RMI (Remote Method Invocation) for building distributed systems.
+  - **Object-Oriented:** Follows OOP principles like encapsulation, inheritance, and polymorphism.
+  - **Simple:** Designed to be easy to learn and use, especially for those familiar with C++.
+  - **Secure:** Offers built-in security features like bytecode verification, a secure runtime environment, and APIs for cryptography.
+  - **Portable:** Java applications can run on any platform without modification.
+  - **Robust:** Provides strong memory management, exception handling, and automatic garbage collection.
+  - **High Performance:** Though not as fast as C++, Java uses Just-In-Time (JIT) compilation to achieve near-native performance.
+  - **Multithreaded:** Supports concurrent execution of multiple threads for better performance.
+  - **Distributed:** Includes APIs like RMI (Remote Method Invocation) for building distributed systems.
 
 **Why is Java Platform-Independent?**
 
 Java is platform-independent because of its "Write Once, Run Anywhere" (WORA) philosophy, which is achieved through the use of the Java Virtual Machine (JVM) and bytecode. Here's how:
 
-    - **Source Code Compilation:**
-        When you write Java code, it is compiled by the Java Compiler (javac) into an intermediate form called bytecode.
+  - **Source Code Compilation:**
+    When you write Java code, it is compiled by the Java Compiler (javac) into an intermediate form called bytecode.
         Bytecode is a platform-neutral representation of the code.
 
-    - **Java Virtual Machine (JVM):**
-        The JVM is responsible for executing the bytecode. It acts as an abstraction layer between the compiled Java program and the underlying hardware or operating system.
+  - **Java Virtual Machine (JVM):**
+    The JVM is responsible for executing the bytecode. It acts as an abstraction layer between the compiled Java program and the underlying hardware or operating system.
         Different platforms have their own JVM implementations, but all JVMs can execute the same bytecode.
 
-    - **Platform Independence:**
-        Since the bytecode is the same regardless of the underlying hardware or operating system, Java programs can run on any platform with a compatible JVM.
-        For example, you can compile a Java program on Windows and run it on Linux, macOS, or any other OS without recompilation.
+  - **Platform Independence:**
+    Since the bytecode is the same regardless of the underlying hardware or operating system, Java programs can run on any platform with a compatible JVM.
+    For example, you can compile a Java program on Windows and run it on Linux, macOS, or any other OS without recompilation.
 		
 
 * **Explain the structure of a Java program.**		
 
 **Answer:**
 
-# Structure of a Java Program
-
 A Java program follows a specific structure to ensure clarity and functionality. Below is an overview of the main components and their roles in a typical Java program.
 
 ---
 
-## Basic Structure of a Java Program
+**Basic Structure of a Java Program**
 
 ```java
 // 1. Package Declaration (Optional)
@@ -112,16 +108,16 @@ Java provides two categories of data types: **Primitive** and **Non-Primitive**.
 
 ---
 
-## Examples
+**Examples**
 
-### Primitive Data Type Example
+**Primitive Data Type Example**
 ```java
 int age = 25;
 char grade = 'A';
 boolean isPassed = true;
 ```
 
-### Non-Primitive Data Type Example
+**Non-Primitive Data Type Example**
 
 ```
 String name = "John";
@@ -135,7 +131,6 @@ Object obj = new Object();
   - Non-Primitive Types are more versatile, supporting methods and structures but with additional overhead.
 	
 	
-	
 
 * **What are reserved keywords in Java? List some examples.**
 
@@ -145,7 +140,7 @@ Reserved keywords in Java are predefined words that have special meanings and pu
 
 ---
 
-## Characteristics of Reserved Keywords
+**Characteristics of Reserved Keywords**
 
 - **Case-Sensitive**: All keywords must be written in lowercase.
 - **Fixed Purpose**: Each keyword has a specific function and cannot be repurposed.
@@ -153,39 +148,39 @@ Reserved keywords in Java are predefined words that have special meanings and pu
 
 ---
 
-## Examples of Reserved Keywords
+**Examples of Reserved Keywords**
 
 Java has **53 reserved keywords**, which include control flow statements, data types, modifiers, and others. Below are some examples:
 
-### **Control Statements**
+**Control Statements**
 - `if`, `else`, `switch`, `case`, `default`
 - `for`, `while`, `do`, `break`, `continue`
 
-### **Data Types**
+**Data Types**
 - `int`, `float`, `double`, `boolean`, `char`, `byte`, `short`, `long`
 
-### **Access Modifiers**
+**Access Modifiers**
 - `public`, `private`, `protected`
 
-### **Class and Object Keywords**
+**Class and Object Keywords**
 - `class`, `interface`, `extends`, `implements`, `this`, `super`
 
-### **Exception Handling**
+**Exception Handling**
 - `try`, `catch`, `finally`, `throw`, `throws`
 
-### **Others**
+**Others**
 - `return`, `void`, `static`, `final`, `abstract`, `synchronized`, `volatile`, `transient`
 
 ---
 
-## Notes
+**Notes**
 
 1. **Reserved Literals**: Java also includes reserved literals like `true`, `false`, and `null` which are technically not keywords but are reserved for specific uses.
 2. **Future Reserved Words**: Some words like `const` and `goto` are reserved but not currently in use.
 
 ---
 
-## Example Program Using Reserved Keywords
+### Example Program Using Reserved Keywords
 ```java
 public class KeywordExample {
     public static void main(String[] args) {
@@ -200,7 +195,7 @@ public class KeywordExample {
 ```
 
 
-## Key Takeaways
+### Key Takeaways
 
   - Reserved keywords form the building blocks of Java programming.
   - They cannot be redefined or used as custom identifiers.
@@ -212,14 +207,11 @@ public class KeywordExample {
 
 **Answer:**
 
- 
-## What is Type Promotion?
-
 Type promotion in Java refers to the automatic conversion of smaller data types (e.g., `byte`, `short`, `char`) to larger data types (e.g., `int`, `long`, `float`, `double`) when evaluating expressions. This ensures precision and consistency during calculations.
 
 ---
 
-## Rules of Type Promotion
+### Rules of Type Promotion
 
 1. **Small Data Types to `int`**:
    - In expressions, `byte`, `short`, and `char` are automatically promoted to `int` if they are involved in any operation.
@@ -251,7 +243,7 @@ Type promotion in Java refers to the automatic conversion of smaller data types 
 
 ---
 
-## Example of Type Promotion
+### Example of Type Promotion
 ```java
 public class TypePromotionExample {
     public static void main(String[] args) {
@@ -270,32 +262,29 @@ public class TypePromotionExample {
 ```
 
 
-## Key Points to Remember
+### Key Points to Remember
 
   - Type promotion ensures precision during calculations by converting smaller types to larger types automatically.
   - Operations involving byte, short, and char always result in an int.
   - Mixed-type expressions follow the promotion hierarchy, ensuring no loss of information.
 	
 	
-## Use Cases
+### Use Cases
 
   - Mathematical operations involving multiple data types.
   - Avoiding explicit type casting in simple arithmetic expressions.	
 	
 
+
 * **What is the purpose of the main() method in Java?**
 
 **Answer:**
-
-# Purpose of the `main()` Method in Java
-
-## What is the `main()` Method?
 
 The `main()` method in Java is the **entry point** of any standalone Java application. When a program is executed, the Java Virtual Machine (JVM) begins execution by calling the `main()` method.
 
 ---
 
-## Syntax of `main()` Method
+### Syntax of `main()` Method
 
 ```java
 public static void main(String[] args) {
@@ -304,7 +293,7 @@ public static void main(String[] args) {
 ```
 
 
-## Explanation of Keywords:
+### Explanation of Keywords:
 
   - public: Makes the method accessible from anywhere, ensuring the JVM can call it.
   - static: Allows the method to be invoked without creating an instance of the class.
@@ -312,7 +301,7 @@ public static void main(String[] args) {
   - String[] args: Accepts command-line arguments as an array of String.
 
 
-## Purpose of the main() Method
+### Purpose of the main() Method
 
   - Entry Point: The JVM starts program execution from the main() method.
   - Command-Line Arguments: Enables passing data to the program at runtime.
@@ -320,7 +309,7 @@ public static void main(String[] args) {
 
 
 
-## Example of a main() Method
+### Example of a main() Method
 
 
 ```
@@ -337,16 +326,16 @@ public class MainExample {
 
 ```
 
-## Execution:
+### Execution:
 
   - Compile: javac MainExample.java
   - Run: java MainExample Hello
-        Output:
-		```
-		Hello, World!
-		First argument: Hello
+    Output:
+	```
+	Hello, World!
+	First argument: Hello
 
-		```
+	```
 Key Points
 
   - The main() method must always follow the correct syntax for the JVM to recognize it.
@@ -354,19 +343,16 @@ Key Points
   - In GUI or web applications, the main() method is typically used to initialize the program or start the application server.
 
 
+
 * **What is the difference between ++i and i++?**
 
 **Answer**
-
-# Difference Between `++i` and `i++` in Java
-
-## Overview
 
 In Java, both `++i` and `i++` are increment operators used to increase the value of a variable by 1. However, they behave differently depending on their usage in expressions.
 
 ---
 
-## Key Differences
+### Key Differences
 
 | **Aspect**              | **`++i` (Pre-Increment)**                          | **`i++` (Post-Increment)**                       |
 |--------------------------|---------------------------------------------------|-------------------------------------------------|
@@ -376,7 +362,7 @@ In Java, both `++i` and `i++` are increment operators used to increase the value
 
 ---
 
-## Example and Behavior
+### Example and Behavior
 
 ### Pre-Increment (`++i`)
 ```java
@@ -400,32 +386,30 @@ System.out.println("result: " + result); // Output: 5
 1. **Standalone Usage**:
    - When used alone (e.g., `i++` or `++i`), both perform the same operation, incrementing the value of `i` by 1.
    - Example:
-     ```java
+   ```java
      int i = 5;
      i++;
      System.out.println(i); // Output: 6
-     ```
+   ```
 
 2. **Usage in Expressions**:
    - The difference becomes evident when used in expressions, as the order of increment affects the result.
 
 ---
 
-## Visual Summary
+### Visual Summary
 
-- **`++i` (Pre-Increment)**:
+ - **`++i` (Pre-Increment)**:
   - Increments first → Uses updated value.
-- **`i++` (Post-Increment)**:
+ - **`i++` (Post-Increment)**:
   - Uses current value → Increments after usage.
   
   
   
- * **What are wrapper classes in Java? Why are they used?** 
+
+* **What are wrapper classes in Java? Why are they used?** 
 
 **Answer**
-
-
-## What are Wrapper Classes?
 
 Wrapper classes in Java are objects that wrap around primitive data types and allow them to be treated as objects. They are part of the `java.lang` package and provide a way to work with primitive types as objects. Each primitive type has a corresponding wrapper class:
 
@@ -468,9 +452,9 @@ Wrapper classes in Java are objects that wrap around primitive data types and al
     They are immutable, ensuring that the value cannot be changed once created, which helps in maintaining data integrity.
 
 
-## Example of Wrapper Classes
+### Example of Wrapper Classes
 
-## Autoboxing and Unboxing
+### Autoboxing and Unboxing
 
 ```
 // Autoboxing: primitive to wrapper class
@@ -484,7 +468,7 @@ int primitiveNum = wrapper; // Integer to int
 ```
 
 
-## Using Wrapper Class Methods
+### Using Wrapper Class Methods
 
 ```
 String str = "123";
@@ -495,40 +479,39 @@ String strValue = Double.toString(value); // Converts double to String
 
 ```
 
-## Key Takeaways
+### Key Takeaways
 
-  - Wrapper classes are used to treat primitive types as objects.
-  - They enable the use of primitive types in collections and provide utility methods for conversions.
-  - Autoboxing and unboxing make conversions between primitives and wrapper classes seamless.
-  - Wrapper classes help manage null values and provide useful constants.
+   - Wrapper classes are used to treat primitive types as objects.
+   - They enable the use of primitive types in collections and provide utility methods for conversions.
+   - Autoboxing and unboxing make conversions between primitives and wrapper classes seamless.
+   - Wrapper classes help manage null values and provide useful constants.
+
 
 
 * **What is the difference between == and equals() in Java?**
 
 **Answer**
 
-## Overview
-
 In Java, both `==` and `equals()` are used for comparison, but they serve different purposes. Understanding the difference is essential for accurate comparisons between objects and primitives.
 
 ---
 
-## `==` Operator
+### `==` Operator
 
-- **Purpose**: Compares **references** (memory addresses) of objects or **values** of primitive data types.
-- **Usage**: Checks if two variables point to the same memory location or if their primitive values are the same.
-- **Example**:
+ - **Purpose**: Compares **references** (memory addresses) of objects or **values** of primitive data types.
+ - **Usage**: Checks if two variables point to the same memory location or if their primitive values are the same.
+ - **Example**:
   ```java
-  int a = 10;
-  int b = 10;
-  System.out.println(a == b); // Output: true (compares primitive values)
+   int a = 10;
+   int b = 10;
+   System.out.println(a == b); // Output: true (compares primitive values)
 
-  String str1 = new String("Hello");
-  String str2 = new String("Hello");
-  System.out.println(str1 == str2); // Output: false (compares memory references)
-```
+   String str1 = new String("Hello");
+   String str2 = new String("Hello");
+   System.out.println(str1 == str2); // Output: false (compares memory references)
+  ```
 
-## equals() Method
+### equals() Method
 
   Purpose: Compares the contents of objects for equality.
   Usage: Checks if two objects have the same state or values. This method is overridden in most classes, such as String, to compare the actual contents.
@@ -541,7 +524,7 @@ System.out.println(str1.equals(str2)); // Output: true (compares contents)
 
 ```
 
-## Key Differences
+### Key Differences
 
 | **Aspect**              | **`==` Operator**                            | **`equals()` Method**                           |
 |-------------------------|-----------------------------------------------|-------------------------------------------------|
@@ -551,7 +534,7 @@ System.out.println(str1.equals(str2)); // Output: true (compares contents)
 
 
 
-## Example Scenarios
+### Example Scenarios
 
 ### Primitive Types
 
@@ -562,7 +545,7 @@ System.out.println(x == y); // true (compares primitive values)
 
 ```
 
-## Object References
+### Object References
 
 ```
 String a = new String("Hello");
@@ -573,12 +556,12 @@ System.out.println(a.equals(b)); // true (same content)
 ```
 
 
-## Custom equals() Method
+### Custom equals() Method
 
 To ensure proper content comparison, classes should override the equals() method:
 
-```
-public class Person {
+ ```
+ public class Person {
     private String name;
     private int age;
 
@@ -594,9 +577,9 @@ public class Person {
         Person person = (Person) obj;
         return age == person.age && name.equals(person.name);
     }
-}
+ }
 
-```
+ ```
 
 ## Key Takeaways
 
