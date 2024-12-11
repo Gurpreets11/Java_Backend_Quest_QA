@@ -131,7 +131,7 @@
 	
 	
 
-### What are reserved keywords in Java? List some examples.
+* **What are reserved keywords in Java? List some examples.**
 
 	**Answer:**  
 	Reserved keywords in Java are predefined words that have special meanings and purposes in the language. These keywords are part of the Java syntax and cannot be used as identifiers (e.g., variable names, class names, or method names).
@@ -198,8 +198,7 @@
 
 
 
-
-### Explain the concept of type promotion in expressions.
+* **Explain the concept of type promotion in expressions.**
 
 	**Answer:**
 	Type promotion in Java refers to the automatic conversion of smaller data types (e.g., `byte`, `short`, `char`) to larger data types (e.g., `int`, `long`, `float`, `double`) when evaluating expressions. This ensures precision and consistency during calculations.
@@ -227,7 +226,8 @@
 
    3. **Promotion Hierarchy**:
    - `byte` → `short` → `int` → `long` → `float` → `double`
-   
+
+
    4. **Character Promotion**:
    - Characters are promoted to their Unicode `int` value during operations.
    - Example:
@@ -391,10 +391,11 @@
 
    **Visual Summary**
 
-   **`++i` (Pre-Increment)**:- Increments first → Uses updated value.
+    **`++i` (Pre-Increment)**:
+     - Increments first → Uses updated value.
    
-   **`i++` (Post-Increment)**:- Uses current value → Increments after usage.
-  
+    **`i++` (Post-Increment)**:
+     - Uses current value → Increments after usage.
   
   
 
@@ -480,6 +481,7 @@
 * **What is the difference between == and equals() in Java?**
 
 	**Answer**
+
 	In Java, both `==` and `equals()` are used for comparison, but they serve different purposes. Understanding the difference is essential for accurate comparisons between objects and primitives.
 
 
