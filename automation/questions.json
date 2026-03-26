@@ -3,7 +3,7 @@
   "What is JDK and JRE?",
   "Explain OOP principles in Java",
   "What is method overloading?",
-  "What is method overriding?"
+  "What is method overriding?",
   "How is a String object created in Java?",
   "What is the difference between String and CharSequence?",
   "Explain the purpose of the String.intern() method.",
@@ -13,5 +13,5 @@
   "Explain how String.format() works.",
   "How does the String.join() method work?",
   "What are escape sequences in strings? Provide examples.",
-  "Compare the efficiency of String concatenation using + operator and StringBuilder.",
+  "Compare the efficiency of String concatenation using + operator and StringBuilder."
 ]
