@@ -34,3 +34,14 @@ Answer not found. Please update manually.
 Answer not found. Please update manually.
 
 ---
+
+## 🗓️ 2026-03-26
+
+### ❓ What is method overriding?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
