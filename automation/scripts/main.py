@@ -135,6 +135,9 @@ try:
         subprocess.run(["git", "config", "user.name", "github-actions"])
         subprocess.run(["git", "config", "user.email", "actions@github.com"])
 
+        # Pull latest changes (IMPORTANT)
+        subprocess.run(["git", "pull", "--rebase"])
+
         subprocess.run(["git", "add", "."])
         subprocess.run(["git", "commit", "-m", f"Auto update: {question}"])
         subprocess.run(["git", "push"])
