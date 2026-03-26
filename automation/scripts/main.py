@@ -43,31 +43,70 @@ print(f"👉 Selected Question: {question}")
 # -------------------------------
 def fetch_answer_stackoverflow(query):
     try:
-        search_url = f"https://stackoverflow.com/search?q={query.replace(' ', '+')}"
         headers = {"User-Agent": "Mozilla/5.0"}
-        
+
+        # Step 1: Search
+        search_url = f"https://stackoverflow.com/search?q={query.replace(' ', '+')}"
         res = requests.get(search_url, headers=headers)
         soup = BeautifulSoup(res.text, "html.parser")
 
-        # Get first question link
-        question_link = soup.select_one(".question-summary .result-link a")
-        if not question_link:
+        # Updated selector (NEW StackOverflow UI)
+        result = soup.select_one("div.s-post-summary a.s-link")
+        if not result:
+            print("❌ No search results found")
             return None
 
-        question_url = "https://stackoverflow.com" + question_link['href']
+        question_url = "https://stackoverflow.com" + result['href']
+        print("🔗 URL:", question_url)
 
-        # Open question page
+        # Step 2: Open question page
         res = requests.get(question_url, headers=headers)
         soup = BeautifulSoup(res.text, "html.parser")
 
-        answer = soup.select_one(".answercell")
-        if answer:
-            return answer.get_text(strip=True)[:1000]  # limit size
+        # Get top answer
+        answer_div = soup.select_one("div.answer div.s-prose")
+        if answer_div:
+            text = answer_div.get_text("\n", strip=True)
+            return text[:1500]  # limit size
 
+        print("❌ No answer found on page")
         return None
 
     except Exception as e:
-        print("Error fetching:", e)
+        print("❌ Error fetching:", e)
+        return None
+
+
+# -------------------------------
+# Fetch Answer (GFG)
+# -------------------------------
+
+def fetch_answer_gfg(query):
+    try:
+        headers = {"User-Agent": "Mozilla/5.0"}
+
+        search_url = f"https://www.google.com/search?q={query.replace(' ', '+')}+site:geeksforgeeks.org"
+        res = requests.get(search_url, headers=headers)
+        soup = BeautifulSoup(res.text, "html.parser")
+
+        link = soup.select_one("a")
+        if not link:
+            return None
+
+        url = link.get("href")
+        if not url or "geeksforgeeks" not in url:
+            return None
+
+        res = requests.get(url, headers=headers)
+        soup = BeautifulSoup(res.text, "html.parser")
+
+        article = soup.select_one("div.text")
+        if article:
+            return article.get_text("\n", strip=True)[:1500]
+
+        return None
+
+    except:
         return None
 
 # -------------------------------
@@ -76,7 +115,14 @@ def fetch_answer_stackoverflow(query):
 answer = fetch_answer_stackoverflow(question)
 
 if not answer:
+    print("🔁 Trying GeeksforGeeks...")
+    answer = fetch_answer_gfg(question)
+
+if not answer:
     answer = "Answer not found. Please update manually."
+
+
+answer = f"```\n{answer}\n```"
 
 # -------------------------------
 # Write to Markdown
@@ -125,21 +171,29 @@ except Exception as e:
 # Git Commit
 # -------------------------------
 try:
-    print("📌 Checking git changes...")
+    print("📌 Configuring git...")
 
+    subprocess.run(["git", "config", "user.name", "github-actions"])
+    subprocess.run(["git", "config", "user.email", "actions@github.com"])
+
+    # ✅ STEP 1: Pull latest FIRST (before checking changes)
+    print("📥 Pulling latest changes...")
+    subprocess.run(["git", "pull", "--rebase"])
+
+    # ✅ STEP 2: Check for changes AFTER your script modified files
+    print("📌 Checking git changes...")
     diff = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
 
     print("Git Status:\n", diff.stdout)
 
     if diff.stdout.strip():
-        subprocess.run(["git", "config", "user.name", "github-actions"])
-        subprocess.run(["git", "config", "user.email", "actions@github.com"])
-
-        # Pull latest changes (IMPORTANT)
-        subprocess.run(["git", "pull", "--rebase"])
-
+        print("📌 Adding changes...")
         subprocess.run(["git", "add", "."])
+
+        print("📌 Committing changes...")
         subprocess.run(["git", "commit", "-m", f"Auto update: {question}"])
+
+        print("🚀 Pushing changes...")
         subprocess.run(["git", "push"])
 
         print("✅ Changes pushed")

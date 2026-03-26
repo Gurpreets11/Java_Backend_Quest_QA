@@ -1,6 +1,9 @@
 name: Daily Java Q&A Automation
 
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron: '0 3 * * *'   # Runs daily (UTC)
   workflow_dispatch:       # Manual trigger button

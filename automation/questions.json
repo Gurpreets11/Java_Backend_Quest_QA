@@ -4,4 +4,14 @@
   "Explain OOP principles in Java",
   "What is method overloading?",
   "What is method overriding?"
+  "How is a String object created in Java?",
+  "What is the difference between String and CharSequence?",
+  "Explain the purpose of the String.intern() method.",
+  "What is the use of the split() method in the String class?",
+  "How can you reverse a String in Java without using a library?",
+  "How can you check if a String is a palindrome?",
+  "Explain how String.format() works.",
+  "How does the String.join() method work?",
+  "What are escape sequences in strings? Provide examples.",
+  "Compare the efficiency of String concatenation using + operator and StringBuilder.",
 ]
