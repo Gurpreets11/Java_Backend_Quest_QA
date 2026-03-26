@@ -2,6 +2,7 @@ import json
 import datetime
 import requests
 from bs4 import BeautifulSoup
+import subprocess
 
 # -------------------------------
 # Load Questions
@@ -91,3 +92,16 @@ with open('automation/processed.json', 'w') as f:
     json.dump(processed, f)
 
 print(f"Processed: {question}")
+
+
+
+print("📌 Committing changes...")
+
+subprocess.run(["git", "config", "user.name", "github-actions"])
+subprocess.run(["git", "config", "user.email", "actions@github.com"])
+
+subprocess.run(["git", "add", "."])
+subprocess.run(["git", "commit", "-m", f"Auto update: {question}"])
+subprocess.run(["git", "push"])
+
+print("✅ Changes pushed to repository")

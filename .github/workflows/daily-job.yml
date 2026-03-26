@@ -1,0 +1,26 @@
+name: Daily Java Q&A Automation
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # Runs daily (UTC)
+  workflow_dispatch:       # Manual trigger button
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run Script
+        run: python automation/scripts/main.py
