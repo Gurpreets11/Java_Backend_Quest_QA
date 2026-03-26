@@ -4,25 +4,39 @@ import requests
 from bs4 import BeautifulSoup
 import subprocess
 
+print("🚀 Script started")
+
 # -------------------------------
 # Load Questions
 # -------------------------------
-with open('automation/questions.json', 'r') as f:
-    questions = json.load(f)
+try:
+    with open('automation/questions.json', 'r') as f:
+        questions = json.load(f)
+    print(f"✅ Questions loaded: {len(questions)}")
+except Exception as e:
+    print("❌ Error loading questions:", e)
+    exit()
 
 # -------------------------------
 # Load Processed Index
 # -------------------------------
-with open('automation/processed.json', 'r') as f:
-    processed = json.load(f)
+try:
+    with open('automation/processed.json', 'r') as f:
+        processed = json.load(f)
+    print("✅ Processed file loaded")
+except Exception as e:
+    print("❌ Error loading processed.json:", e)
+    exit()
 
 index = processed.get("index", 0)
+print(f"📌 Current index: {index}")
 
 if index >= len(questions):
-    print("All questions processed")
+    print("⚠️ All questions processed")
     exit()
 
 question = questions[index]
+print(f"👉 Selected Question: {question}")
 
 # -------------------------------
 # Fetch Answer (StackOverflow)
@@ -65,11 +79,12 @@ if not answer:
     answer = "Answer not found. Please update manually."
 
 # -------------------------------
-# Append to Markdown
+# Write to Markdown
 # -------------------------------
-today = datetime.date.today()
+try:
+    today = datetime.date.today()
 
-entry = f"""
+    entry = f"""
 ## 🗓️ {today}
 
 ### ❓ {question}
@@ -80,28 +95,55 @@ entry = f"""
 ---
 """
 
-with open('daily-updates.md', 'a', encoding='utf-8') as f:
-    f.write(entry)
+    with open('daily-updates.md', 'a', encoding='utf-8') as f:
+        f.write(entry)
+
+    print("✅ Written to daily-updates.md")
+
+except Exception as e:
+    print("❌ Error writing markdown:", e)
+    exit()
 
 # -------------------------------
 # Update Index
 # -------------------------------
-processed["index"] = index + 1
+try:
+    processed["index"] = index + 1
 
-with open('automation/processed.json', 'w') as f:
-    json.dump(processed, f)
+    with open('automation/processed.json', 'w') as f:
+        json.dump(processed, f)
 
-print(f"Processed: {question}")
+    print("✅ Updated processed.json")
+
+except Exception as e:
+    print("❌ Error updating processed.json:", e)
+    exit()
 
 
 
-print("📌 Committing changes...")
+# -------------------------------
+# Git Commit
+# -------------------------------
+try:
+    print("📌 Checking git changes...")
 
-subprocess.run(["git", "config", "user.name", "github-actions"])
-subprocess.run(["git", "config", "user.email", "actions@github.com"])
+    diff = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
 
-subprocess.run(["git", "add", "."])
-subprocess.run(["git", "commit", "-m", f"Auto update: {question}"])
-subprocess.run(["git", "push"])
+    print("Git Status:\n", diff.stdout)
 
-print("✅ Changes pushed to repository")
+    if diff.stdout.strip():
+        subprocess.run(["git", "config", "user.name", "github-actions"])
+        subprocess.run(["git", "config", "user.email", "actions@github.com"])
+
+        subprocess.run(["git", "add", "."])
+        subprocess.run(["git", "commit", "-m", f"Auto update: {question}"])
+        subprocess.run(["git", "push"])
+
+        print("✅ Changes pushed")
+    else:
+        print("⚠️ No changes detected")
+
+except Exception as e:
+    print("❌ Git error:", e)
+
+print("🏁 Script finished")
