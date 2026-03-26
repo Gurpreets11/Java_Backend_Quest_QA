@@ -45,3 +45,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-03-26
+
+### ❓ How is a String object created in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
