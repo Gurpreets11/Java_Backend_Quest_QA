@@ -16,3 +16,21 @@ Answer not found. Please update manually.
 Answer not found. Please update manually.
 
 ---
+
+## 🗓️ 2026-03-26
+
+### ❓ Explain OOP principles in Java
+
+**Answer:**
+Answer not found. Please update manually.
+
+---
+
+## 🗓️ 2026-03-26
+
+### ❓ What is method overloading?
+
+**Answer:**
+Answer not found. Please update manually.
+
+---
