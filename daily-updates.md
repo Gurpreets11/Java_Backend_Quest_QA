@@ -89,3 +89,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-03-30
+
+### ❓ What is the difference between == and equals() in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
