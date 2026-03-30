@@ -78,3 +78,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-03-30
+
+### ❓ What are wrapper classes in Java? Why are they used?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
