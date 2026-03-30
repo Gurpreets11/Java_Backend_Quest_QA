@@ -122,3 +122,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-03-30
+
+### ❓ What is method overriding, and how is it different from overloading?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
