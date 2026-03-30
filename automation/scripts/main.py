@@ -173,9 +173,11 @@ except Exception as e:
 try:
     print("📌 Configuring git...")
 
-    subprocess.run(["git", "config", "user.name", "github-actions"])
-    subprocess.run(["git", "config", "user.email", "actions@github.com"])
-
+    # subprocess.run(["git", "config", "user.name", "github-actions"])
+    # subprocess.run(["git", "config", "user.email", "actions@github.com"])
+    subprocess.run(["git", "config", "user.name", "Gurpreets11"])
+    subprocess.run(["git", "config", "user.email", "java.preetsingh@gmail.com"])
+    
     # ✅ STEP 1: Pull latest FIRST (before checking changes)
     print("📥 Pulling latest changes...")
     subprocess.run(["git", "pull", "--rebase"])
