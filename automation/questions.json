@@ -58,8 +58,7 @@
 "How does the ThreadLocal class work?",
 "What are the concurrency utilities available in Java?",
 "What is the role of the ExecutorService in Java?",
-"Explain the difference between ReentrantLock and synchronized."
-
+"Explain the difference between ReentrantLock and synchronized.",
 "What is the purpose of the volatile keyword in Java?",
 "Explain the strictfp keyword.",
 "How does the native keyword work in Java?",
@@ -70,7 +69,6 @@
 "What is the purpose of the enum keyword?",
 "What is the difference between abstract and final keywords in Java?",
 "What are access modifiers in Java, and how do they work?",
-
 "What is the difference between byte streams and character streams?",
 "What are the main classes used for file I/O in Java?",
 "How do you read a file in Java line by line?",
@@ -81,7 +79,6 @@
 "What are random access files, and how are they used?",
 "What are Buffered Streams, and why are they important?",
 "What are PipedInputStream and PipedOutputStream?",
-
 "What are the main components of JVM?",
 "What is the role of the class loader in JVM?",
 "Explain the concept of method area in JVM.",
@@ -92,7 +89,6 @@
 "What is the JIT compiler, and how does it optimize Java applications?",
 "Explain the purpose of the -Xms and -Xmx JVM options.",
 "What are the differences between major and minor garbage collections?",
-
 "What is the role of the garbage collector in Java?",
 "What are the types of garbage collectors available in Java?",
 "Explain the concept of reference types in Java: strong, weak, soft, and phantom references.",
@@ -103,7 +99,6 @@
 "What is the difference between Heap and Metaspace memory in Java?",
 "How does Java handle large object allocation?",
 "What are the effects of running out of stack memory in Java?",
-
 "What are CompletableFuture and CompletionStage in Java?",
 "How does the Fork/Join Framework work in Java?",
 "What is the difference between CountDownLatch and CyclicBarrier?",
@@ -114,7 +109,6 @@
 "How does the StampedLock class improve performance over traditional locks?",
 "What is the difference between synchronized and Lock interfaces?",
 "How does Java handle deadlock situations, and how can they be prevented?",
-
 "How does flatMap() differ from map() in Streams?",
 "What are infinite streams, and how are they created in Java?",
 "What are terminal operations in Streams? Provide examples.",
