@@ -111,3 +111,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-03-30
+
+### ❓ How does method overloading work in Java? Give an example.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
