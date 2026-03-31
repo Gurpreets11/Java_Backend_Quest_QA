@@ -155,3 +155,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-03-31
+
+### ❓ What is the role of constructors in Java? Can we have a private constructor?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
