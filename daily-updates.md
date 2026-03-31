@@ -133,3 +133,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-03-31
+
+### ❓ Explain the difference between an abstract class and an interface.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
