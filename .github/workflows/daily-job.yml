@@ -6,8 +6,8 @@ on:
       - master
   schedule:
     #- cron: '0 3 * * *'   # Runs daily (UTC)
-    #- cron: '0 */4 * * *'  # runs every 4 hours
-    - cron: '10,20,30 2 * * *'  # runs 3 times at spectific times
+    - cron: '0 */6 * * *'  # runs every 6 hours
+    # - cron: '10,20,30 2 * * *'  # runs 3 times at spectific times
   workflow_dispatch:       # Manual trigger button
 
 permissions:
