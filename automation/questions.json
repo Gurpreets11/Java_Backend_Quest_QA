@@ -118,7 +118,7 @@
 "How can you convert a Stream into a collection or an array?",
 "What are the performance implications of using Streams vs. loops?",
 "What is a Collector in Java Streams, and how is it used?",
-"How do you handle parallel processing using Streams?"
+"How do you handle parallel processing using Streams?",
 "What are the key features introduced in Java 8?",
   "Explain the concept of functional interfaces. Provide examples.",
   "What is a default method in an interface? Why was it introduced in Java 8?",
