@@ -166,3 +166,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-01
+
+### ❓ How does the super keyword work with inheritance?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
