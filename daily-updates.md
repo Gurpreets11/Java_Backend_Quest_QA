@@ -188,3 +188,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-02
+
+### ❓ What is an inner class? Differentiate between a static inner class and a non-static inner class.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
