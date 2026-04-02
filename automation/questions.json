@@ -494,5 +494,5 @@
 "How does the Mediator pattern simplify communication between objects in a system?",
 "Can you describe the Template Method pattern and how it defines the structure of an algorithm while allowing subclasses to redefine certain steps?",
 "How does the Interpreter pattern allow you to interpret a language or grammar?",
-"What is the Proxy pattern, and in what situations would it be appropriate to use it?",
+"What is the Proxy pattern, and in what situations would it be appropriate to use it?"
 ]
