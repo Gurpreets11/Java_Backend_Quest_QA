@@ -177,3 +177,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-02
+
+### ❓ What are static and dynamic binding in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
