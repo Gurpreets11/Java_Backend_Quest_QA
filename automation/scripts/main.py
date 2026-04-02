@@ -193,7 +193,7 @@ try:
         subprocess.run(["git", "add", "."])
 
         print("📌 Committing changes...")
-        subprocess.run(["git", "commit", "-m", f"Auto update: {question}"])
+        subprocess.run(["git", "commit", "-m", f"AU: {question}"])
 
         print("🚀 Pushing changes...")
         subprocess.run(["git", "push"])
