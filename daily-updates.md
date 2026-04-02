@@ -221,3 +221,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-02
+
+### ❓ What is the difference between String and CharSequence?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
