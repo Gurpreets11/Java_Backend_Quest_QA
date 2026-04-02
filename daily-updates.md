@@ -199,3 +199,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-02
+
+### ❓ How are objects compared in Java? What is the role of the compareTo() method?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
