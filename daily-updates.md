@@ -254,3 +254,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-03
+
+### ❓ How can you reverse a String in Java without using a library?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
