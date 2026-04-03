@@ -232,3 +232,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-03
+
+### ❓ Explain the purpose of the String.intern() method.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
