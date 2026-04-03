@@ -243,3 +243,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-03
+
+### ❓ What is the use of the split() method in the String class?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
