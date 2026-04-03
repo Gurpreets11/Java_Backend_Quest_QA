@@ -265,3 +265,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-03
+
+### ❓ How can you check if a String is a palindrome?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
