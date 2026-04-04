@@ -298,3 +298,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-04
+
+### ❓ What are escape sequences in strings? Provide examples.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
