@@ -309,3 +309,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-04
+
+### ❓ Compare the efficiency of String concatenation using + operator and StringBuilder.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
