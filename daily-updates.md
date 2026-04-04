@@ -287,3 +287,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-04
+
+### ❓ How does the String.join() method work?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
