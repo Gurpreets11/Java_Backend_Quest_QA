@@ -276,3 +276,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-04
+
+### ❓ Explain how String.format() works.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
