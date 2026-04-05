@@ -342,3 +342,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-05
+
+### ❓ Can we handle multiple exceptions in a single catch block? How?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
