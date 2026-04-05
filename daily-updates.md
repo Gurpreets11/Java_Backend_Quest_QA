@@ -320,3 +320,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-05
+
+### ❓ What are the advantages of exception handling in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
