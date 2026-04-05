@@ -331,3 +331,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-05
+
+### ❓ How does the try-with-resources statement work in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
