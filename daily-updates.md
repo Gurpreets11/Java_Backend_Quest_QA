@@ -353,3 +353,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-05
+
+### ❓ What is the difference between Error and Exception?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
