@@ -386,3 +386,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-06
+
+### ❓ What happens when an exception is not handled in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
