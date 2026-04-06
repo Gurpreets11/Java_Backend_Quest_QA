@@ -375,3 +375,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-06
+
+### ❓ Can we rethrow an exception? Provide an example.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
