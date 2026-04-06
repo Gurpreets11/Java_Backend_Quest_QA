@@ -364,3 +364,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-06
+
+### ❓ What is the difference between IOException and FileNotFoundException?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
