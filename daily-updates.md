@@ -419,3 +419,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-07
+
+### ❓ What is a suppressed exception in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
