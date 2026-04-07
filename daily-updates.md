@@ -430,3 +430,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-07
+
+### ❓ What is the hierarchy of the Java Collections Framework?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
