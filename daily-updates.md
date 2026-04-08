@@ -452,3 +452,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-08
+
+### ❓ Explain the difference between LinkedHashMap and HashMap.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
