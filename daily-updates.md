@@ -485,3 +485,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-08
+
+### ❓ How does a TreeMap maintain its order?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
