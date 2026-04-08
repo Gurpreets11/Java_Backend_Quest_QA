@@ -474,3 +474,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-08
+
+### ❓ What are NavigableSet and NavigableMap? Give examples.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
