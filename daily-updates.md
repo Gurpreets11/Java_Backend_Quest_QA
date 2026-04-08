@@ -463,3 +463,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-08
+
+### ❓ What is the difference between Queue and Deque?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
