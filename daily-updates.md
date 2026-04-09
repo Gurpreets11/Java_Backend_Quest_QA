@@ -496,3 +496,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-09
+
+### ❓ What is the difference between Comparable and Comparator?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
