@@ -529,3 +529,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-09
+
+### ❓ How can you make a collection thread-safe?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
