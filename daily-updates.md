@@ -518,3 +518,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-09
+
+### ❓ Explain the fail-fast behavior in iterators.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
