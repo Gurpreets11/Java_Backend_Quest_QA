@@ -562,3 +562,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-10
+
+### ❓ How does synchronized work in static and instance methods?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
