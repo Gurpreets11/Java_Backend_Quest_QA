@@ -573,3 +573,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-10
+
+### ❓ What are thread priorities, and how do they affect thread execution?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
