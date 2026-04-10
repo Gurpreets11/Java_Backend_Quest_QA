@@ -540,3 +540,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-10
+
+### ❓ What is the life cycle of a thread in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
