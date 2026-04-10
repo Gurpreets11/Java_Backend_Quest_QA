@@ -551,3 +551,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-10
+
+### ❓ What are daemon threads in Java? How do you create them?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
