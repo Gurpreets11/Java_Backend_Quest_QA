@@ -584,3 +584,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-11
+
+### ❓ Explain the purpose of the join() method in threads.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
