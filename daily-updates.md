@@ -595,3 +595,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-11
+
+### ❓ What is the difference between Callable and Runnable?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
