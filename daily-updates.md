@@ -628,3 +628,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-12
+
+### ❓ What is the role of the ExecutorService in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
