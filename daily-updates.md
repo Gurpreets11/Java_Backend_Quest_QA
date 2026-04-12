@@ -650,3 +650,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-12
+
+### ❓ What is the purpose of the volatile keyword in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
