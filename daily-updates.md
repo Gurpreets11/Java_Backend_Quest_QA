@@ -639,3 +639,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-12
+
+### ❓ Explain the difference between ReentrantLock and synchronized.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
