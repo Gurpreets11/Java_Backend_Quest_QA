@@ -705,3 +705,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-13
+
+### ❓ What is the use of the synchronized keyword?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
