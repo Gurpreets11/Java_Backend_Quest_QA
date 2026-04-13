@@ -672,3 +672,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-13
+
+### ❓ How does the native keyword work in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
