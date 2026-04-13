@@ -694,3 +694,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-13
+
+### ❓ How does the instanceof operator work in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
