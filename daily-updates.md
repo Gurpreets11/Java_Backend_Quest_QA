@@ -749,3 +749,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-14
+
+### ❓ What are access modifiers in Java, and how do they work?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
