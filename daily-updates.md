@@ -716,3 +716,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-14
+
+### ❓ Explain the transient keyword with an example.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
