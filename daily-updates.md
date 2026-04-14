@@ -738,3 +738,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-14
+
+### ❓ What is the difference between abstract and final keywords in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
