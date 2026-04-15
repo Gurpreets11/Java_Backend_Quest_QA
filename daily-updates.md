@@ -782,3 +782,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-15
+
+### ❓ How do you read a file in Java line by line?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
