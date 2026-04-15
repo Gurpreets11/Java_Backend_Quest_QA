@@ -760,3 +760,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-15
+
+### ❓ What is the difference between byte streams and character streams?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
