@@ -793,3 +793,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-15
+
+### ❓ What is the purpose of the ObjectOutputStream and ObjectInputStream classes?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
