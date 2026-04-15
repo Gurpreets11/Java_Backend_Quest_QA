@@ -771,3 +771,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-15
+
+### ❓ What are the main classes used for file I/O in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
