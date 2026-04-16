@@ -837,3 +837,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-16
+
+### ❓ What are random access files, and how are they used?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
