@@ -815,3 +815,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-16
+
+### ❓ How do you copy a file in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
