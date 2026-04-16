@@ -804,3 +804,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-16
+
+### ❓ Explain the concept of file locking in Java.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
