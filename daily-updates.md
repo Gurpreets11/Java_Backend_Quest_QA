@@ -826,3 +826,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-16
+
+### ❓ What is the difference between flush() and close() methods in streams?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
