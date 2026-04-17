@@ -881,3 +881,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-17
+
+### ❓ What is the role of the class loader in JVM?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
