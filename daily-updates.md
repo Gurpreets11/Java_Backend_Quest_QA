@@ -848,3 +848,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-17
+
+### ❓ What are Buffered Streams, and why are they important?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
