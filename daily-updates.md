@@ -859,3 +859,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-17
+
+### ❓ What are PipedInputStream and PipedOutputStream?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
