@@ -870,3 +870,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-17
+
+### ❓ What are the main components of JVM?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
