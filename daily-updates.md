@@ -903,3 +903,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-18
+
+### ❓ How does garbage collection work in Java? What are the different GC algorithms?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
