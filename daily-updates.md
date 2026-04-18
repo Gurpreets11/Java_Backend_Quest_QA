@@ -925,3 +925,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-18
+
+### ❓ What are classloaders, and what are the types available in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
