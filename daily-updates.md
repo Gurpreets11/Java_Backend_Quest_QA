@@ -892,3 +892,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-18
+
+### ❓ Explain the concept of method area in JVM.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
