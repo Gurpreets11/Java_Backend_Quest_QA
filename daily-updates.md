@@ -914,3 +914,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-18
+
+### ❓ What are weak references in Java, and how are they used?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
