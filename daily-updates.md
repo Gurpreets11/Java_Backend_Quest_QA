@@ -936,3 +936,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-19
+
+### ❓ What are the different JVM memory models?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
