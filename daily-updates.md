@@ -947,3 +947,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-19
+
+### ❓ What is the JIT compiler, and how does it optimize Java applications?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
