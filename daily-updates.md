@@ -969,3 +969,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-19
+
+### ❓ What are the differences between major and minor garbage collections?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
