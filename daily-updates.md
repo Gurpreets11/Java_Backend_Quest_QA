@@ -958,3 +958,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-19
+
+### ❓ Explain the purpose of the -Xms and -Xmx JVM options.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
