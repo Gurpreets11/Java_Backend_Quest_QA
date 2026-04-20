@@ -1013,3 +1013,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-20
+
+### ❓ What is the purpose of the finalize() method, and why is it discouraged?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
