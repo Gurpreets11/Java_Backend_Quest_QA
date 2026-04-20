@@ -1002,3 +1002,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-20
+
+### ❓ Explain the concept of reference types in Java: strong, weak, soft, and phantom references.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
