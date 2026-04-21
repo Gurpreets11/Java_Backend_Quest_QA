@@ -1035,3 +1035,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-21
+
+### ❓ What are memory leaks in Java, and how can they be prevented?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
