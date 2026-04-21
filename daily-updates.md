@@ -1024,3 +1024,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-21
+
+### ❓ How does the G1 garbage collector work?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
