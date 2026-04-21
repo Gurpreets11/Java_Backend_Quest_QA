@@ -1057,3 +1057,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-21
+
+### ❓ What is the difference between Heap and Metaspace memory in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
