@@ -1046,3 +1046,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-21
+
+### ❓ Explain the concept of memory tuning using JVM options.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
