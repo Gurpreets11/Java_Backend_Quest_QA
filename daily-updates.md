@@ -1079,3 +1079,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-22
+
+### ❓ What are the effects of running out of stack memory in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
