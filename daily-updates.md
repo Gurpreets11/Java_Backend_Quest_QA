@@ -1145,3 +1145,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-23
+
+### ❓ What is the purpose of the Semaphore class in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
