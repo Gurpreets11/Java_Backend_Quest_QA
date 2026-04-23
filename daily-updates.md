@@ -1112,3 +1112,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-23
+
+### ❓ What is the difference between CountDownLatch and CyclicBarrier?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
