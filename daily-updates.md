@@ -1189,3 +1189,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-24
+
+### ❓ How does Java handle deadlock situations, and how can they be prevented?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
