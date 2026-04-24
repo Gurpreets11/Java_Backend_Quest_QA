@@ -1178,3 +1178,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-24
+
+### ❓ What is the difference between synchronized and Lock interfaces?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
