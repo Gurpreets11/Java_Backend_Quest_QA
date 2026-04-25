@@ -1200,3 +1200,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-25
+
+### ❓ How does flatMap() differ from map() in Streams?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
