@@ -1233,3 +1233,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-25
+
+### ❓ Explain the concept of short-circuiting in Java Streams.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
