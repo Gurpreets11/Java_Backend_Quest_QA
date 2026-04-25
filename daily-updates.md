@@ -1222,3 +1222,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-25
+
+### ❓ What are terminal operations in Streams? Provide examples.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
