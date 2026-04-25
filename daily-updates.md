@@ -1211,3 +1211,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-25
+
+### ❓ What are infinite streams, and how are they created in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
