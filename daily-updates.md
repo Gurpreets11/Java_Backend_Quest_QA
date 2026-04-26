@@ -1266,3 +1266,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-26
+
+### ❓ How can you convert a Stream into a collection or an array?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
