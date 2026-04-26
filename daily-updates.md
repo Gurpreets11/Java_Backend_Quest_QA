@@ -1255,3 +1255,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-26
+
+### ❓ What are the limitations of Java Streams?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
