@@ -1244,3 +1244,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-26
+
+### ❓ How do peek() and forEach() differ in Streams?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
