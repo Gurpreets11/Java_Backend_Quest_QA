@@ -1277,3 +1277,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-26
+
+### ❓ What are the performance implications of using Streams vs. loops?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
