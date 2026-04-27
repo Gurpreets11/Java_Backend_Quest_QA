@@ -1310,3 +1310,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-27
+
+### ❓ What are the key features introduced in Java 8?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
