@@ -1321,3 +1321,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-27
+
+### ❓ Explain the concept of functional interfaces. Provide examples.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
