@@ -1365,3 +1365,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-28
+
+### ❓ What is the purpose of the reduce() method in Java Streams?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
