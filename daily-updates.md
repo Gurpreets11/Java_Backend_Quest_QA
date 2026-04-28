@@ -1332,3 +1332,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-28
+
+### ❓ What is a default method in an interface? Why was it introduced in Java 8?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
