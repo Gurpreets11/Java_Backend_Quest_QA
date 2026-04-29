@@ -1387,3 +1387,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-29
+
+### ❓ What are the main differences between Optional.of(), Optional.empty(), and Optional.ofNullable()?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
