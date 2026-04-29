@@ -1409,3 +1409,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-29
+
+### ❓ What is the significance of the Collectors.toList() method in Java Streams?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
