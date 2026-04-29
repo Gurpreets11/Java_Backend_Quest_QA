@@ -1376,3 +1376,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-29
+
+### ❓ How can you filter a collection using Streams?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
