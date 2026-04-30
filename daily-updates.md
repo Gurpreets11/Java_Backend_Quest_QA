@@ -1420,3 +1420,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-30
+
+### ❓ What are modules in Java 9? Explain their importance.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
