@@ -1431,3 +1431,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-30
+
+### ❓ How does the JShell tool work, and why is it useful?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
