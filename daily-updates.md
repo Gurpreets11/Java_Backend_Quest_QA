@@ -1453,3 +1453,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-04-30
+
+### ❓ What is the Process API in Java 9, and how is it used?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
