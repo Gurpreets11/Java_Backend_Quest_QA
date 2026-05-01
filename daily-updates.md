@@ -1486,3 +1486,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-01
+
+### ❓ How does the Optional.ifPresentOrElse() method work?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
