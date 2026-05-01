@@ -1497,3 +1497,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-01
+
+### ❓ What are factory methods for collections in Java 9? Provide examples.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
