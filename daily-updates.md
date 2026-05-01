@@ -1475,3 +1475,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-01
+
+### ❓ What is the difference between the Platform Class Loader and the Bootstrap Class Loader in Java 9?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
