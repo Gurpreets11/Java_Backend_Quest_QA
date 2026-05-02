@@ -1519,3 +1519,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-02
+
+### ❓ How do you migrate a legacy Java application to a modular application?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
