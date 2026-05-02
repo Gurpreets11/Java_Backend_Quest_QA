@@ -1541,3 +1541,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-02
+
+### ❓ What are the limitations of using var in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
