@@ -1585,3 +1585,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-03
+
+### ❓ Explain the improvements to garbage collection in Java 10.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
