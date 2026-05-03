@@ -1552,3 +1552,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-03
+
+### ❓ Can you use var for lambda expressions? Why or why not?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
