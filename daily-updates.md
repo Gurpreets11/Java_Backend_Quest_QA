@@ -1563,3 +1563,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-03
+
+### ❓ How does the Optional.orElseThrow() method differ from get()?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
