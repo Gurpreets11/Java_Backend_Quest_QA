@@ -1574,3 +1574,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-03
+
+### ❓ What are the enhancements made to the Collectors API in Java 10?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
