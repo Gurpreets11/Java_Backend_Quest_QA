@@ -1629,3 +1629,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-04
+
+### ❓ What is the isBlank() method in the String class? How does it differ from isEmpty()?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
