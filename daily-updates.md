@@ -1607,3 +1607,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-04
+
+### ❓ What are the new features introduced in Java 11?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
