@@ -1596,3 +1596,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-04
+
+### ❓ What is the Application Class-Data Sharing (AppCDS) feature in Java 10?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
