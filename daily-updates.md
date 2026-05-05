@@ -1651,3 +1651,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-05
+
+### ❓ What are strip(), stripLeading(), and stripTrailing() methods in String?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
