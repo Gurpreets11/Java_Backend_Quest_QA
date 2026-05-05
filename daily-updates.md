@@ -1640,3 +1640,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-05
+
+### ❓ What is the lines() method in the String class? Provide an example.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
