@@ -1695,3 +1695,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-06
+
+### ❓ How does Java 11 enhance the Optional class with the isEmpty() method?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
