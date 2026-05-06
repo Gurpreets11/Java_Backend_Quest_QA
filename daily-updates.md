@@ -1684,3 +1684,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-06
+
+### ❓ What new string methods were introduced in Java 11, such as isBlank(), lines(), strip(), and repeat()?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
