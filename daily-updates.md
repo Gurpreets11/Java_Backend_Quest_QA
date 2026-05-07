@@ -1750,3 +1750,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-07
+
+### ❓ What is the purpose of the No-Op garbage collector, and when should it be used?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
