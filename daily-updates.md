@@ -1728,3 +1728,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-07
+
+### ❓ What are the advantages of the Files.writeString() and Files.readString() methods introduced in Java 11?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
