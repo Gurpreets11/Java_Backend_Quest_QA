@@ -1739,3 +1739,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-07
+
+### ❓ How does Java 11 improve garbage collection with the Epsilon Garbage Collector?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
