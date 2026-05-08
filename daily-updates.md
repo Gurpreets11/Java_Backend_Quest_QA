@@ -1761,3 +1761,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-08
+
+### ❓ How does Java 11 enhance runtime performance with JEP 318 (AOT Compilation)?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
