@@ -1772,3 +1772,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-08
+
+### ❓ What is the impact of flight recorder events in diagnosing runtime performance issues in Java 11?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
