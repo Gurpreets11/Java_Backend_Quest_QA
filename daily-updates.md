@@ -1794,3 +1794,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-08
+
+### ❓ How does the new HttpClient API introduced in Java 11 compare to third-party libraries like Apache HttpClient or OkHttp?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
