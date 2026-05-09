@@ -1805,3 +1805,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-09
+
+### ❓ What are the key methods of the Java 11 HttpClient, and how do they simplify HTTP requests?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
