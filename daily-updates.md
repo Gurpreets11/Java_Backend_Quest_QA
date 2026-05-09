@@ -1838,3 +1838,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-09
+
+### ❓ How does the BodyHandler API in Java 11 support advanced response handling?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
