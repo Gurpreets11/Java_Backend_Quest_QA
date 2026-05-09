@@ -1827,3 +1827,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-09
+
+### ❓ What are the benefits of handling WebSockets with the HttpClient API in Java 11?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
