@@ -1816,3 +1816,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-09
+
+### ❓ How can you use HttpClient to send asynchronous HTTP requests in Java 11?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
