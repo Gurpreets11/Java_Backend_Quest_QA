@@ -1860,3 +1860,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-10
+
+### ❓ What changes were made to key and certificate management in Java 11?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
