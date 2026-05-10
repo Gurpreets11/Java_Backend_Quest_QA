@@ -1871,3 +1871,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-10
+
+### ❓ How do you configure the new keystore types introduced in Java 11 for enhanced security?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
