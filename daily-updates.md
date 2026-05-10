@@ -1882,3 +1882,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-10
+
+### ❓ What is the impact of deprecating weak cryptographic algorithms in Java 11?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
