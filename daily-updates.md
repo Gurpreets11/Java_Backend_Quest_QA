@@ -1926,3 +1926,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-11
+
+### ❓ Why was java.se.ee module removed in Java 11, and what is the impact on enterprise applications?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
