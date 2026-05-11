@@ -1904,3 +1904,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-11
+
+### ❓ What major APIs were deprecated or removed in Java 11, and what are their alternatives?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
