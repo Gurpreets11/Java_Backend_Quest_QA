@@ -1915,3 +1915,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-11
+
+### ❓ How has the removal of JavaFX from the JDK affected developers using Java 11?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
