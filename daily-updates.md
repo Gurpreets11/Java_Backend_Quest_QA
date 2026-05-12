@@ -1970,3 +1970,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-12
+
+### ❓ How can you use the new Predicate.not() method to simplify filtering logic in Java 11?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
