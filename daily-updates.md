@@ -1959,3 +1959,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-12
+
+### ❓ What are the key enhancements made to the Collections API in Java 11?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
