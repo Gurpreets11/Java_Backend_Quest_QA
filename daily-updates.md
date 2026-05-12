@@ -1937,3 +1937,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-12
+
+### ❓ What steps must be taken to migrate applications that rely on deprecated Java 8 APIs to Java 11?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
