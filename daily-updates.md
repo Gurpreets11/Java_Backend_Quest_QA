@@ -1948,3 +1948,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-12
+
+### ❓ How has the removal of JNLP and WebStart impacted Java-based web applications?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
