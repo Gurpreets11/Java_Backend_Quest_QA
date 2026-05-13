@@ -1981,3 +1981,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-13
+
+### ❓ What updates were introduced to the Process API in Java 11?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
