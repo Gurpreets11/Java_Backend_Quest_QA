@@ -2014,3 +2014,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-13
+
+### ❓ What is the purpose of the switch expressions introduced in Java 12?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
