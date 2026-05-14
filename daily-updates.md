@@ -2047,3 +2047,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-14
+
+### ❓ What is the JVM Constants API introduced in Java 12?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
