@@ -2025,3 +2025,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-14
+
+### ❓ How does the yield keyword work in switch expressions?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
