@@ -2058,3 +2058,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-14
+
+### ❓ How does the new G1 Garbage Collector optimization in Java 12 improve performance?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
