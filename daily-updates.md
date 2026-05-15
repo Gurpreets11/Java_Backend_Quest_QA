@@ -2080,3 +2080,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-15
+
+### ❓ What changes have been made to the default GC in Java 12?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
