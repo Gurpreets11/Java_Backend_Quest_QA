@@ -2113,3 +2113,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-16
+
+### ❓ How can you use escape sequences within text blocks in Java 13?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
