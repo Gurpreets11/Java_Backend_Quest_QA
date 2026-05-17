@@ -2157,3 +2157,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-17
+
+### ❓ How does the Switch Expressions enhancement from Java 12 evolve in Java 13?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
