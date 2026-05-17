@@ -2179,3 +2179,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-17
+
+### ❓ What is Pattern Matching for instanceof introduced in Java 14?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
