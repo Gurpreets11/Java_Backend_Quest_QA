@@ -2168,3 +2168,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-17
+
+### ❓ What is the significance of multiline string literals?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
