@@ -2190,3 +2190,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-17
+
+### ❓ How does the instanceof operator work with type inference in Java 14?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
