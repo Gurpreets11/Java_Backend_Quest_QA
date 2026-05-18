@@ -2234,3 +2234,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-18
+
+### ❓ How has the JVM been optimized for garbage collection in Java 14?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
