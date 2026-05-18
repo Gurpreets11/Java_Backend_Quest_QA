@@ -2201,3 +2201,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-18
+
+### ❓ What are Records introduced in Java 14, and how are they used?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
