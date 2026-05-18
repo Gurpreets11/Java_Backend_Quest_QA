@@ -2223,3 +2223,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-18
+
+### ❓ What is the purpose of the Helpful NullPointerExceptions feature in Java 14?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
