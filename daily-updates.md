@@ -2212,3 +2212,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-18
+
+### ❓ How do Records help in reducing boilerplate code?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
