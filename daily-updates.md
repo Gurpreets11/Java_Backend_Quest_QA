@@ -2278,3 +2278,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-19
+
+### ❓ How do you define and use a sealed class in Java 15?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
