@@ -2245,3 +2245,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-19
+
+### ❓ What is the Foreign-Memory Access API introduced in Java 14?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
