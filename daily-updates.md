@@ -2256,3 +2256,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-19
+
+### ❓ Explain the preview features introduced in Java 14.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
