@@ -2322,3 +2322,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-20
+
+### ❓ What is the significance of the Edwards-Curve Digital Signature Algorithm (EdDSA) introduced in Java 15?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
