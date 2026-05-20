@@ -2311,3 +2311,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-20
+
+### ❓ What is the new Text Block API in Java 15?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
