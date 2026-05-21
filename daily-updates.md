@@ -2344,3 +2344,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-21
+
+### ❓ What are the changes to deprecated features in Java 15?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
