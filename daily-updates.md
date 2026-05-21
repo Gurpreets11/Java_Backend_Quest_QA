@@ -2333,3 +2333,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-21
+
+### ❓ How does Java 15 improve upon Pattern Matching introduced in earlier versions?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
