@@ -2366,3 +2366,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-21
+
+### ❓ What are Records, and how do they differ from regular classes?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
