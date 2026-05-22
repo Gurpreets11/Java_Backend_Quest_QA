@@ -2399,3 +2399,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-22
+
+### ❓ What are the enhancements to Stream.toList() in Java 16?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
