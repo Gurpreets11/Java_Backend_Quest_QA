@@ -2410,3 +2410,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-22
+
+### ❓ How does the new Unix-Domain Socket Channels API work in Java 16?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
