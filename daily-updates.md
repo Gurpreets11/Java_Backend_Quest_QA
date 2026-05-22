@@ -2388,3 +2388,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-22
+
+### ❓ What is the Foreign Linker API, and how is it used in Java 16?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
