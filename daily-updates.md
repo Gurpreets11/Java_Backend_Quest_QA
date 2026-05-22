@@ -2377,3 +2377,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-22
+
+### ❓ How does the Strong Encapsulation of JDK Internals affect legacy code in Java 16?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
