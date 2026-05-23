@@ -2432,3 +2432,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-23
+
+### ❓ How does Java 16 optimize Garbage Collection and memory management?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
