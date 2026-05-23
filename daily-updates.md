@@ -2454,3 +2454,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-23
+
+### ❓ What are the JEP 382: New macOS Rendering Pipeline improvements in Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
