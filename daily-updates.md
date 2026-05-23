@@ -2421,3 +2421,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-23
+
+### ❓ What is the JEP 338: Vector API (Incubator) introduced in Java 16?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
