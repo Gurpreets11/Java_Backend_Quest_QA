@@ -2443,3 +2443,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-23
+
+### ❓ What are the new features introduced in Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
