@@ -2498,3 +2498,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-24
+
+### ❓ How does Java 17 improve the ZGC?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
