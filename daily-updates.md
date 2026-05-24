@@ -2465,3 +2465,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-24
+
+### ❓ What is the new Foreign Function & Memory API introduced in Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
