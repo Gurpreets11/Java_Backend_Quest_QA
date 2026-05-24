@@ -2487,3 +2487,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-24
+
+### ❓ What is the macOS AArch64 Port introduced in Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
