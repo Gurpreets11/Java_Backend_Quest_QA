@@ -2476,3 +2476,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-24
+
+### ❓ How has the deprecation of the Applet API impacted Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
