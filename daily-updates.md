@@ -2520,3 +2520,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-25
+
+### ❓ What is the difference between sealed, non-sealed, and final classes in Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
