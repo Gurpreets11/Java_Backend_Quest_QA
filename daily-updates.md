@@ -2509,3 +2509,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-25
+
+### ❓ What are sealed classes in Java 17, and how do they improve the control of class hierarchy?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
