@@ -2531,3 +2531,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-25
+
+### ❓ How does Java 17 enforce rules for permitted subclasses in sealed classes?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
