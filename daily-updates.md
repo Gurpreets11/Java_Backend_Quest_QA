@@ -2553,3 +2553,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-26
+
+### ❓ How do sealed classes interact with records and interfaces?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
