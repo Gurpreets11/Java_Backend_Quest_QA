@@ -2564,3 +2564,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-26
+
+### ❓ What changes were introduced in switch statements with pattern matching in Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
