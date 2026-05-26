@@ -2575,3 +2575,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-26
+
+### ❓ How does pattern matching for switch improve type safety in Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
