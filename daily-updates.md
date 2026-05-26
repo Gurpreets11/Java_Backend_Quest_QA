@@ -2586,3 +2586,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-26
+
+### ❓ Can you explain the use of the when keyword in pattern matching for switch statements?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
