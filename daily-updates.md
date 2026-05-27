@@ -2630,3 +2630,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-27
+
+### ❓ What changes have been made to the Z Garbage Collector in Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
