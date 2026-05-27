@@ -2608,3 +2608,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-27
+
+### ❓ What are the limitations of pattern matching for switch in Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
