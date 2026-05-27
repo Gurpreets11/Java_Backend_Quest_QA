@@ -2619,3 +2619,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-27
+
+### ❓ How does Java 17 improve the performance of the G1 Garbage Collector?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
