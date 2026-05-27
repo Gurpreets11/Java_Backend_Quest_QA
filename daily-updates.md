@@ -2597,3 +2597,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-27
+
+### ❓ How is pattern matching for switch backward-compatible with traditional switch statements?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
