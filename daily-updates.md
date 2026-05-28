@@ -2652,3 +2652,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-28
+
+### ❓ How has Java 17 optimized thread-local garbage collection?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
