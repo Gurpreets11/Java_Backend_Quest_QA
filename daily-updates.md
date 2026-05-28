@@ -2641,3 +2641,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-28
+
+### ❓ How does the deprecation of RMI Activation in Java 17 affect distributed applications?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
