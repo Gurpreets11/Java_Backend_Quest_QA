@@ -2674,3 +2674,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-28
+
+### ❓ What is the impact of removing the Security Manager in Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
