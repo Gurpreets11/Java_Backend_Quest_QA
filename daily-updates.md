@@ -2663,3 +2663,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-28
+
+### ❓ Which major features or tools were removed in Java 17, and why?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
