@@ -2685,3 +2685,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-29
+
+### ❓ How should developers handle the removal of Applets in Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
