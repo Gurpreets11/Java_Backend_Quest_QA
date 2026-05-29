@@ -2707,3 +2707,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-29
+
+### ❓ What are the implications of removing older garbage collection algorithms like CMS in Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
