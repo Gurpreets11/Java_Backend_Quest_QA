@@ -2696,3 +2696,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-29
+
+### ❓ Why was the experimental Ahead-of-Time (AOT) Compiler removed in Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
