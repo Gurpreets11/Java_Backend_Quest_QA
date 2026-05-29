@@ -2718,3 +2718,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-29
+
+### ❓ How does Java 17 enhance the Random class with new pseudo-random number generators?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
