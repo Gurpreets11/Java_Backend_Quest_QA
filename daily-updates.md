@@ -2762,3 +2762,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-30
+
+### ❓ How has the java.util.regex package been improved in Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
