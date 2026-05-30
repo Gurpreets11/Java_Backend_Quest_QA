@@ -2729,3 +2729,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-30
+
+### ❓ What new utility methods were introduced in Java 17 for working with collections?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
