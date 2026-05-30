@@ -2751,3 +2751,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-30
+
+### ❓ What improvements were made to the HttpClient API in Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
