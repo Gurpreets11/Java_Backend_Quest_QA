@@ -2740,3 +2740,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-30
+
+### ❓ How do Stream.toList() and similar enhancements simplify stream operations in Java 17?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
