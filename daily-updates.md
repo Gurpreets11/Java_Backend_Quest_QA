@@ -2795,3 +2795,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-31
+
+### ❓ What are the advantages of the new @snippet tag in Java documentation?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
