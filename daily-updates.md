@@ -2806,3 +2806,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-31
+
+### ❓ How does Java 17 improve native memory access with the Foreign Function & Memory API?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
