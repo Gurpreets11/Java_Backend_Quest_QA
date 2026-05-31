@@ -2773,3 +2773,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-31
+
+### ❓ What changes were introduced to records in Java 17, and how do they improve immutability?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
