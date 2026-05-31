@@ -2784,3 +2784,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-05-31
+
+### ❓ How does Java 17 simplify text blocks and string manipulation?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
