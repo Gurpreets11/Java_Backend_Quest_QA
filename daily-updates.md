@@ -2850,3 +2850,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-01
+
+### ❓ What are the updates to the Vector API (Second Incubator) in Java 18?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
