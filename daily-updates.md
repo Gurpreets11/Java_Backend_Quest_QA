@@ -2839,3 +2839,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-01
+
+### ❓ How does the UTF-8 as Default Charset change affect Java applications in Java 18?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
