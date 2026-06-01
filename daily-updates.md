@@ -2828,3 +2828,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-01
+
+### ❓ What is the purpose of the Simple Web Server introduced in Java 18?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
