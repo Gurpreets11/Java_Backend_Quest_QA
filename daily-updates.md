@@ -2861,3 +2861,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-02
+
+### ❓ Explain the Code Snippets feature for documentation in Java 18.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
