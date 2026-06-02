@@ -2872,3 +2872,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-02
+
+### ❓ What is the @snippet tag, and how is it used in Java 18?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
