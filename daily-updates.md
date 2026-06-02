@@ -2883,3 +2883,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-02
+
+### ❓ What are the memory management improvements in Java 18?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
