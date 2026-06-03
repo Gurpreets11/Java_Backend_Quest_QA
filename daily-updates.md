@@ -2905,3 +2905,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-03
+
+### ❓ How do Virtual Threads differ from traditional threads?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
