@@ -2916,3 +2916,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-03
+
+### ❓ Explain the Structured Concurrency API introduced in Java 19.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
