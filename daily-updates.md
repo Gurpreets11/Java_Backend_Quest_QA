@@ -2938,3 +2938,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-03
+
+### ❓ How has the Foreign Function & Memory API evolved in Java 19?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
