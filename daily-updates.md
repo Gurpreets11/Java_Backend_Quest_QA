@@ -2927,3 +2927,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-03
+
+### ❓ What are Record Patterns, and how are they used in Java 19?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
