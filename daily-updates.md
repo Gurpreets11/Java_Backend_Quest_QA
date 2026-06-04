@@ -2982,3 +2982,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-04
+
+### ❓ How does Java 20 improve Scoped Values for thread-local variables?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
