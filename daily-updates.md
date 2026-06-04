@@ -2971,3 +2971,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-04
+
+### ❓ Explain the updates to Record Patterns in Java 20.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
