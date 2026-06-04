@@ -2960,3 +2960,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-04
+
+### ❓ What are the enhancements to Pattern Matching for Switch in Java 20?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
