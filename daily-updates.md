@@ -3015,3 +3015,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-05
+
+### ❓ What is JEP 444: Virtual Threads introduced in Java 21?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
