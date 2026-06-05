@@ -2993,3 +2993,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-05
+
+### ❓ What is the role of the Foreign Function and Memory API in Java 20?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
