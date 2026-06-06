@@ -3059,3 +3059,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-06
+
+### ❓ Explain String Templates in Java 21 and their advantages.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
