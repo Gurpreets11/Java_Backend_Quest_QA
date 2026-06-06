@@ -3037,3 +3037,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-06
+
+### ❓ What are Scoped Values, and how do they differ from thread-local variables?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
