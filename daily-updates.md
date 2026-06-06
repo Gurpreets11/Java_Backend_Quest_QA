@@ -3048,3 +3048,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-06
+
+### ❓ How do Record Patterns simplify data extraction in Java 21?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
