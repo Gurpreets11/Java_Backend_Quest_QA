@@ -3070,3 +3070,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-06
+
+### ❓ What are Sequenced Collections, and how do they differ from traditional collections?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
