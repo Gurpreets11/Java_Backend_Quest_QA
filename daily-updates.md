@@ -3092,3 +3092,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-07
+
+### ❓ How does Java 21 optimize Garbage Collection further?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
