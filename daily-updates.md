@@ -3114,3 +3114,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-07
+
+### ❓ What is the purpose of the Statements Before super() or this() feature introduced in Java 22, and how does it improve constructor logic?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
