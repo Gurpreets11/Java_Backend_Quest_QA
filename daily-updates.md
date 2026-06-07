@@ -3103,3 +3103,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-07
+
+### ❓ What are the security enhancements introduced in Java 21?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
