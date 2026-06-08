@@ -3136,3 +3136,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-08
+
+### ❓ What are the changes in garbage collection with the introduction of Region Pinning for G1 in Java 22?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
