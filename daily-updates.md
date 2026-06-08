@@ -3147,3 +3147,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-08
+
+### ❓ How does Java 22 enhance support for Unicode, and what version does it support?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
