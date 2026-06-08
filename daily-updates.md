@@ -3158,3 +3158,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-08
+
+### ❓ What are the benefits of the Foreign Function & Memory API, finalized in Java 22?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
