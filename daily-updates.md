@@ -3180,3 +3180,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-09
+
+### ❓ What are the use cases for executing statements before calling super() in Java 22 constructors?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
