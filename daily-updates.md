@@ -3191,3 +3191,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-09
+
+### ❓ How does Java 22 enhance the performance and flexibility of the G1 Garbage Collector with region pinning?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
