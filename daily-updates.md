@@ -3202,3 +3202,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-09
+
+### ❓ What are the differences between the previous version of the Foreign Function & Memory API and the finalized version in Java 22?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
