@@ -3213,3 +3213,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-10
+
+### ❓ How has the Z Garbage Collector (ZGC) been optimized in Java 22?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
