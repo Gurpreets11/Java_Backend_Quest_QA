@@ -3235,3 +3235,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-10
+
+### ❓ What improvements have been made to platform thread-local handshakes in Java 22?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
