@@ -3323,3 +3323,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-12
+
+### ❓ What are the advantages of the changes made to the Z Garbage Collector in Java 23?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
