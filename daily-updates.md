@@ -3312,3 +3312,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-12
+
+### ❓ How does the new primitive type patterns feature extend pattern matching in Java 23?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
