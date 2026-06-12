@@ -3301,3 +3301,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-12
+
+### ❓ What new capabilities are introduced in Java 23 for Scoped Values?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
