@@ -3367,3 +3367,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-13
+
+### ❓ How do Primitive Type Patterns enhance pattern matching in Java 23?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
