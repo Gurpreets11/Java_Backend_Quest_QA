@@ -3400,3 +3400,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-14
+
+### ❓ What enhancements have been made to the Foreign Function & Memory API in Java 23?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
