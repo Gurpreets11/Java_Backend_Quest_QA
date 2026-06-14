@@ -3389,3 +3389,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-14
+
+### ❓ How does Java 23 support sequenced collections, and what are the primary use cases?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
