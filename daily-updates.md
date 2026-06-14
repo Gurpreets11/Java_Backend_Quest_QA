@@ -3422,3 +3422,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-14
+
+### ❓ What is the impact of improvements to the ZGC in Java 23, especially for large heap applications?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
