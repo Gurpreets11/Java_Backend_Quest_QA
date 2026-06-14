@@ -3411,3 +3411,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-14
+
+### ❓ How does Java 23 improve startup and runtime performance for native threads?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
