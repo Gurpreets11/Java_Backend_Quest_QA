@@ -3455,3 +3455,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-15
+
+### ❓ Explain the Singleton design pattern and how to implement it in Java.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
