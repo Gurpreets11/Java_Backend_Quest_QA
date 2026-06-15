@@ -3444,3 +3444,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-15
+
+### ❓ What are the key design patterns used in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
