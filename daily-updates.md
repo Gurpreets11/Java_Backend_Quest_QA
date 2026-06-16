@@ -3499,3 +3499,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-16
+
+### ❓ How is the Dependency Injection pattern implemented in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
