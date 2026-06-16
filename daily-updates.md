@@ -3466,3 +3466,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-16
+
+### ❓ What is the Factory design pattern? Provide an example.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
