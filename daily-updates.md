@@ -3488,3 +3488,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-16
+
+### ❓ What is the Observer pattern? Provide a real-world use case in Java.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
