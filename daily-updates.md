@@ -3477,3 +3477,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-16
+
+### ❓ How does the Builder design pattern work?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
