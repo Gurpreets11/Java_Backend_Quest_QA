@@ -3510,3 +3510,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-17
+
+### ❓ Explain the Adapter design pattern with an example.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
