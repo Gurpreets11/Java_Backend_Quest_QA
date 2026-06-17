@@ -3543,3 +3543,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-17
+
+### ❓ What are anti-patterns, and why should they be avoided?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
