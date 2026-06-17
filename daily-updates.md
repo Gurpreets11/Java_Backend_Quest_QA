@@ -3521,3 +3521,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-17
+
+### ❓ What is the Decorator pattern, and how is it used in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
