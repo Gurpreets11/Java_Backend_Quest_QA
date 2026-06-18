@@ -3554,3 +3554,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-18
+
+### ❓ What are the main differences between structural, behavioral, and creational design patterns?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
