@@ -3565,3 +3565,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-18
+
+### ❓ How can design patterns be used to solve common software design problems?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
