@@ -3576,3 +3576,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-18
+
+### ❓ Why is the Dependency Injection (DI) pattern commonly used in modern software development?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
