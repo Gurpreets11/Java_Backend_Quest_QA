@@ -3631,3 +3631,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-19
+
+### ❓ Can you explain the difference between a creational pattern and a structural or behavioral pattern?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
