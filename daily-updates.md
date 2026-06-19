@@ -3620,3 +3620,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-19
+
+### ❓ What is the purpose of creational design patterns in object creation?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
