@@ -3609,3 +3609,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-19
+
+### ❓ What are the key differences between the Singleton and Object Pool patterns?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
