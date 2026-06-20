@@ -3675,3 +3675,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-20
+
+### ❓ How do you ensure thread safety in a Singleton pattern?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
