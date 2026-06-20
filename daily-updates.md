@@ -3653,3 +3653,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-20
+
+### ❓ How do creational patterns help in promoting loose coupling and improving code maintainability?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
