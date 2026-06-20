@@ -3642,3 +3642,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-20
+
+### ❓ What are the main advantages of using a design pattern for creating objects?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
