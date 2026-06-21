@@ -3719,3 +3719,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-21
+
+### ❓ What is the Factory Method pattern, and why would you use it?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
