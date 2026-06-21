@@ -3697,3 +3697,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-21
+
+### ❓ What are the potential issues of using a Singleton pattern, and how can they be avoided?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
