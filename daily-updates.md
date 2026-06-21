@@ -3708,3 +3708,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-21
+
+### ❓ How does the Singleton pattern ensure that only one instance of a class is created?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
