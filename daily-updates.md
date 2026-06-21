@@ -3686,3 +3686,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-21
+
+### ❓ Can you describe the difference between eager and lazy initialization in the Singleton pattern?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
