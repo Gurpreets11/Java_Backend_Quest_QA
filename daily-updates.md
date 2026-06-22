@@ -3730,3 +3730,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-22
+
+### ❓ How does the Factory Method pattern differ from the Abstract Factory pattern?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
