@@ -3741,3 +3741,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-22
+
+### ❓ Can you provide an example where the Factory Method pattern would be useful in an Android application?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
