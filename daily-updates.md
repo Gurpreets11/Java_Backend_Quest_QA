@@ -3752,3 +3752,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-22
+
+### ❓ What are the main benefits of using the Factory Method pattern over directly creating objects?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
