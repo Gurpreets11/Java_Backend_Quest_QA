@@ -3774,3 +3774,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-23
+
+### ❓ Can you describe a scenario where the Abstract Factory pattern would be a better choice than the Factory Method pattern?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
