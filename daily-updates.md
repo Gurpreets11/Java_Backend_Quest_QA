@@ -3763,3 +3763,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-23
+
+### ❓ How does the Abstract Factory pattern support the creation of families of related objects?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
