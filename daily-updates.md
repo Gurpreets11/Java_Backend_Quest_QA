@@ -3840,3 +3840,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-24
+
+### ❓ Can you explain the difference between the Builder pattern and the Factory pattern?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
