@@ -3818,3 +3818,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-24
+
+### ❓ What is the Builder design pattern, and in what situations would it be helpful?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
