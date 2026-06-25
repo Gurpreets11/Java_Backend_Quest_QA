@@ -3862,3 +3862,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-25
+
+### ❓ What is the Prototype design pattern, and how does it work?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
