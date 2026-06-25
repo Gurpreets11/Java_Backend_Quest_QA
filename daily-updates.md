@@ -3873,3 +3873,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-25
+
+### ❓ How does the Prototype pattern differ from cloning objects in Java?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
