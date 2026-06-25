@@ -3884,3 +3884,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-25
+
+### ❓ Can you provide an example of when you would use the Prototype pattern in a real-world scenario?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
