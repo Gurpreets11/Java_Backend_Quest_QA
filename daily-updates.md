@@ -3851,3 +3851,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-25
+
+### ❓ How does the Builder pattern separate the construction of an object from its representation?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
