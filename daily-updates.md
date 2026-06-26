@@ -3895,3 +3895,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-26
+
+### ❓ What are the advantages of using the Prototype pattern to create new objects?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
