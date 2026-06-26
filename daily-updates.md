@@ -3917,3 +3917,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-26
+
+### ❓ Can you compare and contrast the Builder and Abstract Factory patterns, and explain when to use each?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
