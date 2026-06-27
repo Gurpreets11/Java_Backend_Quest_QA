@@ -3972,3 +3972,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-27
+
+### ❓ How do structural patterns differ from creational and behavioral patterns?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
