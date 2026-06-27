@@ -3950,3 +3950,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-27
+
+### ❓ Can you explain how creational patterns can help reduce the complexity of object creation in large-scale systems?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
