@@ -4005,3 +4005,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-28
+
+### ❓ What is the Adapter design pattern, and when would you use it?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
