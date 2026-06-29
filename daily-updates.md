@@ -4060,3 +4060,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-29
+
+### ❓ What is the Composite pattern, and how does it help in treating individual objects and composites uniformly?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
