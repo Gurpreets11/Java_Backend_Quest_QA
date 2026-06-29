@@ -4038,3 +4038,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-29
+
+### ❓ How is the Adapter pattern different from the Decorator pattern?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
