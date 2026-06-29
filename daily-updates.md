@@ -4049,3 +4049,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-29
+
+### ❓ Can you explain the difference between class adapters and object adapters in the Adapter pattern?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
