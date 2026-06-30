@@ -4104,3 +4104,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-30
+
+### ❓ What is the Decorator design pattern, and how does it differ from subclassing for extending functionality?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
