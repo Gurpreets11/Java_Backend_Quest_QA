@@ -4071,3 +4071,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-06-30
+
+### ❓ Can you provide an example where the Composite pattern is useful, especially in tree-like data structures?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
