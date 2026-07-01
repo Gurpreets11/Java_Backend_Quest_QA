@@ -4126,3 +4126,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-01
+
+### ❓ Can you give an example where you would use the Decorator pattern in a user interface (UI) design?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
