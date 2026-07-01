@@ -4115,3 +4115,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-01
+
+### ❓ How does the Decorator pattern provide a flexible alternative to subclassing?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
