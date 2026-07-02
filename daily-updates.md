@@ -4159,3 +4159,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-02
+
+### ❓ What is the Facade design pattern, and why is it useful in simplifying complex subsystems?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
