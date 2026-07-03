@@ -4225,3 +4225,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-03
+
+### ❓ Can you explain the difference between the Bridge pattern and the Adapter pattern?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
