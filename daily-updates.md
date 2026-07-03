@@ -4236,3 +4236,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-03
+
+### ❓ In what situations would you prefer to use the Bridge pattern over other structural patterns?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
