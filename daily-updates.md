@@ -4203,3 +4203,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-03
+
+### ❓ What is the Bridge pattern, and how does it help in separating abstraction from implementation?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
