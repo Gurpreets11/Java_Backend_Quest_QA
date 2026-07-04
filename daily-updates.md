@@ -4258,3 +4258,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-04
+
+### ❓ How does the Flyweight pattern reduce the memory footprint of an application?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
