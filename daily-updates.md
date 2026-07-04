@@ -4247,3 +4247,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-04
+
+### ❓ What is the Flyweight pattern, and how does it help optimize memory usage when dealing with large amounts of similar objects?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
