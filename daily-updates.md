@@ -4269,3 +4269,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-04
+
+### ❓ Can you explain how the Flyweight pattern applies to scenarios with a large number of similar objects, such as in game development?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
