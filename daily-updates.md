@@ -4280,3 +4280,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-04
+
+### ❓ How does the Flyweight pattern achieve efficient sharing of common state between objects?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
