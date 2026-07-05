@@ -4302,3 +4302,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-05
+
+### ❓ Can you explain the difference between virtual proxies, remote proxies, and protective proxies in the Proxy pattern?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
