@@ -4324,3 +4324,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-05
+
+### ❓ How does the Proxy pattern help with controlling access to an object, such as lazy initialization or access control?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
