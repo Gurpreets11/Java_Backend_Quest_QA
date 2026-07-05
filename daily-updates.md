@@ -4291,3 +4291,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-05
+
+### ❓ What is the Proxy pattern, and how does it provide a surrogate or placeholder for another object?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
