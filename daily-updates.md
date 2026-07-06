@@ -4357,3 +4357,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-06
+
+### ❓ Can you compare and contrast the Adapter and Facade patterns in terms of their use cases and implementation?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
