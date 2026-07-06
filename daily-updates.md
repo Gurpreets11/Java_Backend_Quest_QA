@@ -4346,3 +4346,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-06
+
+### ❓ How does the Composite pattern differ from the Decorator pattern, and when would you use one over the other?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
