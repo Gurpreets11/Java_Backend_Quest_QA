@@ -4368,3 +4368,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-06
+
+### ❓ How do the Bridge and Proxy patterns improve flexibility and scalability in object-oriented design?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
