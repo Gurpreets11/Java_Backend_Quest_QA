@@ -4401,3 +4401,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-07
+
+### ❓ What are behavioral design patterns, and how do they improve the flexibility of object communication?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
