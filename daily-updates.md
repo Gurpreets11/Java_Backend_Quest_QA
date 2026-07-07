@@ -4390,3 +4390,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-07
+
+### ❓ Can you discuss the trade-offs of using the Proxy and Flyweight patterns, and when you would choose one over the other?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
