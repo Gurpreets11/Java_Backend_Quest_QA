@@ -4445,3 +4445,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-08
+
+### ❓ What is the Observer pattern, and when would you use it?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
