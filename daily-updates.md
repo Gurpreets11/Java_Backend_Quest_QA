@@ -4456,3 +4456,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-08
+
+### ❓ How does the Observer pattern decouple the subject and the observers?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
