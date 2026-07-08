@@ -4434,3 +4434,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-08
+
+### ❓ Can you explain how behavioral patterns help define the flow of control and the distribution of responsibilities in a system?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
