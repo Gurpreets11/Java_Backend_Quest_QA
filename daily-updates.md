@@ -4467,3 +4467,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-09
+
+### ❓ Can you provide an example of how the Observer pattern can be used in a real-world scenario, such as in event-driven programming?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
