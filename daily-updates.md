@@ -4500,3 +4500,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-09
+
+### ❓ What is the Strategy design pattern, and how does it allow algorithms to be selected at runtime?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
