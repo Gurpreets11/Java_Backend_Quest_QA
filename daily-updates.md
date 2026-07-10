@@ -4533,3 +4533,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-10
+
+### ❓ What are the advantages of the Strategy pattern over traditional if-else or switch-case statements?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
