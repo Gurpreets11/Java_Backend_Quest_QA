@@ -4544,3 +4544,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-10
+
+### ❓ Can you compare the Strategy pattern with the State pattern, and explain when to use each?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
