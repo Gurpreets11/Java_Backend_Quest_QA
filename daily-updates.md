@@ -4522,3 +4522,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-10
+
+### ❓ Can you explain a scenario where you would use the Strategy pattern in a Java application?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
