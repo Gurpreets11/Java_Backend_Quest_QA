@@ -4588,3 +4588,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-11
+
+### ❓ What are the benefits of using the Command pattern in terms of decoupling the sender and the receiver of a request?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
