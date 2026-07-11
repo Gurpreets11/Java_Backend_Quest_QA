@@ -4566,3 +4566,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-11
+
+### ❓ How does the Command pattern allow for undo/redo functionality in an application?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
