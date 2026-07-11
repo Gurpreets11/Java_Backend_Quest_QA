@@ -4555,3 +4555,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-11
+
+### ❓ What is the Command design pattern, and how does it encapsulate a request as an object?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
