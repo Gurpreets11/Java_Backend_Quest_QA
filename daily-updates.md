@@ -4621,3 +4621,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-12
+
+### ❓ Can you provide an example where the Chain of Responsibility pattern can be used in an application (e.g., in a logging framework)?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
