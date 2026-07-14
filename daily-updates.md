@@ -4720,3 +4720,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-14
+
+### ❓ Can you give an example of when you would use the Template Method pattern in a software application?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
