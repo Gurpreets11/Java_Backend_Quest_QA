@@ -4687,3 +4687,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-14
+
+### ❓ Can you explain how the State pattern interacts with the Strategy pattern, and when to use each?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
