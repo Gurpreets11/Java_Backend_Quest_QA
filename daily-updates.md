@@ -4698,3 +4698,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-14
+
+### ❓ What is the Template Method pattern, and how does it allow a base class to define the skeleton of an algorithm while allowing subclasses to define specific steps?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
