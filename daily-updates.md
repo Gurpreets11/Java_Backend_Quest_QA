@@ -4753,3 +4753,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-15
+
+### ❓ How does the Iterator pattern separate the responsibility of iterating over a collection from the collection itself?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
