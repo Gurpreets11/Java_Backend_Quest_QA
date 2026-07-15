@@ -4731,3 +4731,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-15
+
+### ❓ How does the Template Method pattern differ from the Strategy pattern, especially when it comes to the extent of customization allowed?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
