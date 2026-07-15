@@ -4742,3 +4742,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-15
+
+### ❓ What is the Iterator design pattern, and how does it provide a uniform way to traverse a collection of objects?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
