@@ -4841,3 +4841,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-17
+
+### ❓ Can you explain how the Memento pattern can be used to implement undo/redo functionality in an application?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
