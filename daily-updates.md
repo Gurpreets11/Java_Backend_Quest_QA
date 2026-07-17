@@ -4830,3 +4830,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-17
+
+### ❓ What is the Memento design pattern, and how does it capture and externalize an object's state without violating encapsulation?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
