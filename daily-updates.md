@@ -4819,3 +4819,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-17
+
+### ❓ What are the potential drawbacks of using the Mediator pattern, especially in complex systems?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
