@@ -4852,3 +4852,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-17
+
+### ❓ How does the Memento pattern differ from the Command pattern in terms of responsibility delegation and state management?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
