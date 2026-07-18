@@ -4863,3 +4863,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-18
+
+### ❓ What are the main advantages of using the Memento pattern in scenarios that require the restoration of an object's previous state?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
