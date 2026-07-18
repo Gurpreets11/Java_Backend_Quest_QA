@@ -4874,3 +4874,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-18
+
+### ❓ What is the Visitor design pattern, and how does it allow you to add operations to objects without modifying their classes?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
