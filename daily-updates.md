@@ -4907,3 +4907,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-19
+
+### ❓ What are the trade-offs of using the Visitor pattern, and in what situations might it not be suitable?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
