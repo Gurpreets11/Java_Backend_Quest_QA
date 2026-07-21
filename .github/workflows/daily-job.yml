@@ -1,4 +1,4 @@
-name: Daily Java Q&A Automation
+name: Daily Java Q&A 
 
 on:
   push:
