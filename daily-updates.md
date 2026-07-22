@@ -4995,3 +4995,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-22
+
+### ❓ What are the key differences between using a thread pool and manually managing threads for each task?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
