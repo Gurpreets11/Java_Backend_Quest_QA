@@ -5061,3 +5061,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-23
+
+### ❓ What is the Read-Write Lock pattern, and how does it differ from a standard lock in managing access to shared resources?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
