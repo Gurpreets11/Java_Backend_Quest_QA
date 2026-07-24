@@ -5105,3 +5105,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-24
+
+### ❓ What is the Fork-Join pattern, and how does it help in parallelizing tasks that can be broken down into smaller sub-tasks?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
