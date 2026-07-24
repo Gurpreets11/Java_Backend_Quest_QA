@@ -5094,3 +5094,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-24
+
+### ❓ Can you explain how Starvation and Deadlock can occur when using Read-Write Locks, and how to prevent them?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
