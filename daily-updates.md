@@ -5160,3 +5160,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-25
+
+### ❓ Can you explain how Futures are used to retrieve results of tasks that are being processed in separate threads?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
