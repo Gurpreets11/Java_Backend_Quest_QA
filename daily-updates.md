@@ -5149,3 +5149,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-25
+
+### ❓ What are the Future and Promise patterns, and how do they help in handling asynchronous tasks in a concurrent system?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
