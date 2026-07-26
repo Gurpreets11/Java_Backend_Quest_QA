@@ -5193,3 +5193,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-26
+
+### ❓ What is a Semaphore and how is it used to control access to shared resources in a concurrent system?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
