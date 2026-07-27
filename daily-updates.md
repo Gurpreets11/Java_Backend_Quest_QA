@@ -5215,3 +5215,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-27
+
+### ❓ Can you explain the difference between counting semaphores and binary semaphores?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
