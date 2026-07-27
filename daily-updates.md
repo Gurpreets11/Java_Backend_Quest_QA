@@ -5237,3 +5237,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-27
+
+### ❓ What is the Monitor Object pattern, and how does it facilitate synchronized access to an objects state in a concurrent system?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
