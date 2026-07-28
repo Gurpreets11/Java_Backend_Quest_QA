@@ -5259,3 +5259,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-28
+
+### ❓ Can you explain the difference between a monitor object and a mutex?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
