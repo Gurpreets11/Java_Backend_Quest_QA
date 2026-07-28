@@ -5270,3 +5270,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-28
+
+### ❓ How would you use the Monitor Object pattern to manage the concurrency of a shared resource, like a counter, in a Java application?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
