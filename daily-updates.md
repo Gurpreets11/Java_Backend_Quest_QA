@@ -5325,3 +5325,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-29
+
+### ❓ How does the CountDownLatch work in Java, and how is it used to coordinate multiple threads?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
