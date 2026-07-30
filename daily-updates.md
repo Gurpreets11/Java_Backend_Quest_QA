@@ -5369,3 +5369,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-30
+
+### ❓ Can you explain the difference between a CyclicBarrier and a CountDownLatch, and when would you choose one over the other?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
