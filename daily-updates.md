@@ -5413,3 +5413,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-31
+
+### ❓ Can you describe the Template Method pattern and how it defines the structure of an algorithm while allowing subclasses to redefine certain steps?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
