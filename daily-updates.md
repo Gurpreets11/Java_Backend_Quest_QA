@@ -5424,3 +5424,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-31
+
+### ❓ How does the Interpreter pattern allow you to interpret a language or grammar?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
