@@ -5391,3 +5391,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-07-31
+
+### ❓ What is the Null Object pattern, and how does it help avoid null reference checks?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
