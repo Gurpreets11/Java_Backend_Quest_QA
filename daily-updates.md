@@ -5457,3 +5457,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-01
+
+### ❓ What is Dependency Injection (DI) in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
