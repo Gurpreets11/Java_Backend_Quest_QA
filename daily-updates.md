@@ -5468,3 +5468,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-01
+
+### ❓ What are the types of Dependency Injection supported in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
