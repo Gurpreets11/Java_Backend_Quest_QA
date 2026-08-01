@@ -5435,3 +5435,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-01
+
+### ❓ What is the Proxy pattern, and in what situations would it be appropriate to use it?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
