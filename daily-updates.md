@@ -5490,3 +5490,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-02
+
+### ❓ How does the Spring IoC container work?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
