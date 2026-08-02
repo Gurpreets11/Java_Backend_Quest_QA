@@ -5501,3 +5501,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-02
+
+### ❓ What is the difference between BeanFactory and ApplicationContext?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
