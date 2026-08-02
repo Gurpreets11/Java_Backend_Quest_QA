@@ -5512,3 +5512,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-02
+
+### ❓ How do you configure beans in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
