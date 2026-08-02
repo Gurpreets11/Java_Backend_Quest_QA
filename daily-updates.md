@@ -5479,3 +5479,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-02
+
+### ❓ What is Inversion of Control (IoC)?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
