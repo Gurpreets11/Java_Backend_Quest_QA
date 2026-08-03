@@ -5523,3 +5523,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-03
+
+### ❓ Explain the Spring bean lifecycle.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
