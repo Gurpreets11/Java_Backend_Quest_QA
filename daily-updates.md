@@ -5534,3 +5534,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-03
+
+### ❓ What are the different scopes of Spring beans?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
