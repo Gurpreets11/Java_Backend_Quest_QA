@@ -5545,3 +5545,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-03
+
+### ❓ What is a singleton bean, and how does it differ from a prototype bean?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
