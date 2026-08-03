@@ -5556,3 +5556,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-03
+
+### ❓ How do you define bean dependencies in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
