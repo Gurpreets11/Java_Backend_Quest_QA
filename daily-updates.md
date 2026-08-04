@@ -5578,3 +5578,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-04
+
+### ❓ How does autowiring work in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
