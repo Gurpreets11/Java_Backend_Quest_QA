@@ -5589,3 +5589,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-04
+
+### ❓ What are the different types of autowiring in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
