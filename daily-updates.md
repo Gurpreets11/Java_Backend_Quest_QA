@@ -5611,3 +5611,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-05
+
+### ❓ How do you resolve circular dependencies in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
