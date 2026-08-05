@@ -5633,3 +5633,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-05
+
+### ❓ How can you inject collections (List, Set, Map) in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
