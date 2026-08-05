@@ -5644,3 +5644,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-05
+
+### ❓ What are profiles in Spring, and how are they used?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
