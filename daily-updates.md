@@ -5677,3 +5677,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-06
+
+### ❓ What is the use of the @Lazy annotation in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
