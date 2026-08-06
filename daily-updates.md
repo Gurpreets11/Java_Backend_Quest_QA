@@ -5655,3 +5655,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-06
+
+### ❓ How do you enable a profile in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
