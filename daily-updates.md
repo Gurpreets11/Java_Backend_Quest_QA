@@ -5721,3 +5721,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-07
+
+### ❓ What is the role of the @Scope annotation?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
