@@ -5688,3 +5688,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-07
+
+### ❓ What is the role of @Configuration in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
