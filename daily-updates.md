@@ -5699,3 +5699,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-07
+
+### ❓ Explain the difference between @Component, @Service, and @Repository.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
