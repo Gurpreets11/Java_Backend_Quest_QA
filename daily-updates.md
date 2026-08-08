@@ -5754,3 +5754,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-08
+
+### ❓ How does Spring handle internationalization (i18n)?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
