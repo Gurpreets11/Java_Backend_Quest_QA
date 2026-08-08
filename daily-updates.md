@@ -5765,3 +5765,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-08
+
+### ❓ How do you manage external properties in Spring applications?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
