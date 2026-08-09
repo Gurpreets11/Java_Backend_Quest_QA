@@ -5809,3 +5809,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-09
+
+### ❓ What is a factory bean in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
