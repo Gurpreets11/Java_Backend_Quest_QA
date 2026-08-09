@@ -5787,3 +5787,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-09
+
+### ❓ How do you define static and dynamic properties in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
