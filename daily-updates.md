@@ -5798,3 +5798,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-09
+
+### ❓ What are Spring events, and how do you publish/subscribe to them?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
