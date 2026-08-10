@@ -5842,3 +5842,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-10
+
+### ❓ What is a stereotype annotation in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
