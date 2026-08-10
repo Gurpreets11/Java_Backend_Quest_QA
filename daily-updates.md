@@ -5853,3 +5853,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-10
+
+### ❓ How do you handle exceptions at the global level in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
