@@ -5831,3 +5831,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-10
+
+### ❓ What is the difference between @Bean and @Component?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
