@@ -5820,3 +5820,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-10
+
+### ❓ How do you programmatically register beans in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
