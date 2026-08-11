@@ -5875,3 +5875,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-11
+
+### ❓ Explain the key concepts of AOP (Aspect, Advice, JoinPoint, Pointcut).
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
