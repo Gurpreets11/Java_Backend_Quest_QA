@@ -5886,3 +5886,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-11
+
+### ❓ What are the different types of advice in Spring AOP?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
