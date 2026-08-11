@@ -5897,3 +5897,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-11
+
+### ❓ How does AOP work internally in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
