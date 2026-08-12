@@ -5941,3 +5941,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-12
+
+### ❓ What is a proxy in AOP, and why is it used?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
