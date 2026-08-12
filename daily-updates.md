@@ -5908,3 +5908,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-12
+
+### ❓ What is the difference between Spring AOP and AspectJ?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
