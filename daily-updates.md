@@ -5919,3 +5919,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-12
+
+### ❓ What are the limitations of Spring AOP?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
