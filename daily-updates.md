@@ -5930,3 +5930,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-12
+
+### ❓ How do you create a custom aspect in Spring?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
