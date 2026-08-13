@@ -5963,3 +5963,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-13
+
+### ❓ How do you apply AOP only to specific beans?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
