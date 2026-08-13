@@ -5974,3 +5974,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-13
+
+### ❓ What is a JoinPoint in AOP?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
