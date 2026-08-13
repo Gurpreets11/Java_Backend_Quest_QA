@@ -5985,3 +5985,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-13
+
+### ❓ How do you define an AfterReturning advice?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
