@@ -6007,3 +6007,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-14
+
+### ❓ How do you enable AOP in a Spring application?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
