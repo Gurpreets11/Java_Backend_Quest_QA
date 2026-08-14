@@ -5996,3 +5996,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-14
+
+### ❓ What is the role of @Aspect annotation?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
