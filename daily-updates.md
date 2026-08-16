@@ -6084,3 +6084,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-16
+
+### ❓ How do you configure a Spring MVC application?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
