@@ -6106,3 +6106,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-16
+
+### ❓ How does @RestController differ from @Controller?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
