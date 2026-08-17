@@ -6161,3 +6161,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-17
+
+### ❓ How do you bind request parameters to method parameters?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
