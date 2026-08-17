@@ -6139,3 +6139,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-17
+
+### ❓ How do you handle path variables in Spring MVC?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
