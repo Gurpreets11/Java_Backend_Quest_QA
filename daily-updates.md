@@ -6150,3 +6150,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-17
+
+### ❓ What is the purpose of the @PathVariable annotation?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
