@@ -6194,3 +6194,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-18
+
+### ❓ How do you integrate Thymeleaf with Spring MVC?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
