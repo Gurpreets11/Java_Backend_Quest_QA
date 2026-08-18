@@ -6183,3 +6183,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-18
+
+### ❓ What is a ViewResolver in Spring MVC?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
