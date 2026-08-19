@@ -6227,3 +6227,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-19
+
+### ❓ How do you implement file upload in Spring MVC?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
