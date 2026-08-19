@@ -6216,3 +6216,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-19
+
+### ❓ What is the purpose of the @ExceptionHandler annotation?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
