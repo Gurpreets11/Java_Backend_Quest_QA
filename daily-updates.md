@@ -6260,3 +6260,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-20
+
+### ❓ How do you implement a custom interceptor in Spring MVC?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
