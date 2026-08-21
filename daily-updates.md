@@ -6304,3 +6304,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-21
+
+### ❓ What is the purpose of Spring Boot starters?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
