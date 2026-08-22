@@ -6381,3 +6381,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-22
+
+### ❓ How do you configure a database in Spring Boot?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
