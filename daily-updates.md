@@ -6425,3 +6425,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-23
+
+### ❓ How does Spring Boot support scheduling?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
