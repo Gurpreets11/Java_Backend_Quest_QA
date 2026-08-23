@@ -6414,3 +6414,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-23
+
+### ❓ How do you configure logging in Spring Boot?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
