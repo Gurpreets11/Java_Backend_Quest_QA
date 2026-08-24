@@ -6469,3 +6469,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-24
+
+### ❓ How do you deploy a Spring Boot application?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
