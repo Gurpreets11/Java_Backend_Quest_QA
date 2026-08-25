@@ -6480,3 +6480,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-25
+
+### ❓ What are Spring Boot profiles?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
