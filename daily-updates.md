@@ -6513,3 +6513,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-25
+
+### ❓ What is the difference between @RestController and @Controller in Spring Boot?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
