@@ -6491,3 +6491,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-25
+
+### ❓ How do you configure a custom banner in Spring Boot?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
