@@ -6524,3 +6524,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-26
+
+### ❓ How do you handle exceptions in Spring Boot?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
