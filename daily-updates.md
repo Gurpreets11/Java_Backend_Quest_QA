@@ -6568,3 +6568,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-27
+
+### ❓ How do you create custom queries in Spring Data JPA?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
