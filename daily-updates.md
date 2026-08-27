@@ -6579,3 +6579,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-27
+
+### ❓ What is the purpose of @Query in Spring Data JPA?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
