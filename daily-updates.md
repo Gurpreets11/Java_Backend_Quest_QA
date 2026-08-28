@@ -6590,3 +6590,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-28
+
+### ❓ How does pagination work in Spring Data?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
