@@ -6601,3 +6601,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-28
+
+### ❓ How do you configure Spring Data JPA with Spring Boot?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
