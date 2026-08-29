@@ -6612,3 +6612,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-29
+
+### ❓ What is the difference between Lazy and Eager loading in JPA?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
