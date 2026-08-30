@@ -6656,3 +6656,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-30
+
+### ❓ What is the role of UserDetails and GrantedAuthority in Spring Security?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
