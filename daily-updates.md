@@ -6678,3 +6678,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-30
+
+### ❓ What is the difference between authentication and authorization?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
