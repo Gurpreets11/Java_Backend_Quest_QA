@@ -6700,3 +6700,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-31
+
+### ❓ How do you configure Spring Security using Java configuration?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
