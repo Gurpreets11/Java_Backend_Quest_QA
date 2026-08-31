@@ -6689,3 +6689,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-08-31
+
+### ❓ What is the role of the @EnableWebSecurity annotation?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
