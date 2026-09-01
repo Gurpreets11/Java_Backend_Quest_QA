@@ -6722,3 +6722,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-01
+
+### ❓ How does Spring Security handle user authentication?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
