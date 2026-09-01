@@ -6744,3 +6744,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-01
+
+### ❓ How do you configure custom authentication in Spring Security?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
