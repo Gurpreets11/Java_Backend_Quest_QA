@@ -6733,3 +6733,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-01
+
+### ❓ What is the difference between AuthenticationManager and AuthorizationManager?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
