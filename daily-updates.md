@@ -6799,3 +6799,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-02
+
+### ❓ How do you enable method-level security in Spring Security?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
