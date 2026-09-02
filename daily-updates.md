@@ -6766,3 +6766,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-02
+
+### ❓ How do you configure role-based access control in Spring Security?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
