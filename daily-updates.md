@@ -6777,3 +6777,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-02
+
+### ❓ How does Spring Security implement CSRF protection?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
