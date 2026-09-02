@@ -6788,3 +6788,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-02
+
+### ❓ What is the purpose of the @PreAuthorize and @PostAuthorize annotations?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
