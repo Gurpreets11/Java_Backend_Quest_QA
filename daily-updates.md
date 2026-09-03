@@ -6821,3 +6821,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-03
+
+### ❓ How do you configure password encoding in Spring Security?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
