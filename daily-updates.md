@@ -6843,3 +6843,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-03
+
+### ❓ What is the difference between OAuth2 and JWT?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
