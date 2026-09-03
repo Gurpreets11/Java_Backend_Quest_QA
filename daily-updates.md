@@ -6832,3 +6832,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-03
+
+### ❓ How does Spring Security support OAuth2?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
