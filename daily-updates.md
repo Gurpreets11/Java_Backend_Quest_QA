@@ -6887,3 +6887,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-04
+
+### ❓ What is the purpose of a SecurityContext?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
