@@ -6865,3 +6865,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-04
+
+### ❓ How does Spring Security handle session management?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
