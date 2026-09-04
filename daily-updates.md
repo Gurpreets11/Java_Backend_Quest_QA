@@ -6854,3 +6854,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-04
+
+### ❓ How do you configure a login form in Spring Security?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
