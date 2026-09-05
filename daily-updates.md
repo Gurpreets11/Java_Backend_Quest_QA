@@ -6920,3 +6920,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-05
+
+### ❓ How do you secure RESTful web services in Spring Security?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
