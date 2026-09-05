@@ -6931,3 +6931,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-05
+
+### ❓ How does Spring Security integrate with third-party authentication providers?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
