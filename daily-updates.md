@@ -7030,3 +7030,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-08
+
+### ❓ How does the Eureka Server work?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
