@@ -7041,3 +7041,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-08
+
+### ❓ How do you configure a Eureka Client?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
