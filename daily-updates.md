@@ -7074,3 +7074,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-09
+
+### ❓ How do you integrate Feign with Spring Boot?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
