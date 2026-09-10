@@ -7118,3 +7118,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-10
+
+### ❓ What is Spring Cloud Gateway, and how does it differ from Zuul?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
