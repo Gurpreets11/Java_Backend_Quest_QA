@@ -7151,3 +7151,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-10
+
+### ❓ How do you configure centralized logging in Spring Cloud?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
