@@ -7206,3 +7206,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-12
+
+### ❓ How does Spring Cloud handle service discovery?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
