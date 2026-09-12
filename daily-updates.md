@@ -7228,3 +7228,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-12
+
+### ❓ How do you use the spring.cloud.config.uri property?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
