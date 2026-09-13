@@ -7283,3 +7283,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-13
+
+### ❓ How do you use the @RefreshScope annotation?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
