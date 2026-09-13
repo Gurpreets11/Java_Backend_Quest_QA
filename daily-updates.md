@@ -7250,3 +7250,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-13
+
+### ❓ How does Spring Cloud handle resilience and fault tolerance?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
