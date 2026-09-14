@@ -7305,3 +7305,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-14
+
+### ❓ How do you implement rate-limiting in Spring Cloud Gateway?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
