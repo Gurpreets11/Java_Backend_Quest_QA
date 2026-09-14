@@ -7316,3 +7316,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-14
+
+### ❓ How does Spring Cloud support Canary Deployments?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
