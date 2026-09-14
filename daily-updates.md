@@ -7294,3 +7294,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-14
+
+### ❓ What is the difference between Spring Cloud Gateway and an API Gateway?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
