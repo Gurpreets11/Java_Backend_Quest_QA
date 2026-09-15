@@ -7360,3 +7360,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-15
+
+### ❓ How do you integrate Spring Cloud with Kafka or RabbitMQ?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
