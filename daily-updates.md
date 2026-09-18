@@ -7459,3 +7459,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-18
+
+### ❓ How does a MessageHandler work in Spring Integration?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
