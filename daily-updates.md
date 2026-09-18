@@ -7492,3 +7492,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-18
+
+### ❓ What is an Endpoint in Spring Integration?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
