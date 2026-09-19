@@ -7514,3 +7514,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-19
+
+### ❓ How do you configure an outbound channel adapter?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
