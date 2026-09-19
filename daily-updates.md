@@ -7536,3 +7536,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-19
+
+### ❓ What are Splitters and Aggregators in Spring Integration?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
