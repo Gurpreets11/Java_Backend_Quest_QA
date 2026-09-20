@@ -7580,3 +7580,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-20
+
+### ❓ How do you integrate external systems using Spring Integration?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
