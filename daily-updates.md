@@ -7613,3 +7613,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-21
+
+### ❓ How do you integrate a Spring Integration application with RabbitMQ or Kafka?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
