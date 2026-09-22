@@ -7635,3 +7635,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-22
+
+### ❓ What is Spring Batch, and why is it used?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
