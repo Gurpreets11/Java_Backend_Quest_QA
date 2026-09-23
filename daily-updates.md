@@ -7679,3 +7679,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-23
+
+### ❓ Explain the role of ItemReader, ItemProcessor, and ItemWriter in Spring Batch.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
