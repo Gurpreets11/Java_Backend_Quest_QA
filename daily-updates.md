@@ -7668,3 +7668,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-23
+
+### ❓ What are Steps in Spring Batch, and how are they related to Jobs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
