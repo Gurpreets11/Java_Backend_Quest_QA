@@ -7690,3 +7690,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-23
+
+### ❓ How do you configure a Job in Spring Batch?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
