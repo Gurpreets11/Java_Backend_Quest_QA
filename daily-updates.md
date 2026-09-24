@@ -7723,3 +7723,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-24
+
+### ❓ How do you handle retries in Spring Batch?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
