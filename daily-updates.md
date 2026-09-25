@@ -7789,3 +7789,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-25
+
+### ❓ What are the different types of ItemReader available in Spring Batch?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
