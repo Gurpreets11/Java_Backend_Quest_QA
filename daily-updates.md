@@ -7778,3 +7778,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-25
+
+### ❓ How do you persist batch metadata in a database?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
