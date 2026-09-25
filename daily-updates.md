@@ -7756,3 +7756,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-25
+
+### ❓ How do you implement skip logic in Spring Batch?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
