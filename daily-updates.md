@@ -7811,3 +7811,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-26
+
+### ❓ How do you use a JdbcCursorItemReader in Spring Batch?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
