@@ -7833,3 +7833,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-26
+
+### ❓ How do you configure a job to run incrementally?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
