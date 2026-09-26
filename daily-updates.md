@@ -7800,3 +7800,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-26
+
+### ❓ How do you use a FlatFileItemReader?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
