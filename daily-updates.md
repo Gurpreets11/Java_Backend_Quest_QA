@@ -7855,3 +7855,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-27
+
+### ❓ How do you implement partitioning in Spring Batch?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
