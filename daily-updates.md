@@ -7866,3 +7866,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-27
+
+### ❓ What is the purpose of StepScope in Spring Batch?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
