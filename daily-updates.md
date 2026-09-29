@@ -7921,3 +7921,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-29
+
+### ❓ How do you test Spring applications?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
