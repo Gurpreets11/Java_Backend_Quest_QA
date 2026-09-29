@@ -7943,3 +7943,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-29
+
+### ❓ How do you use Mockito in Spring testing?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
