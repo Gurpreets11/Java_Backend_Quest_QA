@@ -7932,3 +7932,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-29
+
+### ❓ What is the role of @SpringBootTest?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
