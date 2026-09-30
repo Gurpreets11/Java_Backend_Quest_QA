@@ -7954,3 +7954,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-09-30
+
+### ❓ How do you test a Spring MVC Controller?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
