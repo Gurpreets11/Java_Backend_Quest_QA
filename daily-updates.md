@@ -7998,3 +7998,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-01
+
+### ❓ What are the common HTTP methods used in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
