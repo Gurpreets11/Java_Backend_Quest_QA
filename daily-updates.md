@@ -7987,3 +7987,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-01
+
+### ❓ Define a resource in the context of REST.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
