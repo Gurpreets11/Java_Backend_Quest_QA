@@ -8009,3 +8009,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-01
+
+### ❓ What is the difference between a URI and a URL?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
