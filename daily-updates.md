@@ -8020,3 +8020,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-02
+
+### ❓ Explain the term statelessness in REST.
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
