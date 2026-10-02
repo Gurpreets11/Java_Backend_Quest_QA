@@ -8031,3 +8031,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-02
+
+### ❓ What is idempotence, and which HTTP methods are idempotent?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
