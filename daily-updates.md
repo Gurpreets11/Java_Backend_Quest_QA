@@ -8086,3 +8086,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-03
+
+### ❓ What are the common HTTP status codes used in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
