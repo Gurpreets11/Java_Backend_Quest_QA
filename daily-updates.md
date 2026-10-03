@@ -8053,3 +8053,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-03
+
+### ❓ When would you use PATCH instead of PUT?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
