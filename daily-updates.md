@@ -8075,3 +8075,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-03
+
+### ❓ How do you handle errors in a RESTful API?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
