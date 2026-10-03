@@ -8064,3 +8064,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-03
+
+### ❓ What is the role of HTTP status codes in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
