@@ -8108,3 +8108,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-04
+
+### ❓ How does REST differ from SOAP?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
