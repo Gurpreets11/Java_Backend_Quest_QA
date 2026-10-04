@@ -8130,3 +8130,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-04
+
+### ❓ How do you design RESTful endpoints?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
