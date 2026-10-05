@@ -8141,3 +8141,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-05
+
+### ❓ What are the best practices for naming RESTful resources?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
