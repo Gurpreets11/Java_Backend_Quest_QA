@@ -8163,3 +8163,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-05
+
+### ❓ What are query parameters in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
