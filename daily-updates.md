@@ -8185,3 +8185,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-06
+
+### ❓ What is a nested resource in REST?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
