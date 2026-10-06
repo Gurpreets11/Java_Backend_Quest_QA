@@ -8174,3 +8174,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-06
+
+### ❓ How do you structure a REST API for a large application?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
