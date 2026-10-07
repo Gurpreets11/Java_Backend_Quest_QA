@@ -8207,3 +8207,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-07
+
+### ❓ What are the best practices for designing secure REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
