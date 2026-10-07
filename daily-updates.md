@@ -8229,3 +8229,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-07
+
+### ❓ How do you differentiate between hierarchical and flat URIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
