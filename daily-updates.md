@@ -8218,3 +8218,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-07
+
+### ❓ What is the role of the OPTIONS method in REST?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
