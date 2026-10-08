@@ -8251,3 +8251,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-08
+
+### ❓ How does token-based authentication work in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
