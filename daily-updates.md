@@ -8240,3 +8240,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-08
+
+### ❓ What are the common methods of securing REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
