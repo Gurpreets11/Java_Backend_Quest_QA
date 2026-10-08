@@ -8262,3 +8262,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-08
+
+### ❓ What is the difference between OAuth and JWT?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
