@@ -8273,3 +8273,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-09
+
+### ❓ What is Basic Authentication?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
