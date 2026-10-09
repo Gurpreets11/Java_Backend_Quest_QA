@@ -8295,3 +8295,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-09
+
+### ❓ What are CORS, and why is it important in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
