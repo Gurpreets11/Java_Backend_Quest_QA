@@ -8284,3 +8284,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-09
+
+### ❓ How do you implement API rate limiting?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
