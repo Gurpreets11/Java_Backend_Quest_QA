@@ -8328,3 +8328,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-10
+
+### ❓ How do you prevent CSRF attacks in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
