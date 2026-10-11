@@ -8361,3 +8361,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-11
+
+### ❓ What is caching in REST APIs, and how is it implemented?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
