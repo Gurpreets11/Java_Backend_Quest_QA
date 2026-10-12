@@ -8372,3 +8372,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-12
+
+### ❓ What is the role of HTTP caching headers like Cache-Control and ETag?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
