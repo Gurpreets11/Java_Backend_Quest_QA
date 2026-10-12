@@ -8383,3 +8383,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-12
+
+### ❓ How does content negotiation work in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
