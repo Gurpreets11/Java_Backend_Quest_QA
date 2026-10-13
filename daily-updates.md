@@ -8394,3 +8394,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-13
+
+### ❓ What is gzip compression, and how is it used in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
