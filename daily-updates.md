@@ -8427,3 +8427,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-14
+
+### ❓ What are rate limiting and throttling in the context of REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
