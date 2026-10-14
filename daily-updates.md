@@ -8460,3 +8460,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-14
+
+### ❓ What tools can be used to test REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
