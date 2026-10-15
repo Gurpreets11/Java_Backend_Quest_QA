@@ -8493,3 +8493,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-15
+
+### ❓ How do you handle and log errors in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
