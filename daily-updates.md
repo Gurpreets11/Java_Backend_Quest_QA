@@ -8504,3 +8504,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-15
+
+### ❓ What are mock APIs, and why are they used?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
