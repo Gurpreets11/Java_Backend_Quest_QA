@@ -8471,3 +8471,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-15
+
+### ❓ How do you validate the request and response of a REST API?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
