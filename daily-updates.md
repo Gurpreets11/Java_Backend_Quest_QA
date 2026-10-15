@@ -8482,3 +8482,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-15
+
+### ❓ What is Postman, and how is it used for REST API testing?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
