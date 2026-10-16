@@ -8548,3 +8548,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-16
+
+### ❓ What are the common challenges in testing REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
