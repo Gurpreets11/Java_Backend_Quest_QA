@@ -8526,3 +8526,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-16
+
+### ❓ What is Swagger, and how is it used for API documentation?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
