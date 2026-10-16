@@ -8515,3 +8515,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-16
+
+### ❓ How do you test for security vulnerabilities in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
