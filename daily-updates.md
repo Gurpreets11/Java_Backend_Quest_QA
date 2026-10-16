@@ -8537,3 +8537,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-16
+
+### ❓ How do you handle debugging in a live REST API environment?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
