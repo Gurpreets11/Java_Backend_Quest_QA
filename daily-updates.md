@@ -8559,3 +8559,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-17
+
+### ❓ What is the role of integration testing in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
