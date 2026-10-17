@@ -8592,3 +8592,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-17
+
+### ❓ What are the pros and cons of REST vs. GraphQL?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
