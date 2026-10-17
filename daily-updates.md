@@ -8581,3 +8581,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-17
+
+### ❓ How do you implement HATEOAS in a REST API?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
