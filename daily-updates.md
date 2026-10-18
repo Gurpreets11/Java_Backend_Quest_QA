@@ -8636,3 +8636,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-18
+
+### ❓ How do you handle API deprecation?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
