@@ -8614,3 +8614,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-18
+
+### ❓ What are webhooks, and how do they relate to REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
