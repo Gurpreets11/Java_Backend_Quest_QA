@@ -8669,3 +8669,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-19
+
+### ❓ What is the difference between synchronous and asynchronous REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
