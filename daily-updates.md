@@ -8680,3 +8680,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-20
+
+### ❓ How do you integrate REST APIs with frontend frameworks?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
