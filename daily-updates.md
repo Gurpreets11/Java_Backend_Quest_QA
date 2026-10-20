@@ -8702,3 +8702,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-20
+
+### ❓ How do you use API gateways like Kong or Apigee with REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
