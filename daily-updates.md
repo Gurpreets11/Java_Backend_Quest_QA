@@ -8691,3 +8691,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-20
+
+### ❓ What is the role of REST APIs in microservices architecture?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
