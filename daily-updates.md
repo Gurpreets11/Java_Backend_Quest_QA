@@ -8713,3 +8713,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-20
+
+### ❓ What is the purpose of a service registry in RESTful services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
