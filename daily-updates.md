@@ -8724,3 +8724,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-21
+
+### ❓ How do you integrate REST APIs with third-party services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
