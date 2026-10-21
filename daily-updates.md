@@ -8746,3 +8746,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-21
+
+### ❓ How do you use tools like OpenAPI/Swagger for API design?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
