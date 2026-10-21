@@ -8735,3 +8735,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-21
+
+### ❓ What is the importance of rate limiting for external APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
