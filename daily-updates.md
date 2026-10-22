@@ -8790,3 +8790,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-22
+
+### ❓ How do you handle database transactions in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
