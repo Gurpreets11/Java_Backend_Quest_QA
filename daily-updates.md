@@ -8801,3 +8801,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-22
+
+### ❓ What is the difference between relational and non-relational databases for REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
