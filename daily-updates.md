@@ -8812,3 +8812,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-23
+
+### ❓ How do you implement soft deletes in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
