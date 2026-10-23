@@ -8834,3 +8834,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-23
+
+### ❓ How do you handle relationships between resources in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
