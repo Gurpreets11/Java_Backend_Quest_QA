@@ -8856,3 +8856,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-24
+
+### ❓ How do you implement optimistic locking in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
