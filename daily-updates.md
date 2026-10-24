@@ -8889,3 +8889,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-24
+
+### ❓ What is the N+1 problem, and how do you solve it in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
