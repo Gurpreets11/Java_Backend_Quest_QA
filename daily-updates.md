@@ -8922,3 +8922,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-25
+
+### ❓ How do you handle downtime during REST API deployment?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
