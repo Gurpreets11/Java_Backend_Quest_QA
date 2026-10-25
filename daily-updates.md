@@ -8900,3 +8900,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-25
+
+### ❓ How do you design a REST API for a social media application?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
