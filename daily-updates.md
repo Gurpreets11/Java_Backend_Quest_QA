@@ -8933,3 +8933,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-25
+
+### ❓ What is a long-running REST API operation, and how do you handle it?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
