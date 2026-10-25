@@ -8911,3 +8911,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-25
+
+### ❓ What are the challenges of scaling a REST API?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
