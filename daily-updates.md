@@ -8944,3 +8944,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-26
+
+### ❓ How do you implement a REST API for file uploads?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
