@@ -8966,3 +8966,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-26
+
+### ❓ How do you monitor REST APIs in production?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
