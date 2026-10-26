@@ -8955,3 +8955,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-26
+
+### ❓ What is the role of REST APIs in Internet of Things (IoT) systems?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
