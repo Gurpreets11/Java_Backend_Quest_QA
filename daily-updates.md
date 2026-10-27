@@ -8999,3 +8999,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-27
+
+### ❓ What is the role of REST APIs in mobile applications?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
