@@ -8988,3 +8988,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-27
+
+### ❓ How do you ensure compliance with standards like GDPR in REST APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
