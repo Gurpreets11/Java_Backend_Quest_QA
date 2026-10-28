@@ -9021,3 +9021,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-28
+
+### ❓ How does REST work with containerized environments like Docker?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
