@@ -9065,3 +9065,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-29
+
+### ❓ What is the difference between public, private, and partner APIs?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
