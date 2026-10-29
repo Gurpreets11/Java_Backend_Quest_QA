@@ -9076,3 +9076,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-29
+
+### ❓ How do you handle backward compatibility in a REST API ecosystem?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
