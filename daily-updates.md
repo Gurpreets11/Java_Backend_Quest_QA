@@ -9087,3 +9087,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-30
+
+### ❓ What is API metering, and how is it implemented?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
