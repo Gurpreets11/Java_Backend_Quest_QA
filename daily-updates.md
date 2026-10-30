@@ -9109,3 +9109,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-30
+
+### ❓ How do you manage REST API lifecycle and versioning?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
