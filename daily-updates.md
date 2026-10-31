@@ -9153,3 +9153,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-10-31
+
+### ❓ What is the difference between SOAP and REST web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
