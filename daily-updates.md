@@ -9208,3 +9208,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-02
+
+### ❓ What are the differences between RPC-style and document-style web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
