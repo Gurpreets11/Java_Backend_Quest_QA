@@ -9263,3 +9263,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-04
+
+### ❓ What are the differences between SOAP 1.1 and SOAP 1.2?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
