@@ -9274,3 +9274,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-04
+
+### ❓ What are SOAP faults, and how are they handled?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
