@@ -9296,3 +9296,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-05
+
+### ❓ How does SOAP handle data binding?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
