@@ -9307,3 +9307,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-06
+
+### ❓ What is the difference between binding style and use in WSDL?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
