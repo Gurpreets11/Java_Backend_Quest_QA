@@ -9329,3 +9329,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-06
+
+### ❓ What are the advantages and disadvantages of using SOAP over REST?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
