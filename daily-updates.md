@@ -9362,3 +9362,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-07
+
+### ❓ What are the differences between REST and SOAP?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
