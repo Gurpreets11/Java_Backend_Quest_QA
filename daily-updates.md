@@ -9395,3 +9395,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-08
+
+### ❓ How do you handle security in RESTful web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
