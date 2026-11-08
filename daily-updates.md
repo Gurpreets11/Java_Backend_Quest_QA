@@ -9373,3 +9373,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-08
+
+### ❓ How are resources represented in RESTful web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
