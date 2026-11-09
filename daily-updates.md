@@ -9406,3 +9406,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-09
+
+### ❓ What is content negotiation in RESTful web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
