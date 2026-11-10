@@ -9428,3 +9428,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-10
+
+### ❓ What is HATEOAS, and why is it important?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
