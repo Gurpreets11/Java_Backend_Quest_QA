@@ -9461,3 +9461,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-11
+
+### ❓ What is the difference between authentication and authorization in web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
