@@ -9494,3 +9494,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-12
+
+### ❓ What are OAuth and OpenID Connect, and how are they used in web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
