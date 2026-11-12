@@ -9483,3 +9483,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-12
+
+### ❓ What is Basic Authentication, and how is it implemented in web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
