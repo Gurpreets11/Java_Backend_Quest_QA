@@ -9516,3 +9516,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-13
+
+### ❓ How do you implement API key-based authentication for web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
