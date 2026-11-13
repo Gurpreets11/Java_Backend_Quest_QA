@@ -9527,3 +9527,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-13
+
+### ❓ What are the common vulnerabilities in web services, and how do you mitigate them?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
