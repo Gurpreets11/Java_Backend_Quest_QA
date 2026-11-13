@@ -9538,3 +9538,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-13
+
+### ❓ What is Cross-Origin Resource Sharing (CORS), and why is it important?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
