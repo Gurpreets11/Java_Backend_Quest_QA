@@ -9571,3 +9571,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-14
+
+### ❓ What is the difference between WSDL and Swagger/OpenAPI?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
