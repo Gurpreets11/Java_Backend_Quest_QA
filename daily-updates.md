@@ -9593,3 +9593,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-15
+
+### ❓ What is XML-RPC, and how does it differ from SOAP?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
