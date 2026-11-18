@@ -9670,3 +9670,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-18
+
+### ❓ What are the challenges of scaling web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
