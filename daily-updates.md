@@ -9703,3 +9703,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-19
+
+### ❓ What is the difference between client-side and server-side caching?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
