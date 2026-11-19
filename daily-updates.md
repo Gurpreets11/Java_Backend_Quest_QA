@@ -9692,3 +9692,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-19
+
+### ❓ What is caching, and how is it used in web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
