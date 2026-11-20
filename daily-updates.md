@@ -9714,3 +9714,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-20
+
+### ❓ How do you handle large data in web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
