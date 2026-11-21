@@ -9736,3 +9736,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-21
+
+### ❓ How do you handle rate limiting in web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
