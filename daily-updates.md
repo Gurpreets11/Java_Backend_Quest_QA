@@ -9747,3 +9747,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-21
+
+### ❓ What is load balancing, and how is it applied to web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
