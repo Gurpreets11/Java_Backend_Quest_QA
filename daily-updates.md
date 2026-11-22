@@ -9769,3 +9769,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-22
+
+### ❓ What is a long-polling request, and when is it used?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
