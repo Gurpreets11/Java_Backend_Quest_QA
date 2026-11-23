@@ -9791,3 +9791,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-23
+
+### ❓ How do you validate a SOAP request and response?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
