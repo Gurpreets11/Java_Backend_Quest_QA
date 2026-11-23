@@ -9802,3 +9802,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-23
+
+### ❓ What is the role of Postman in testing RESTful web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
