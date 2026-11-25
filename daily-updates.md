@@ -9835,3 +9835,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-25
+
+### ❓ What is SOAPUI, and how is it used?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
