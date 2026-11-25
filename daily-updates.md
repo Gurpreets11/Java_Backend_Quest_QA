@@ -9846,3 +9846,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-25
+
+### ❓ What is the difference between unit testing and integration testing in web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
