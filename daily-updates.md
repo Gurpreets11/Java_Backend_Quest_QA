@@ -9857,3 +9857,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-26
+
+### ❓ How do you debug issues in a web service?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
