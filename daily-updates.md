@@ -9879,3 +9879,14 @@ Answer not found. Please update manually.
 ```
 
 ---
+
+## 🗓️ 2026-11-27
+
+### ❓ How do you test for security vulnerabilities in web services?
+
+**Answer:**
+```
+Answer not found. Please update manually.
+```
+
+---
